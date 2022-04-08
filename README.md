@@ -1,4 +1,3 @@
-{% include lib/mathjax.html %}
 ## Shape-based Evaluation of Epidemic Forecasts
 
 ## Definitions
@@ -13,17 +12,6 @@ __Stable-dec__: [5, 4, 3, 2, 1], i.e., linear but decreasing<br>
 __Surge__: [exp(-1/2) ,exp(0/2), exp(1/2), exp(2/2), exp(3/2)], i.e., like exp(x)<br>
 __Peaking__: - [exp(1/2) ,exp(0/2) ,exp(-1/2) ,exp(-2/2), exp(-3/2)], i.e., like -exp(-x)<br>
 __At/near peak__:  - [exp(-1/2), exp(0/2), exp(1/2), exp(2/2), exp(3/2)], i.e., like -exp(x)
-
-
-### Pearson Correlation:
-
-<img src="https://editor.analyticsvidhya.com/uploads/39170Formula.JPG" width="400" height="500">
-
-### Cosine Similarity
-cosine similarity for comparing the two vectors, which is defined as follows:
-\begin{equation}
-\cos ({\bf t},{\bf e})= {{\bf t} {\bf e} \over \|{\bf t}\| \|{\bf e}\|} = \frac{ \sum_{i=1}^{n}{{\bf t}_i{\bf e}_i} }{ \sqrt{\sum_{i=1}^{n}{({\bf t}_i)^2}} \sqrt{\sum_{i=1}^{n}{({\bf e}_i)^2}} }
-\end{equation}
 
 
 ## Broard Steps
