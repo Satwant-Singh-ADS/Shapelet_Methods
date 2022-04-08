@@ -1,3 +1,4 @@
+{% include lib/mathjax.html %}
 ## Shape-based Evaluation of Epidemic Forecasts
 
 ## Definitions
