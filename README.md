@@ -4,7 +4,7 @@
 
 Shapelet : We define a shapelet as a vector that describes one of the shapes of interest in the trend of an epidemic. <br>
 
-Shapelet Space: A set of shapelets that cover all shapes of interest.
+Shapelet Space: A set of shapelets that cover all shapes of interest.<br>
 __Stable-inc__: [1 ,2, 3, 4, 5], i.e., linear<br>
 __Stable-dec__: [5, 4, 3, 2, 1], i.e., linear but decreasing<br>
 __Surge__: [exp(-1/2) ,exp(0/2), exp(1/2), exp(2/2), exp(3/2)], i.e., like exp(x)<br>
