@@ -2,7 +2,7 @@ from imports import *
 
 Runtype = "Cases"#### choose Deaths for generating results for deaths and Cases for generating case results
 
-
+Evaluation_files_github ='../../Data_Sources/Evaluation/'
 if Runtype =='Cases':
     print("Process will run for Cases")
 
@@ -15,6 +15,7 @@ if Runtype =='Cases':
     pickle_path = Input_path+"Pickle_Objects/"
 
     Visualization_path = Input_path+"Visualizations/"
+     
 else:
     print("Process will run for Deaths")
     Input_path = '../../Data_Sources/Deaths/'
