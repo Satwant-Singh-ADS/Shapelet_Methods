@@ -1,6 +1,6 @@
 from imports import *
 
-Runtype = "Cases"#### choose Deaths for generating results for deaths and Cases for generating case results
+Runtype = "Deaths"#### choose Deaths for generating results for deaths and Cases for generating case results
 
 Evaluation_files_github ='../../Data_Sources/Evaluation/'
 if Runtype =='Cases':
