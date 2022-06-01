@@ -1,7 +1,8 @@
 from imports import *
 
-Runtype = "Deaths"#### choose Deaths for generating results for deaths and Cases for generating case results
-
+Runtype = "Deaths"#### 2 values Cases and Deaths. choose Deaths for generating results for deaths and Cases for generating case results
+qualifying_threshold = 10
+### basically not all models should be part of the analysis. we want to use only those models which made submissions beyond a certain numbe rof weeks. Currently set to 60 weeks. you can change that 
 Evaluation_files_github ='../../Data_Sources/Evaluation/'
 if Runtype =='Cases':
     print("Process will run for Cases")
@@ -29,11 +30,8 @@ else:
     Visualization_path = Input_path+"Visualizations/"
 
 
-export_visualizations = True ### when this is set to True, visualizations will be expored. If False, visualizations will only be displayed not exported
-Data_refresh = 0 
-
-# Smoothening_param= 3 ### make it dynamic in code below 
-
+export_visualizations = False ### when this is set to True, visualizations will be expored. If False, visualizations will only be displayed not exported
+Data_refresh = 0   ### we use Model forecasts data. each model each week csv file with 4 weeks ahead predictions. If our data has not refreshed from last run, we should skip this preprocessing step of loading csvf iles . then we use a pickle file with all preprocessing done.  
 
 ### if it is set to 1, data processing of all models needs to be done. As is this needs to be set1 when we feel model data need to be updated else 0
 
@@ -41,19 +39,21 @@ Data_refresh = 0
 #### Ignore model List 
 Ignore_model_list  = []
 
-Ignore_State_list = ['Illinois', 'Arizona', 'Massachusetts',
-       'Wisconsin', 'Texas', 'Nebraska', 'Utah', 'Oregon','United States','Washington',
-       'New York', 'Rhode Island', 'Georgia', 'New Hampshire',
-       'North Carolina', 'New Jersey', 'Colorado', 'Maryland', 'Nevada',
-       'Tennessee', 'Hawaii', 'Indiana', 'Kentucky', 'Minnesota',
-       'Oklahoma', 'Pennsylvania', 'South Carolina',
-       'District of Columbia', 'Kansas', 'Missouri', 'Vermont',
-       'Virginia', 'Connecticut', 'Iowa', 'Louisiana', 'Ohio', 'Michigan',
-       'South Dakota', 'Arkansas', 'Delaware', 'Mississippi',
-       'New Mexico', 'North Dakota', 'Wyoming', 'Alaska', 'Maine',
-       'Alabama', 'Idaho', 'Montana', 'Puerto Rico', 'Virgin Islands',
-       'Guam', 'West Virginia', 'Northern Mariana Islands',
-       'American Samoa']
+Ignore_State_list = []
+
+# Ignore_State_list = ['Illinois', 'Arizona', 'Massachusetts',
+#        'Wisconsin', 'Texas', 'Nebraska', 'Utah', 'Oregon','United States','Washington',
+#        'New York', 'Rhode Island', 'Georgia', 'New Hampshire',
+#        'North Carolina', 'New Jersey', 'Colorado', 'Maryland', 'Nevada',
+#        'Tennessee', 'Hawaii', 'Indiana', 'Kentucky', 'Minnesota',
+#        'Oklahoma', 'Pennsylvania', 'South Carolina',
+#        'District of Columbia', 'Kansas', 'Missouri', 'Vermont',
+#        'Virginia', 'Connecticut', 'Iowa', 'Louisiana', 'Ohio', 'Michigan',
+#        'South Dakota', 'Arkansas', 'Delaware', 'Mississippi',
+#        'New Mexico', 'North Dakota', 'Wyoming', 'Alaska', 'Maine',
+#        'Alabama', 'Idaho', 'Montana', 'Puerto Rico', 'Virgin Islands',
+#        'Guam', 'West Virginia', 'Northern Mariana Islands',
+#        'American Samoa']
 
 # select_state_list = ["Florida"]
 
