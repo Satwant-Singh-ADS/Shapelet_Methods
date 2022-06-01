@@ -1,0 +1,60 @@
+Important instructions for smoothly running the process
+
+Mainly there are 2 folders
+1) Codes
+2) Data Sources
+
+1) Codes ->
+
+1) Shapelet_Demo.ipynb : This notebook has been developed to explain the general concept of shapetlet tansformation and its usages in forecasting tasks.
+
+There are two types of estimations which we have used. 1) Point and 2) Quantile based. There are separate codes for both the approaches. Strutcure is pretty much the same.
+
+
+1) Quantiles Preprocessing Code- ALL models.ipynb : This is the end to end code for Quantile Based approach.
+2) Quantiles Preprocessing Code - Development.ipynb : This notebook is the development code for testing minor changes in the approach. Unit testing purposes. 
+
+3) main.ipynb : This is the development code for point based estimation. This code runs end to end but is too lengthy and cumbursome for end user. so we made a new folder called modularized. That folder contains a modular approach in running the process
+
+Details of Modular Folder
+
+1) imports.py : It contains list of all the libraries used in the code
+2) configs.py : There are several hyperparameters which are used in the process. To tweak them, user simply needs to make changes in config file. For example, I want to run process for California, I can make changes in config file and so on. Each hyper parameter in cofnig file is explained in detail in config file
+
+3) Similarity_fxns.py : Currently we are making use of certain user defined functions while calculating similarity scores, for introducing new methods, make changes in this file
+
+4)preprocessing.py : All the data preprocessing, data wrangling and manipulations are performed in this file.
+
+5)modular_main.ipynb : This is the man code which calls all the other python codes and is used by end user for generating visualizations and other analysis.
+
+6)Covid_WBench_gen.ipynb : This code is used to generate evaluation files for Covid-WorkBench UI.
+
+
+2) Data Sources ->
+Now lets talk about Data_Sources Folder.
+
+We have two forecasts, 1 for cases, 1 for deaths. Since we want to ensure modularity, dedicated folder structure is used for eachof them.
+
+1) Cases --> Here all the model input files, visualization results, output csv files, intermediate pickle files are stored.
+2) Deaths --> Here all the model input files, visualization results, output csv files, intermediate pickle files are stored.
+3) Evaluation --> Here Evaluation files for covid19 work bench are stored
+4) quantile_preprocessing --> Here Sample File for developing quantile approach pipeline is stored.
+
+
+
+########## Major Input Sources ###############################
+
+1) Covid-19 Actual Incidence file. It is coming from a github repo. I have made a local copy but to use a latest version, refer github link.
+
+Cases : Classification_task/Data_Sources/Cases/Input_Files/Actual_Incidence_Data/US_actual_data.csv
+Deaths : Classification_task/Data_Sources/Deaths/Input_Files/Actual_Incidence_Data/US_actual_data.csv
+
+2) Model Forecasts Data: Models generate case/death forecasts every week. Prof has a ssc github repo where he stores processed forecast files. 
+Classification_task/Data_Sources/Cases/Input_Files/Model_Forecasts_Data/US-COVID/state-case
+Update this folder for latest results.
+
+3) Quantile based model forecasts; For using quantile data, I had to use raw forcasts data coming from this github link.
+https://github.com/reichlab/covid19-forecast-hub/tree/master/data-processed
+
+
+
