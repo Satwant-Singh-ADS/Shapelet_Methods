@@ -1,88 +1,4 @@
-from configs import *
-
-
-
-import time
-import pandas as pd
-
-import numpy as np
-
-from numpy import corrcoef as pcor
-
-from numpy import exp as exp
-from scipy import spatial
-
-from itertools import combinations
-
-import pickle
-
-from datetime import datetime, timedelta
-
-from matplotlib.pyplot import figure
-import matplotlib.pyplot as plt
-import numpy as np
-
-
-#### Used to convert numeric week to Date format basis logic of adding number to 22 Jan 2020
-def date_formatting(week_nbr):
-# week_nbr = 164
-    t = 'Jan 22 2020'
-    format = '%b %d %Y'
-    now = datetime.strptime(t,format)
-    after = now + timedelta(days = int(week_nbr))
-    return after.date().strftime("%m/%d/%Y")
-
-### based on underlying similzrity function, generates similatity matrix
-def similarity_metrix(vector1,vector2):
-    '''
-    Here we have given user the flexibility to change the similarity function. Currently we have made it pearson correlation but it can be cosine
-    
-    1 - spatial.distance.cosine(vector1, vector2)
-    '''
-    similarity_value = pcor(vector1,vector2)[0][1]
-    return similarity_value
-
-### calculates score with all standard shapes and return standard shape with highlest similarity score
-def return_best_shapelet_pearson(vector):
-    correlation_lst = []
-    corrs = []
-    for i in range(len(shapelet_standard_array)):
-        score = similarity_metrix(shapelet_standard_array[i],vector)
-        correlation_lst.append(shapelet_standard_names[i])
-        corrs.append(score)
-    scenario = corrs.index(max(corrs))
-    return correlation_lst[scenario]
-
-### generate similairty score vector for all standard shapes compared with inpyt vector    
-def return_all_shapelet_pearson(vector):
-#     correlation_lst = []
-    corrs = []
-    for i in range(len(shapelet_standard_array)):
-        score = similarity_metrix(shapelet_standard_array[i],vector)
-#         correlation_lst.append(shapelet_standard_names[i])
-        corrs.append(score)
-    return corrs
-
-import glob,re
-
-from scipy import spatial
-
-def cosine_sim(dataSetI,dataSetII):
-    return 1 - spatial.distance.cosine(dataSetI, dataSetII)
-
-### function to sort data frame columns in increasing number of week nbr
-def sort_df_name(df_master1):
-    df_master = df_master1.reset_index()
-    week_names = [int(w) for w in list(df_master.columns[1:-1])]
-    week_names.sort()
-    cols= ['State']
-    cols.extend(week_names)
-    return df_master[cols]
-
-
-
-
-
+from Similarity_fxns import *
 
 ##################### Preprocessing Code ###########################################
 
@@ -238,8 +154,6 @@ for k,v in pairwise_dissimilairty.items():
     pairwise_dissimilairty[k] = v/overall_sum
     
     
-
-import pickle
 
 with open(pickle_path+'ShapeLet_loss_weight.pickle', 'wb') as handle:
     pickle.dump(pairwise_dissimilairty, handle, protocol=pickle.HIGHEST_PROTOCOL)
@@ -495,7 +409,6 @@ print("Total Number of Iterations {}".format(ddd))
 print("Total number of impuations {}".format(impu))
 
 
-import pickle
 
 with open(pickle_path+'State_model_Week_vector_shapelet_Actual_dict.pickle', 'wb') as handle:
     pickle.dump(State_model_Week_vector_shapelet_Actual_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
@@ -767,6 +680,9 @@ for state in State_list_plotting:
             print(key)
     State_week_avg_ensemble[state] =Week_averge_cosine 
 
+
+    
+Master_df_actual_VS_Model_Agrrement.to_csv(Ouput_path+"Master_df_actual_VS_Model_Agrrement.csv")
 
 
 Master_df_actual_VS_Model_Agrrement_1 = Master_df_actual_VS_Model_Agrrement[Master_df_actual_VS_Model_Agrrement['State'].isin(State_list_plotting)]

@@ -1,0 +1,1995 @@
+,Week Number,Model Name,Predicted Label,True Label,Cosine Similarty,State
+0,591,FH_RobertWalraven_ESG,Peaking,Near Peak,0.0076,California
+1,591,FH_CU_nochange,Peaking,Near Peak,-0.084,California
+2,591,FH_CU_scenario_low,Peaking,Near Peak,-0.099,California
+3,591,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.2441,California
+4,591,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.3626,California
+5,591,FH_CU_scenario_mid,Peaking,Near Peak,-0.071,California
+6,591,FH_TTU_squider,Peaking,Near Peak,-0.2355,California
+7,591,FH_Karlen_pypm,Peaking,Near Peak,0.0598,California
+8,591,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.1859,California
+9,591,FH_CEID_Walk,Peaking,Near Peak,-0.1529,California
+10,591,USC_SI_kJalpha,Peaking,Near Peak,-0.0659,California
+11,591,FH_BPagano_RtDriven,Peaking,Near Peak,0.0316,California
+12,591,FH_COVIDhub_ensemble,Peaking,Near Peak,0.0181,California
+13,591,FH_CU_select,Peaking,Near Peak,-0.099,California
+14,591,FH_LANL_GrowthRate,Peaking,Near Peak,-0.1251,California
+15,591,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,0.8511,California
+16,234,FH_RobertWalraven_ESG,Peaking,Dec,-0.3485,California
+17,234,FH_JHUAPL_Bucky,Peaking,Dec,-0.925,California
+18,234,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9181,California
+19,234,FH_Karlen_pypm,Peaking,Dec,-0.8563,California
+20,234,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9698,California
+21,234,FH_CEID_Walk,Peaking,Dec,-0.9461,California
+22,234,USC_SI_kJalpha,Peaking,Dec,-0.112,California
+23,234,FH_COVIDhub_ensemble,Peaking,Dec,-0.8961,California
+24,234,FH_CU_select,Peaking,Dec,-0.995,California
+25,234,FH_LANL_GrowthRate,Peaking,Dec,-0.3624,California
+26,234,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.788,California
+27,542,FH_RobertWalraven_ESG,Peaking,Flat,-0.0633,California
+28,542,FH_CU_nochange,Inc,Flat,0.3196,California
+29,542,FH_CU_scenario_low,Peaking,Flat,0.2812,California
+30,542,FH_JHUAPL_Bucky,Surge,Flat,0.4199,California
+31,542,FH_JHU_IDD_CovidSP,Dec,Flat,-0.0591,California
+32,542,FH_CU_scenario_mid,Peaking,Flat,0.2312,California
+33,542,FH_TTU_squider,Peaking,Flat,-0.4339,California
+34,542,FH_Karlen_pypm,Inc,Flat,0.329,California
+35,542,FH_UMich_RidgeTfReg,Peaking,Flat,-0.0114,California
+36,542,FH_CEID_Walk,Peaking,Flat,0.1253,California
+37,542,USC_SI_kJalpha,Surge,Flat,0.4203,California
+38,542,FH_BPagano_RtDriven,Peaking,Flat,0.2838,California
+39,542,FH_COVIDhub_ensemble,Peaking,Flat,0.2137,California
+40,542,FH_CU_select,Peaking,Flat,0.2812,California
+41,542,FH_LANL_GrowthRate,Peaking,Flat,0.2196,California
+42,542,FH_CovidAnalytics_DELPHI,Peaking,Flat,0.2194,California
+43,416,FH_RobertWalraven_ESG,Near Peak,Dec,0.7046,California
+44,416,FH_CU_nochange,Peaking,Dec,-0.8921,California
+45,416,FH_CU_scenario_low,Peaking,Dec,-0.9023,California
+46,416,FH_JHUAPL_Bucky,Peaking,Dec,-0.1961,California
+47,416,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8784,California
+48,416,FH_CU_scenario_mid,Peaking,Dec,-0.9257,California
+49,416,FH_TTU_squider,Peaking,Dec,-0.3301,California
+50,416,FH_Karlen_pypm,Peaking,Dec,-0.5156,California
+51,416,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9671,California
+52,416,FH_CEID_Walk,Peaking,Dec,-0.9544,California
+53,416,USC_SI_kJalpha,Peaking,Dec,-0.5585,California
+54,416,FH_BPagano_RtDriven,Peaking,Dec,-0.8217,California
+55,416,FH_COVIDhub_ensemble,Peaking,Dec,-0.8753,California
+56,416,FH_CU_select,Peaking,Dec,-0.9257,California
+57,416,FH_LANL_GrowthRate,Peaking,Dec,-0.9591,California
+58,416,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.0485,California
+59,423,FH_RobertWalraven_ESG,Peaking,Dec,-0.429,California
+60,423,FH_CU_nochange,Peaking,Dec,-0.9494,California
+61,423,FH_CU_scenario_low,Peaking,Dec,-0.9205,California
+62,423,FH_JHUAPL_Bucky,Peaking,Dec,-0.927,California
+63,423,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9731,California
+64,423,FH_CU_scenario_mid,Peaking,Dec,-0.9541,California
+65,423,FH_TTU_squider,Near Peak,Dec,0.1839,California
+66,423,FH_Karlen_pypm,Peaking,Dec,-0.7835,California
+67,423,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9944,California
+68,423,FH_CEID_Walk,Peaking,Dec,-0.9646,California
+69,423,USC_SI_kJalpha,Peaking,Dec,-0.5723,California
+70,423,FH_BPagano_RtDriven,Peaking,Dec,-0.8518,California
+71,423,FH_COVIDhub_ensemble,Peaking,Dec,-0.9165,California
+72,423,FH_CU_select,Peaking,Dec,-0.9205,California
+73,423,FH_LANL_GrowthRate,Peaking,Dec,-0.9575,California
+74,423,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.1059,California
+75,577,FH_RobertWalraven_ESG,Peaking,Peaking,0.9759,California
+76,577,FH_CU_nochange,Peaking,Peaking,0.9998,California
+77,577,FH_CU_scenario_low,Peaking,Peaking,0.9968,California
+78,577,FH_JHUAPL_Bucky,Peaking,Peaking,0.9881,California
+79,577,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9977,California
+80,577,FH_CU_scenario_mid,Peaking,Peaking,0.9962,California
+81,577,FH_TTU_squider,Peaking,Peaking,0.9997,California
+82,577,FH_Karlen_pypm,Peaking,Peaking,0.9896,California
+83,577,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9998,California
+84,577,FH_CEID_Walk,Peaking,Peaking,0.9895,California
+85,577,USC_SI_kJalpha,Peaking,Peaking,0.9983,California
+86,577,FH_BPagano_RtDriven,Peaking,Peaking,0.9987,California
+87,577,FH_COVIDhub_ensemble,Peaking,Peaking,0.9938,California
+88,577,FH_CU_select,Peaking,Peaking,0.9968,California
+89,577,FH_LANL_GrowthRate,Peaking,Peaking,0.9951,California
+90,577,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.7216,California
+91,549,FH_RobertWalraven_ESG,Peaking,Surge,0.8783,California
+92,549,FH_CU_nochange,Inc,Surge,0.9772,California
+93,549,FH_CU_scenario_low,Peaking,Surge,0.9704,California
+94,549,FH_JHUAPL_Bucky,Inc,Surge,0.9821,California
+95,549,FH_JHU_IDD_CovidSP,Peaking,Surge,0.9129,California
+96,549,FH_CU_scenario_mid,Peaking,Surge,0.9483,California
+97,549,FH_TTU_squider,Peaking,Surge,0.8668,California
+98,549,FH_Karlen_pypm,Inc,Surge,0.9898,California
+99,549,FH_UMich_RidgeTfReg,Peaking,Surge,0.922,California
+100,549,FH_CEID_Walk,Peaking,Surge,0.8928,California
+101,549,USC_SI_kJalpha,Inc,Surge,0.9768,California
+102,549,FH_BPagano_RtDriven,Peaking,Surge,0.898,California
+103,549,FH_COVIDhub_ensemble,Peaking,Surge,0.9286,California
+104,549,FH_CU_select,Peaking,Surge,0.9704,California
+105,549,FH_LANL_GrowthRate,Peaking,Surge,0.9283,California
+106,549,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.9463,California
+107,584,FH_RobertWalraven_ESG,Peaking,Peaking,0.9444,California
+108,584,FH_CU_nochange,Peaking,Peaking,0.986,California
+109,584,FH_CU_scenario_low,Peaking,Peaking,0.9859,California
+110,584,FH_JHUAPL_Bucky,Peaking,Peaking,0.9846,California
+111,584,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9895,California
+112,584,FH_CU_scenario_mid,Peaking,Peaking,0.9796,California
+113,584,FH_TTU_squider,Peaking,Peaking,0.9504,California
+114,584,FH_Karlen_pypm,Peaking,Peaking,0.9532,California
+115,584,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9885,California
+116,584,FH_CEID_Walk,Peaking,Peaking,0.9716,California
+117,584,USC_SI_kJalpha,Peaking,Peaking,0.95,California
+118,584,FH_BPagano_RtDriven,Peaking,Peaking,0.9566,California
+119,584,FH_COVIDhub_ensemble,Peaking,Peaking,0.9698,California
+120,584,FH_CU_select,Peaking,Peaking,0.9859,California
+121,584,FH_LANL_GrowthRate,Peaking,Peaking,0.9784,California
+122,584,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.5282,California
+123,220,FH_RobertWalraven_ESG,Peaking,Dec,-0.7998,California
+124,220,FH_JHUAPL_Bucky,Peaking,Dec,-0.976,California
+125,220,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9485,California
+126,220,FH_Karlen_pypm,Peaking,Dec,-0.8834,California
+127,220,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9788,California
+128,220,FH_CEID_Walk,Peaking,Dec,-0.9574,California
+129,220,USC_SI_kJalpha,Peaking,Dec,-0.4482,California
+130,220,FH_COVIDhub_ensemble,Peaking,Dec,-0.9413,California
+131,220,FH_CU_select,Peaking,Dec,-0.9788,California
+132,220,FH_LANL_GrowthRate,Peaking,Dec,-0.7627,California
+133,220,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.903,California
+134,353,FH_RobertWalraven_ESG,Peaking,Peaking,0.9728,California
+135,353,FH_CU_nochange,Peaking,Peaking,0.9899,California
+136,353,FH_CU_scenario_low,Peaking,Peaking,0.9993,California
+137,353,FH_JHUAPL_Bucky,Peaking,Peaking,0.9234,California
+138,353,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9979,California
+139,353,FH_CU_scenario_mid,Peaking,Peaking,0.9895,California
+140,353,FH_TTU_squider,Peaking,Peaking,0.9267,California
+141,353,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9987,California
+142,353,FH_CEID_Walk,Peaking,Peaking,0.9985,California
+143,353,USC_SI_kJalpha,Peaking,Peaking,0.9966,California
+144,353,FH_BPagano_RtDriven,Peaking,Peaking,0.9965,California
+145,353,FH_COVIDhub_ensemble,Peaking,Peaking,0.9962,California
+146,353,FH_CU_select,Peaking,Peaking,0.9895,California
+147,353,FH_LANL_GrowthRate,Peaking,Peaking,0.9994,California
+148,353,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.3983,California
+149,339,FH_RobertWalraven_ESG,Peaking,Peaking,0.9378,California
+150,339,FH_CU_nochange,Peaking,Peaking,0.8155,California
+151,339,FH_CU_scenario_low,Peaking,Peaking,0.9019,California
+152,339,FH_JHUAPL_Bucky,Peaking,Peaking,0.9881,California
+153,339,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9682,California
+154,339,FH_CU_scenario_mid,Peaking,Peaking,0.9041,California
+155,339,FH_TTU_squider,Peaking,Peaking,0.9649,California
+156,339,FH_Karlen_pypm,Peaking,Peaking,0.9996,California
+157,339,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9734,California
+158,339,FH_CEID_Walk,Peaking,Peaking,0.9653,California
+159,339,USC_SI_kJalpha,Peaking,Peaking,0.9799,California
+160,339,FH_BPagano_RtDriven,Peaking,Peaking,0.9864,California
+161,339,FH_COVIDhub_ensemble,Peaking,Peaking,0.9555,California
+162,339,FH_CU_select,Peaking,Peaking,0.9041,California
+163,339,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.782,California
+164,367,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.6677,California
+165,367,FH_CU_nochange,Peaking,Near Peak,-0.7562,California
+166,367,FH_CU_scenario_low,Peaking,Near Peak,-0.7796,California
+167,367,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.1574,California
+168,367,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.8525,California
+169,367,FH_CU_scenario_mid,Peaking,Near Peak,-0.8387,California
+170,367,FH_TTU_squider,Peaking,Near Peak,-0.5295,California
+171,367,FH_Karlen_pypm,Peaking,Near Peak,-0.7943,California
+172,367,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9595,California
+173,367,FH_CEID_Walk,Peaking,Near Peak,-0.9113,California
+174,367,USC_SI_kJalpha,Peaking,Near Peak,-0.4491,California
+175,367,FH_BPagano_RtDriven,Peaking,Near Peak,-0.8651,California
+176,367,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.7776,California
+177,367,FH_CU_select,Peaking,Near Peak,-0.8387,California
+178,367,FH_LANL_GrowthRate,Peaking,Near Peak,-0.952,California
+179,367,FH_CovidAnalytics_DELPHI,Near Peak,Near Peak,0.4019,California
+180,192,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.7565,California
+181,192,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.8636,California
+182,192,FH_Karlen_pypm,Peaking,Near Peak,-0.781,California
+183,192,USC_SI_kJalpha,Peaking,Near Peak,-0.3003,California
+184,192,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8116,California
+185,192,FH_LANL_GrowthRate,Peaking,Near Peak,-0.5291,California
+186,192,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.826,California
+187,178,FH_RobertWalraven_ESG,Peaking,Peaking,0.9729,California
+188,178,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.998,California
+189,178,FH_Karlen_pypm,Peaking,Peaking,0.9989,California
+190,178,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9993,California
+191,178,USC_SI_kJalpha,Peaking,Peaking,0.6655,California
+192,178,FH_COVIDhub_ensemble,Peaking,Peaking,0.9717,California
+193,178,FH_LANL_GrowthRate,Peaking,Peaking,0.8694,California
+194,178,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.978,California
+195,430,FH_RobertWalraven_ESG,Peaking,Dec,-0.8458,California
+196,430,FH_CU_nochange,Peaking,Dec,-0.9735,California
+197,430,FH_CU_scenario_low,Peaking,Dec,-0.9465,California
+198,430,FH_JHUAPL_Bucky,Peaking,Dec,-0.9354,California
+199,430,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9684,California
+200,430,FH_CU_scenario_mid,Peaking,Dec,-0.9768,California
+201,430,FH_TTU_squider,Near Peak,Dec,0.3068,California
+202,430,FH_Karlen_pypm,Peaking,Dec,-0.9112,California
+203,430,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9929,California
+204,430,FH_CEID_Walk,Peaking,Dec,-0.9388,California
+205,430,USC_SI_kJalpha,Peaking,Dec,-0.8713,California
+206,430,FH_BPagano_RtDriven,Peaking,Dec,-0.934,California
+207,430,FH_COVIDhub_ensemble,Peaking,Dec,-0.9288,California
+208,430,FH_CU_select,Peaking,Dec,-0.9465,California
+209,430,FH_LANL_GrowthRate,Peaking,Dec,-0.9838,California
+210,430,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.0252,California
+211,381,FH_RobertWalraven_ESG,Peaking,Dec,-0.1922,California
+212,381,FH_CU_nochange,Peaking,Dec,-0.9768,California
+213,381,FH_CU_scenario_low,Peaking,Dec,-0.9439,California
+214,381,FH_JHUAPL_Bucky,Peaking,Dec,-0.0733,California
+215,381,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9275,California
+216,381,FH_CU_scenario_mid,Peaking,Dec,-0.9767,California
+217,381,FH_TTU_squider,Peaking,Dec,-0.4017,California
+218,381,FH_Karlen_pypm,Peaking,Dec,0.1424,California
+219,381,FH_UMich_RidgeTfReg,Near Peak,Dec,0.8203,California
+220,381,FH_CEID_Walk,Peaking,Dec,-0.9564,California
+221,381,USC_SI_kJalpha,Peaking,Dec,-0.4967,California
+222,381,FH_BPagano_RtDriven,Peaking,Dec,-0.7679,California
+223,381,FH_COVIDhub_ensemble,Peaking,Dec,-0.8064,California
+224,381,FH_CU_select,Peaking,Dec,-0.9767,California
+225,381,FH_LANL_GrowthRate,Peaking,Dec,-0.9624,California
+226,381,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.6433,California
+227,395,FH_RobertWalraven_ESG,Near Peak,Dec,0.6981,California
+228,395,FH_CU_nochange,Near Peak,Dec,0.1866,California
+229,395,FH_CU_scenario_low,Peaking,Dec,-0.4125,California
+230,395,FH_JHUAPL_Bucky,Near Peak,Dec,0.3855,California
+231,395,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9383,California
+232,395,FH_CU_scenario_mid,Peaking,Dec,-0.0847,California
+233,395,FH_TTU_squider,Peaking,Dec,-0.4649,California
+234,395,FH_Karlen_pypm,Near Peak,Dec,0.3178,California
+235,395,FH_UMich_RidgeTfReg,Near Peak,Dec,0.2183,California
+236,395,FH_CEID_Walk,Peaking,Dec,-0.9366,California
+237,395,USC_SI_kJalpha,Peaking,Dec,-0.3693,California
+238,395,FH_BPagano_RtDriven,Peaking,Dec,-0.5236,California
+239,395,FH_COVIDhub_ensemble,Peaking,Dec,-0.6108,California
+240,395,FH_CU_select,Peaking,Dec,-0.0847,California
+241,395,FH_LANL_GrowthRate,Peaking,Dec,-0.8862,California
+242,395,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.8095,California
+243,206,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.9379,California
+244,206,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.9549,California
+245,206,FH_Karlen_pypm,Peaking,Near Peak,-0.8838,California
+246,206,FH_CEID_Walk,Peaking,Near Peak,-0.93,California
+247,206,USC_SI_kJalpha,Peaking,Near Peak,-0.7604,California
+248,206,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.919,California
+249,206,FH_CU_select,Peaking,Near Peak,-0.9888,California
+250,206,FH_LANL_GrowthRate,Peaking,Near Peak,-0.7936,California
+251,206,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.9555,California
+252,619,FH_RobertWalraven_ESG,Peaking,Peaking,0.6523,California
+253,619,FH_CU_nochange,Peaking,Peaking,0.9168,California
+254,619,FH_CU_scenario_low,Peaking,Peaking,0.9232,California
+255,619,FH_JHUAPL_Bucky,Peaking,Peaking,0.8289,California
+256,619,FH_CU_scenario_mid,Peaking,Peaking,0.9209,California
+257,619,FH_TTU_squider,Peaking,Peaking,0.905,California
+258,619,FH_Karlen_pypm,Peaking,Peaking,0.2841,California
+259,619,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9175,California
+260,619,FH_CEID_Walk,Peaking,Peaking,0.9162,California
+261,619,USC_SI_kJalpha,Peaking,Peaking,0.9272,California
+262,619,FH_BPagano_RtDriven,Peaking,Peaking,0.8163,California
+263,619,FH_COVIDhub_ensemble,Peaking,Peaking,0.9181,California
+264,619,FH_CU_select,Peaking,Peaking,0.9232,California
+265,619,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.1707,California
+266,633,FH_RobertWalraven_ESG,Peaking,Dec,-0.6401,California
+267,633,FH_CU_nochange,Peaking,Dec,-0.965,California
+268,633,FH_CU_scenario_low,Peaking,Dec,-0.9728,California
+269,633,FH_JHUAPL_Bucky,Peaking,Dec,-0.9492,California
+270,633,FH_CU_scenario_mid,Peaking,Dec,-0.9649,California
+271,633,FH_TTU_squider,Peaking,Dec,-0.9377,California
+272,633,FH_Karlen_pypm,Peaking,Dec,-0.8324,California
+273,633,USC_SI_kJalpha,Peaking,Dec,-0.9083,California
+274,633,FH_BPagano_RtDriven,Peaking,Dec,-0.9477,California
+275,633,FH_COVIDhub_ensemble,Peaking,Dec,-0.9217,California
+276,633,FH_CU_select,Peaking,Dec,-0.9728,California
+277,633,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.5612,California
+278,388,FH_RobertWalraven_ESG,Near Peak,Near Peak,0.333,California
+279,388,FH_CU_nochange,Peaking,Near Peak,-0.6136,California
+280,388,FH_CU_scenario_low,Peaking,Near Peak,-0.7518,California
+281,388,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.5952,California
+282,388,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.9404,California
+283,388,FH_CU_scenario_mid,Peaking,Near Peak,-0.745,California
+284,388,FH_TTU_squider,Peaking,Near Peak,-0.2665,California
+285,388,FH_Karlen_pypm,Near Peak,Near Peak,0.3287,California
+286,388,FH_UMich_RidgeTfReg,Near Peak,Near Peak,0.933,California
+287,388,FH_CEID_Walk,Peaking,Near Peak,-0.9351,California
+288,388,USC_SI_kJalpha,Peaking,Near Peak,-0.4148,California
+289,388,FH_BPagano_RtDriven,Peaking,Near Peak,-0.42,California
+290,388,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.6121,California
+291,388,FH_CU_select,Peaking,Near Peak,-0.745,California
+292,388,FH_LANL_GrowthRate,Peaking,Near Peak,-0.9098,California
+293,388,FH_CovidAnalytics_DELPHI,Near Peak,Near Peak,0.8065,California
+294,185,FH_RobertWalraven_ESG,Inc,Peaking,0.9056,California
+295,185,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9718,California
+296,185,FH_Karlen_pypm,Peaking,Peaking,0.9427,California
+297,185,USC_SI_kJalpha,Peaking,Peaking,0.9856,California
+298,185,FH_COVIDhub_ensemble,Peaking,Peaking,0.986,California
+299,185,FH_LANL_GrowthRate,Peaking,Peaking,0.9833,California
+300,185,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.9852,California
+301,451,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.8933,California
+302,451,FH_CU_nochange,Peaking,Near Peak,-0.9593,California
+303,451,FH_CU_scenario_low,Peaking,Near Peak,-0.9314,California
+304,451,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.9437,California
+305,451,FH_JHU_IDD_CovidSP,Inc,Near Peak,-0.9962,California
+306,451,FH_CU_scenario_mid,Peaking,Near Peak,-0.933,California
+307,451,FH_TTU_squider,Near Peak,Near Peak,0.6247,California
+308,451,FH_Karlen_pypm,Peaking,Near Peak,-0.7768,California
+309,451,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9681,California
+310,451,FH_CEID_Walk,Peaking,Near Peak,-0.9308,California
+311,451,USC_SI_kJalpha,Peaking,Near Peak,-0.9045,California
+312,451,FH_BPagano_RtDriven,Peaking,Near Peak,-0.9742,California
+313,451,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.9371,California
+314,451,FH_CU_select,Peaking,Near Peak,-0.933,California
+315,451,FH_LANL_GrowthRate,Peaking,Near Peak,-0.9667,California
+316,451,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.2988,California
+317,332,FH_RobertWalraven_ESG,Peaking,Inc,0.9608,California
+318,332,FH_CU_nochange,Peaking,Inc,0.9004,California
+319,332,FH_CU_scenario_low,Peaking,Inc,0.9286,California
+320,332,FH_JHUAPL_Bucky,Peaking,Inc,0.9926,California
+321,332,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9789,California
+322,332,FH_CU_scenario_mid,Peaking,Inc,0.946,California
+323,332,FH_TTU_squider,Peaking,Inc,0.972,California
+324,332,FH_Karlen_pypm,Peaking,Inc,0.9987,California
+325,332,FH_UMich_RidgeTfReg,Peaking,Inc,0.9991,California
+326,332,USC_SI_kJalpha,Peaking,Inc,0.9843,California
+327,332,FH_BPagano_RtDriven,Peaking,Inc,0.9884,California
+328,332,FH_COVIDhub_ensemble,Peaking,Inc,0.9672,California
+329,332,FH_CU_select,Peaking,Inc,0.9286,California
+330,332,FH_LANL_GrowthRate,Peaking,Inc,0.9693,California
+331,332,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9798,California
+332,318,FH_RobertWalraven_ESG,Peaking,Inc,0.3964,California
+333,318,FH_CU_nochange,Peaking,Inc,0.9892,California
+334,318,FH_CU_scenario_low,Peaking,Inc,0.9744,California
+335,318,FH_JHUAPL_Bucky,Peaking,Inc,0.9789,California
+336,318,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9869,California
+337,318,FH_CU_scenario_mid,Peaking,Inc,0.9595,California
+338,318,FH_TTU_squider,Near Peak,Inc,-0.385,California
+339,318,FH_Karlen_pypm,Peaking,Inc,0.9952,California
+340,318,FH_CEID_Walk,Peaking,Inc,0.9396,California
+341,318,USC_SI_kJalpha,Peaking,Inc,0.986,California
+342,318,FH_BPagano_RtDriven,Peaking,Inc,0.9776,California
+343,318,FH_COVIDhub_ensemble,Peaking,Inc,0.9791,California
+344,318,FH_CU_select,Peaking,Inc,0.9744,California
+345,318,FH_LANL_GrowthRate,Peaking,Inc,0.9103,California
+346,318,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9452,California
+347,444,FH_RobertWalraven_ESG,Peaking,Dec,-0.9317,California
+348,444,FH_CU_nochange,Peaking,Dec,-0.9941,California
+349,444,FH_CU_scenario_low,Peaking,Dec,-0.9828,California
+350,444,FH_JHUAPL_Bucky,Peaking,Dec,-0.9488,California
+351,444,FH_JHU_IDD_CovidSP,Inc,Dec,-0.9997,California
+352,444,FH_CU_scenario_mid,Peaking,Dec,-0.9715,California
+353,444,FH_TTU_squider,Near Peak,Dec,0.3858,California
+354,444,FH_Karlen_pypm,Peaking,Dec,-0.8808,California
+355,444,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9893,California
+356,444,FH_CEID_Walk,Peaking,Dec,-0.9667,California
+357,444,USC_SI_kJalpha,Peaking,Dec,-0.964,California
+358,444,FH_BPagano_RtDriven,Peaking,Dec,-0.9732,California
+359,444,FH_COVIDhub_ensemble,Peaking,Dec,-0.9571,California
+360,444,FH_CU_select,Peaking,Dec,-0.9715,California
+361,444,FH_LANL_GrowthRate,Peaking,Dec,-0.9851,California
+362,444,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.4857,California
+363,528,FH_RobertWalraven_ESG,Peaking,Flat,-0.9913,California
+364,528,FH_CU_nochange,Peaking,Flat,-0.8507,California
+365,528,FH_CU_scenario_low,Peaking,Flat,-0.8758,California
+366,528,FH_JHUAPL_Bucky,Inc,Flat,-0.845,California
+367,528,FH_JHU_IDD_CovidSP,Peaking,Flat,-0.9949,California
+368,528,FH_CU_scenario_mid,Peaking,Flat,-0.9019,California
+369,528,FH_TTU_squider,Peaking,Flat,-0.9836,California
+370,528,FH_Karlen_pypm,Inc,Flat,-0.8384,California
+371,528,FH_UMich_RidgeTfReg,Peaking,Flat,-0.9581,California
+372,528,FH_CEID_Walk,Peaking,Flat,-0.9509,California
+373,528,USC_SI_kJalpha,Peaking,Flat,-0.9641,California
+374,528,FH_BPagano_RtDriven,Peaking,Flat,-0.9053,California
+375,528,FH_COVIDhub_ensemble,Peaking,Flat,-0.9695,California
+376,528,FH_CU_select,Peaking,Flat,-0.9019,California
+377,528,FH_LANL_GrowthRate,Peaking,Flat,-0.9336,California
+378,528,FH_CovidAnalytics_DELPHI,Peaking,Flat,-0.9806,California
+379,255,FH_RobertWalraven_ESG,Peaking,Dec,-0.577,California
+380,255,FH_CU_nochange,Peaking,Dec,-0.9498,California
+381,255,FH_CU_scenario_low,Peaking,Dec,-0.793,California
+382,255,FH_JHUAPL_Bucky,Peaking,Dec,-0.9045,California
+383,255,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9042,California
+384,255,FH_CU_scenario_mid,Peaking,Dec,-0.9472,California
+385,255,FH_TTU_squider,Near Peak,Dec,0.8769,California
+386,255,FH_Karlen_pypm,Peaking,Dec,-0.841,California
+387,255,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9781,California
+388,255,FH_CEID_Walk,Peaking,Dec,-0.959,California
+389,255,USC_SI_kJalpha,Peaking,Dec,-0.9022,California
+390,255,FH_COVIDhub_ensemble,Peaking,Dec,-0.9179,California
+391,255,FH_CU_select,Peaking,Dec,-0.9472,California
+392,255,FH_LANL_GrowthRate,Peaking,Dec,-0.6326,California
+393,255,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.6324,California
+394,241,FH_RobertWalraven_ESG,Peaking,Dec,-0.5068,California
+395,241,FH_JHUAPL_Bucky,Peaking,Dec,-0.9066,California
+396,241,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8651,California
+397,241,FH_Karlen_pypm,Peaking,Dec,-0.7936,California
+398,241,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9484,California
+399,241,FH_CEID_Walk,Peaking,Dec,-0.9153,California
+400,241,USC_SI_kJalpha,Peaking,Dec,-0.8412,California
+401,241,FH_COVIDhub_ensemble,Peaking,Dec,-0.8498,California
+402,241,FH_CU_select,Peaking,Dec,-0.9904,California
+403,241,FH_LANL_GrowthRate,Peaking,Dec,-0.5738,California
+404,241,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.6908,California
+405,507,FH_RobertWalraven_ESG,Peaking,Inc,0.8578,California
+406,507,FH_CU_nochange,Peaking,Inc,0.9671,California
+407,507,FH_CU_scenario_low,Peaking,Inc,0.9476,California
+408,507,FH_JHUAPL_Bucky,Peaking,Inc,0.8349,California
+409,507,FH_JHU_IDD_CovidSP,Peaking,Inc,0.0203,California
+410,507,FH_CU_scenario_mid,Peaking,Inc,0.9421,California
+411,507,FH_TTU_squider,Peaking,Inc,0.6174,California
+412,507,FH_Karlen_pypm,Peaking,Inc,0.533,California
+413,507,FH_UMich_RidgeTfReg,Peaking,Inc,0.9042,California
+414,507,FH_CEID_Walk,Peaking,Inc,0.9582,California
+415,507,USC_SI_kJalpha,Inc,Inc,0.99,California
+416,507,FH_BPagano_RtDriven,Peaking,Inc,0.5699,California
+417,507,FH_COVIDhub_ensemble,Peaking,Inc,0.8696,California
+418,507,FH_CU_select,Peaking,Inc,0.9421,California
+419,507,FH_LANL_GrowthRate,Peaking,Inc,0.9453,California
+420,507,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.7219,California
+421,325,FH_RobertWalraven_ESG,Peaking,Inc,0.944,California
+422,325,FH_CU_nochange,Peaking,Inc,0.9674,California
+423,325,FH_CU_scenario_low,Peaking,Inc,0.95,California
+424,325,FH_JHUAPL_Bucky,Peaking,Inc,0.9874,California
+425,325,FH_JHU_IDD_CovidSP,Peaking,Inc,0.978,California
+426,325,FH_CU_scenario_mid,Peaking,Inc,0.9712,California
+427,325,FH_TTU_squider,Peaking,Inc,0.969,California
+428,325,FH_Karlen_pypm,Peaking,Inc,0.9944,California
+429,325,FH_CEID_Walk,Near Peak,Inc,-0.6482,California
+430,325,USC_SI_kJalpha,Peaking,Inc,0.9833,California
+431,325,FH_BPagano_RtDriven,Peaking,Inc,0.9705,California
+432,325,FH_COVIDhub_ensemble,Peaking,Inc,0.9574,California
+433,325,FH_CU_select,Peaking,Inc,0.95,California
+434,325,FH_LANL_GrowthRate,Peaking,Inc,0.9266,California
+435,325,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.915,California
+436,640,FH_RobertWalraven_ESG,Peaking,Dec,-0.8547,California
+437,640,FH_CU_nochange,Peaking,Dec,-0.9656,California
+438,640,FH_CU_scenario_low,Peaking,Dec,-0.9728,California
+439,640,FH_JHUAPL_Bucky,Peaking,Dec,-0.8817,California
+440,640,FH_CU_scenario_mid,Peaking,Dec,-0.9568,California
+441,640,FH_TTU_squider,Peaking,Dec,-0.8756,California
+442,640,FH_Karlen_pypm,Peaking,Dec,-0.8291,California
+443,640,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9498,California
+444,640,USC_SI_kJalpha,Peaking,Dec,-0.974,California
+445,640,FH_BPagano_RtDriven,Peaking,Dec,-0.8645,California
+446,640,FH_COVIDhub_ensemble,Peaking,Dec,-0.9198,California
+447,640,FH_CU_select,Peaking,Dec,-0.9728,California
+448,640,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.9434,California
+449,654,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.6846,California
+450,654,FH_CU_nochange,Peaking,Near Peak,-0.9394,California
+451,654,FH_CU_scenario_low,Peaking,Near Peak,-0.9478,California
+452,654,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.8497,California
+453,654,FH_CU_scenario_mid,Peaking,Near Peak,-0.8985,California
+454,654,FH_TTU_squider,Peaking,Near Peak,-0.7352,California
+455,654,FH_Karlen_pypm,Peaking,Near Peak,-0.7751,California
+456,654,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9162,California
+457,654,USC_SI_kJalpha,Peaking,Near Peak,-0.907,California
+458,654,FH_BPagano_RtDriven,Peaking,Near Peak,-0.9114,California
+459,654,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8692,California
+460,654,FH_CU_select,Peaking,Near Peak,-0.8985,California
+461,654,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.5999,California
+462,283,FH_RobertWalraven_ESG,Peaking,Surge,0.8557,California
+463,283,FH_CU_nochange,Peaking,Surge,0.9467,California
+464,283,FH_CU_scenario_low,Peaking,Surge,0.4238,California
+465,283,FH_JHUAPL_Bucky,Peaking,Surge,0.8038,California
+466,283,FH_JHU_IDD_CovidSP,Peaking,Surge,0.7661,California
+467,283,FH_CU_scenario_mid,Peaking,Surge,0.7673,California
+468,283,FH_TTU_squider,Peaking,Surge,0.2274,California
+469,283,FH_Karlen_pypm,Peaking,Surge,0.8591,California
+470,283,FH_UMich_RidgeTfReg,Peaking,Surge,0.8614,California
+471,283,FH_CEID_Walk,Peaking,Surge,0.8116,California
+472,283,USC_SI_kJalpha,Peaking,Surge,0.8752,California
+473,283,FH_BPagano_RtDriven,Peaking,Surge,0.9122,California
+474,283,FH_COVIDhub_ensemble,Peaking,Surge,0.8287,California
+475,283,FH_CU_select,Peaking,Surge,0.7673,California
+476,283,FH_LANL_GrowthRate,Peaking,Surge,0.8573,California
+477,283,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.3862,California
+478,276,FH_RobertWalraven_ESG,Peaking,Surge,0.1624,California
+479,276,FH_CU_nochange,Peaking,Surge,0.4323,California
+480,276,FH_CU_scenario_low,Peaking,Surge,0.1897,California
+481,276,FH_JHUAPL_Bucky,Peaking,Surge,0.233,California
+482,276,FH_JHU_IDD_CovidSP,Peaking,Surge,0.1705,California
+483,276,FH_CU_scenario_mid,Peaking,Surge,0.32,California
+484,276,FH_TTU_squider,Near Peak,Surge,-0.6831,California
+485,276,FH_Karlen_pypm,Peaking,Surge,0.2972,California
+486,276,FH_UMich_RidgeTfReg,Peaking,Surge,0.3391,California
+487,276,FH_CEID_Walk,Peaking,Surge,0.2607,California
+488,276,USC_SI_kJalpha,Peaking,Surge,0.348,California
+489,276,FH_BPagano_RtDriven,Peaking,Surge,0.4183,California
+490,276,FH_COVIDhub_ensemble,Peaking,Surge,0.2415,California
+491,276,FH_CU_select,Peaking,Surge,0.32,California
+492,276,FH_LANL_GrowthRate,Peaking,Surge,-0.2283,California
+493,276,FH_CovidAnalytics_DELPHI,Peaking,Surge,-0.3017,California
+494,248,FH_RobertWalraven_ESG,Peaking,Dec,-0.5872,California
+495,248,FH_JHUAPL_Bucky,Peaking,Dec,-0.9307,California
+496,248,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9163,California
+497,248,FH_Karlen_pypm,Peaking,Dec,-0.8577,California
+498,248,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9811,California
+499,248,FH_CEID_Walk,Peaking,Dec,-0.9645,California
+500,248,USC_SI_kJalpha,Peaking,Dec,-0.9003,California
+501,248,FH_COVIDhub_ensemble,Peaking,Dec,-0.9101,California
+502,248,FH_CU_select,Peaking,Dec,-0.9986,California
+503,248,FH_LANL_GrowthRate,Peaking,Dec,-0.6606,California
+504,248,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.73,California
+505,479,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.918,California
+506,479,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.806,California
+507,479,FH_TTU_squider,Near Peak,Near Peak,0.9202,California
+508,479,FH_Karlen_pypm,Peaking,Near Peak,-0.3225,California
+509,479,USC_SI_kJalpha,Peaking,Near Peak,-0.5623,California
+510,479,FH_BPagano_RtDriven,Peaking,Near Peak,-0.493,California
+511,479,FH_LANL_GrowthRate,Peaking,Near Peak,-0.9769,California
+512,493,FH_RobertWalraven_ESG,Peaking,Dec,-0.9757,California
+513,493,FH_CU_nochange,Peaking,Dec,-0.9921,California
+514,493,FH_CU_scenario_low,Peaking,Dec,-0.9649,California
+515,493,FH_JHUAPL_Bucky,Peaking,Dec,-0.9996,California
+516,493,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.7481,California
+517,493,FH_CU_scenario_mid,Peaking,Dec,-0.9955,California
+518,493,FH_TTU_squider,Peaking,Dec,-0.8966,California
+519,493,FH_Karlen_pypm,Near Peak,Dec,0.0472,California
+520,493,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9997,California
+521,493,FH_CEID_Walk,Peaking,Dec,-0.999,California
+522,493,USC_SI_kJalpha,Peaking,Dec,-0.6982,California
+523,493,FH_BPagano_RtDriven,Peaking,Dec,-0.338,California
+524,493,FH_CU_select,Peaking,Dec,-0.9955,California
+525,493,FH_LANL_GrowthRate,Peaking,Dec,-0.9996,California
+526,493,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.2906,California
+527,521,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.203,California
+528,521,FH_CU_nochange,Peaking,Near Peak,-0.6045,California
+529,521,FH_CU_scenario_low,Peaking,Near Peak,-0.5407,California
+530,521,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.6142,California
+531,521,FH_JHU_IDD_CovidSP,Near Peak,Near Peak,0.7905,California
+532,521,FH_CU_scenario_mid,Peaking,Near Peak,-0.553,California
+533,521,FH_TTU_squider,Peaking,Near Peak,-0.1321,California
+534,521,FH_Karlen_pypm,Peaking,Near Peak,-0.3139,California
+535,521,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.4884,California
+536,521,FH_CEID_Walk,Peaking,Near Peak,-0.5772,California
+537,521,USC_SI_kJalpha,Peaking,Near Peak,-0.6316,California
+538,521,FH_BPagano_RtDriven,Peaking,Near Peak,-0.6105,California
+539,521,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.5171,California
+540,521,FH_CU_select,Peaking,Near Peak,-0.553,California
+541,521,FH_LANL_GrowthRate,Peaking,Near Peak,-0.5656,California
+542,521,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.1202,California
+543,535,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.6335,California
+544,535,FH_CU_nochange,Peaking,Near Peak,-0.8401,California
+545,535,FH_CU_scenario_low,Peaking,Near Peak,-0.8111,California
+546,535,FH_JHUAPL_Bucky,Surge,Near Peak,-0.9069,California
+547,535,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.7364,California
+548,535,FH_CU_scenario_mid,Peaking,Near Peak,-0.7869,California
+549,535,FH_TTU_squider,Peaking,Near Peak,-0.3757,California
+550,535,FH_Karlen_pypm,Peaking,Near Peak,-0.8606,California
+551,535,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.6809,California
+552,535,FH_CEID_Walk,Peaking,Near Peak,-0.7205,California
+553,535,USC_SI_kJalpha,Peaking,Near Peak,-0.8287,California
+554,535,FH_BPagano_RtDriven,Peaking,Near Peak,-0.8331,California
+555,535,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.7615,California
+556,535,FH_CU_select,Peaking,Near Peak,-0.8111,California
+557,535,FH_LANL_GrowthRate,Peaking,Near Peak,-0.8141,California
+558,535,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.4846,California
+559,290,FH_RobertWalraven_ESG,Peaking,Surge,0.8376,California
+560,290,FH_CU_nochange,Peaking,Surge,0.9825,California
+561,290,FH_CU_scenario_low,Peaking,Surge,0.9641,California
+562,290,FH_JHUAPL_Bucky,Peaking,Surge,0.9043,California
+563,290,FH_CU_scenario_mid,Peaking,Surge,0.9402,California
+564,290,FH_TTU_squider,Peaking,Surge,0.3015,California
+565,290,FH_Karlen_pypm,Peaking,Surge,0.9668,California
+566,290,FH_UMich_RidgeTfReg,Peaking,Surge,0.9275,California
+567,290,FH_CEID_Walk,Peaking,Surge,0.9044,California
+568,290,USC_SI_kJalpha,Peaking,Surge,0.9488,California
+569,290,FH_BPagano_RtDriven,Peaking,Surge,0.9537,California
+570,290,FH_COVIDhub_ensemble,Peaking,Surge,0.9184,California
+571,290,FH_CU_select,Peaking,Surge,0.9807,California
+572,290,FH_LANL_GrowthRate,Peaking,Surge,0.9379,California
+573,290,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.5149,California
+574,465,FH_RobertWalraven_ESG,Peaking,Dec,-0.8509,California
+575,465,FH_CU_nochange,Peaking,Dec,-0.8598,California
+576,465,FH_CU_scenario_low,Peaking,Dec,-0.7619,California
+577,465,FH_JHUAPL_Bucky,Peaking,Dec,-0.8776,California
+578,465,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9989,California
+579,465,FH_CU_scenario_mid,Peaking,Dec,-0.9334,California
+580,465,FH_TTU_squider,Near Peak,Dec,0.5649,California
+581,465,FH_Karlen_pypm,Peaking,Dec,-0.4265,California
+582,465,FH_UMich_RidgeTfReg,Peaking,Dec,-0.999,California
+583,465,FH_CEID_Walk,Peaking,Dec,-0.9755,California
+584,465,USC_SI_kJalpha,Peaking,Dec,-0.6266,California
+585,465,FH_BPagano_RtDriven,Peaking,Dec,-0.0357,California
+586,465,FH_COVIDhub_ensemble,Peaking,Dec,-0.9179,California
+587,465,FH_CU_select,Peaking,Dec,-0.9334,California
+588,465,FH_LANL_GrowthRate,Peaking,Dec,-0.9825,California
+589,465,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.2806,California
+590,297,FH_RobertWalraven_ESG,Peaking,Surge,0.2179,California
+591,297,FH_CU_nochange,Peaking,Surge,0.9673,California
+592,297,FH_CU_scenario_low,Peaking,Surge,0.9345,California
+593,297,FH_JHUAPL_Bucky,Peaking,Surge,0.9796,California
+594,297,FH_JHU_IDD_CovidSP,Peaking,Surge,0.9622,California
+595,297,FH_CU_scenario_mid,Peaking,Surge,0.9732,California
+596,297,FH_TTU_squider,Peaking,Surge,0.1486,California
+597,297,FH_Karlen_pypm,Peaking,Surge,0.97,California
+598,297,FH_UMich_RidgeTfReg,Peaking,Surge,0.8967,California
+599,297,FH_CEID_Walk,Peaking,Surge,0.9007,California
+600,297,USC_SI_kJalpha,Peaking,Surge,0.9688,California
+601,297,FH_BPagano_RtDriven,Peaking,Surge,0.9608,California
+602,297,FH_COVIDhub_ensemble,Peaking,Surge,0.9457,California
+603,297,FH_CU_select,Peaking,Surge,0.9345,California
+604,297,FH_LANL_GrowthRate,Peaking,Surge,0.9068,California
+605,297,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.48,California
+606,472,FH_RobertWalraven_ESG,Peaking,Dec,-0.8383,California
+607,472,FH_CU_nochange,Peaking,Dec,-0.9761,California
+608,472,FH_CU_scenario_low,Peaking,Dec,-0.9599,California
+609,472,FH_JHUAPL_Bucky,Peaking,Dec,-0.4299,California
+610,472,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9728,California
+611,472,FH_CU_scenario_mid,Peaking,Dec,-0.9514,California
+612,472,FH_TTU_squider,Near Peak,Dec,0.9525,California
+613,472,FH_Karlen_pypm,Peaking,Dec,-0.3927,California
+614,472,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9495,California
+615,472,FH_CEID_Walk,Peaking,Dec,-0.945,California
+616,472,USC_SI_kJalpha,Peaking,Dec,-0.7468,California
+617,472,FH_BPagano_RtDriven,Peaking,Dec,-0.1896,California
+618,472,FH_COVIDhub_ensemble,Peaking,Dec,-0.9005,California
+619,472,FH_CU_select,Peaking,Dec,-0.9514,California
+620,472,FH_LANL_GrowthRate,Peaking,Dec,-0.9487,California
+621,472,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.21,California
+622,304,FH_RobertWalraven_ESG,Peaking,Inc,0.9711,California
+623,304,FH_CU_nochange,Peaking,Inc,0.9938,California
+624,304,FH_CU_scenario_low,Peaking,Inc,0.9725,California
+625,304,FH_JHUAPL_Bucky,Inc,Inc,0.9987,California
+626,304,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9782,California
+627,304,FH_CU_scenario_mid,Peaking,Inc,0.9871,California
+628,304,FH_TTU_squider,Peaking,Inc,0.1319,California
+629,304,FH_Karlen_pypm,Inc,Inc,0.9991,California
+630,304,FH_UMich_RidgeTfReg,Peaking,Inc,0.9639,California
+631,304,FH_CEID_Walk,Peaking,Inc,0.9564,California
+632,304,USC_SI_kJalpha,Peaking,Inc,0.9904,California
+633,304,FH_BPagano_RtDriven,Peaking,Inc,0.9946,California
+634,304,FH_COVIDhub_ensemble,Peaking,Inc,0.9778,California
+635,304,FH_CU_select,Peaking,Inc,0.9725,California
+636,304,FH_LANL_GrowthRate,Peaking,Inc,0.9388,California
+637,304,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9855,California
+638,458,FH_RobertWalraven_ESG,Peaking,Dec,-0.736,California
+639,458,FH_CU_nochange,Peaking,Dec,-0.8251,California
+640,458,FH_CU_scenario_low,Peaking,Dec,-0.7214,California
+641,458,FH_JHUAPL_Bucky,Peaking,Dec,-0.6818,California
+642,458,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9043,California
+643,458,FH_CU_scenario_mid,Peaking,Dec,-0.8031,California
+644,458,FH_TTU_squider,Near Peak,Dec,0.6471,California
+645,458,FH_Karlen_pypm,Peaking,Dec,-0.7026,California
+646,458,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9614,California
+647,458,FH_CEID_Walk,Peaking,Dec,-0.9492,California
+648,458,USC_SI_kJalpha,Peaking,Dec,-0.2341,California
+649,458,FH_BPagano_RtDriven,Peaking,Dec,-0.5514,California
+650,458,FH_CU_select,Peaking,Dec,-0.8031,California
+651,458,FH_LANL_GrowthRate,Peaking,Dec,-0.9187,California
+652,458,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.2501,California
+653,661,FH_RobertWalraven_ESG,Peaking,Dec,-0.9418,California
+654,661,FH_CU_nochange,Peaking,Dec,-0.9877,California
+655,661,FH_CU_scenario_low,Peaking,Dec,-0.9825,California
+656,661,FH_JHUAPL_Bucky,Peaking,Dec,-0.9915,California
+657,661,FH_CU_scenario_mid,Peaking,Dec,-0.9935,California
+658,661,FH_TTU_squider,Peaking,Dec,-0.9618,California
+659,661,FH_Karlen_pypm,Peaking,Dec,-0.9494,California
+660,661,USC_SI_kJalpha,Peaking,Dec,-0.9938,California
+661,661,FH_BPagano_RtDriven,Peaking,Dec,-0.9908,California
+662,661,FH_COVIDhub_ensemble,Peaking,Dec,-0.9913,California
+663,661,FH_CU_select,Peaking,Dec,-0.9935,California
+664,661,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.6382,California
+665,311,FH_RobertWalraven_ESG,Peaking,Inc,0.8758,California
+666,311,FH_CU_nochange,Peaking,Inc,0.9309,California
+667,311,FH_CU_scenario_low,Peaking,Inc,0.924,California
+668,311,FH_JHUAPL_Bucky,Peaking,Inc,0.988,California
+669,311,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9847,California
+670,311,FH_CU_scenario_mid,Peaking,Inc,0.9466,California
+671,311,FH_TTU_squider,Peaking,Inc,-0.2451,California
+672,311,FH_Karlen_pypm,Peaking,Inc,0.9917,California
+673,311,FH_CEID_Walk,Peaking,Inc,0.9332,California
+674,311,USC_SI_kJalpha,Peaking,Inc,0.8909,California
+675,311,FH_BPagano_RtDriven,Peaking,Inc,0.9772,California
+676,311,FH_COVIDhub_ensemble,Peaking,Inc,0.9532,California
+677,311,FH_CU_select,Peaking,Inc,0.924,California
+678,311,FH_LANL_GrowthRate,Peaking,Inc,0.9333,California
+679,311,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9673,California
+680,269,FH_RobertWalraven_ESG,Peaking,Dec,-0.9702,California
+681,269,FH_CU_nochange,Peaking,Dec,-0.9971,California
+682,269,FH_CU_scenario_low,Peaking,Dec,-0.9744,California
+683,269,FH_JHUAPL_Bucky,Peaking,Dec,-0.9956,California
+684,269,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9825,California
+685,269,FH_CU_scenario_mid,Peaking,Dec,-0.9997,California
+686,269,FH_TTU_squider,Dec,Dec,0.9979,California
+687,269,FH_Karlen_pypm,Peaking,Dec,-0.9986,California
+688,269,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9991,California
+689,269,FH_CEID_Walk,Peaking,Dec,-0.9987,California
+690,269,USC_SI_kJalpha,Peaking,Dec,-0.9887,California
+691,269,FH_BPagano_RtDriven,Peaking,Dec,-0.9968,California
+692,269,FH_COVIDhub_ensemble,Peaking,Dec,-0.9925,California
+693,269,FH_CU_select,Peaking,Dec,-0.9997,California
+694,269,FH_LANL_GrowthRate,Peaking,Dec,-0.8106,California
+695,269,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.8829,California
+696,486,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.7158,California
+697,486,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.1946,California
+698,486,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.3217,California
+699,486,FH_TTU_squider,Near Peak,Near Peak,0.9821,California
+700,486,FH_Karlen_pypm,Peaking,Near Peak,0.3006,California
+701,486,FH_UMich_RidgeTfReg,Near Peak,Near Peak,0.4764,California
+702,486,FH_CEID_Walk,Peaking,Near Peak,-0.8521,California
+703,486,USC_SI_kJalpha,Peaking,Near Peak,-0.0077,California
+704,486,FH_BPagano_RtDriven,Near Peak,Near Peak,0.4433,California
+705,486,FH_LANL_GrowthRate,Peaking,Near Peak,-0.8394,California
+706,486,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,0.1302,California
+707,647,FH_RobertWalraven_ESG,Peaking,Dec,-0.9595,California
+708,647,FH_CU_nochange,Peaking,Dec,-0.9766,California
+709,647,FH_CU_scenario_low,Peaking,Dec,-0.9711,California
+710,647,FH_JHUAPL_Bucky,Peaking,Dec,-0.9931,California
+711,647,FH_CU_scenario_mid,Peaking,Dec,-0.9928,California
+712,647,FH_TTU_squider,Peaking,Dec,-0.9819,California
+713,647,FH_Karlen_pypm,Peaking,Dec,-0.9985,California
+714,647,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9822,California
+715,647,USC_SI_kJalpha,Peaking,Dec,-0.9932,California
+716,647,FH_BPagano_RtDriven,Peaking,Dec,-0.9982,California
+717,647,FH_COVIDhub_ensemble,Peaking,Dec,-0.9985,California
+718,647,FH_CU_select,Peaking,Dec,-0.9928,California
+719,647,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.9854,California
+720,262,FH_RobertWalraven_ESG,Peaking,Dec,-0.764,California
+721,262,FH_CU_nochange,Peaking,Dec,-0.9958,California
+722,262,FH_CU_scenario_low,Peaking,Dec,-0.9449,California
+723,262,FH_JHUAPL_Bucky,Peaking,Dec,-0.9163,California
+724,262,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9135,California
+725,262,FH_CU_scenario_mid,Peaking,Dec,-0.9785,California
+726,262,FH_TTU_squider,Near Peak,Dec,0.8638,California
+727,262,FH_Karlen_pypm,Peaking,Dec,-0.9715,California
+728,262,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9838,California
+729,262,FH_CEID_Walk,Peaking,Dec,-0.9636,California
+730,262,USC_SI_kJalpha,Peaking,Dec,-0.9505,California
+731,262,FH_COVIDhub_ensemble,Peaking,Dec,-0.9293,California
+732,262,FH_CU_select,Peaking,Dec,-0.9785,California
+733,262,FH_LANL_GrowthRate,Peaking,Dec,-0.6511,California
+734,262,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.7219,California
+735,500,FH_RobertWalraven_ESG,Peaking,Surge,0.1817,California
+736,500,FH_CU_nochange,Peaking,Surge,0.3023,California
+737,500,FH_CU_scenario_low,Peaking,Surge,0.1936,California
+738,500,FH_JHUAPL_Bucky,Peaking,Surge,0.2315,California
+739,500,FH_JHU_IDD_CovidSP,Peaking,Surge,-0.239,California
+740,500,FH_CU_scenario_mid,Peaking,Surge,0.2544,California
+741,500,FH_TTU_squider,Peaking,Surge,-0.0501,California
+742,500,FH_Karlen_pypm,Peaking,Surge,-0.6469,California
+743,500,FH_UMich_RidgeTfReg,Peaking,Surge,0.2702,California
+744,500,FH_CEID_Walk,Peaking,Surge,-0.0055,California
+745,500,USC_SI_kJalpha,Peaking,Surge,-0.1281,California
+746,500,FH_BPagano_RtDriven,Near Peak,Surge,-0.7976,California
+747,500,FH_COVIDhub_ensemble,Peaking,Surge,-0.0304,California
+748,500,FH_CU_select,Peaking,Surge,0.2544,California
+749,500,FH_LANL_GrowthRate,Peaking,Surge,0.4501,California
+750,500,FH_CovidAnalytics_DELPHI,Near Peak,Surge,-0.7493,California
+751,514,FH_RobertWalraven_ESG,Peaking,Peaking,0.9371,California
+752,514,FH_CU_nochange,Peaking,Peaking,0.9584,California
+753,514,FH_CU_scenario_low,Peaking,Peaking,0.9339,California
+754,514,FH_JHUAPL_Bucky,Peaking,Peaking,0.8459,California
+755,514,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.3691,California
+756,514,FH_CU_scenario_mid,Peaking,Peaking,0.9619,California
+757,514,FH_TTU_squider,Peaking,Peaking,0.8631,California
+758,514,FH_Karlen_pypm,Peaking,Peaking,0.8719,California
+759,514,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9656,California
+760,514,FH_CEID_Walk,Peaking,Peaking,0.9785,California
+761,514,USC_SI_kJalpha,Peaking,Peaking,0.9711,California
+762,514,FH_BPagano_RtDriven,Peaking,Peaking,0.6281,California
+763,514,FH_COVIDhub_ensemble,Peaking,Peaking,0.9485,California
+764,514,FH_CU_select,Peaking,Peaking,0.9619,California
+765,514,FH_LANL_GrowthRate,Peaking,Peaking,0.9667,California
+766,514,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.8631,California
+767,563,FH_RobertWalraven_ESG,Peaking,Inc,0.9259,California
+768,563,FH_CU_nochange,Peaking,Inc,0.994,California
+769,563,FH_CU_scenario_low,Peaking,Inc,0.9888,California
+770,563,FH_JHUAPL_Bucky,Peaking,Inc,0.9681,California
+771,563,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9983,California
+772,563,FH_CU_scenario_mid,Peaking,Inc,0.979,California
+773,563,FH_TTU_squider,Peaking,Inc,0.9413,California
+774,563,FH_Karlen_pypm,Peaking,Inc,0.9907,California
+775,563,FH_CEID_Walk,Peaking,Inc,0.9484,California
+776,563,USC_SI_kJalpha,Peaking,Inc,0.9881,California
+777,563,FH_BPagano_RtDriven,Peaking,Inc,0.9979,California
+778,563,FH_COVIDhub_ensemble,Peaking,Inc,0.9582,California
+779,563,FH_CU_select,Peaking,Inc,0.9888,California
+780,563,FH_LANL_GrowthRate,Peaking,Inc,0.9279,California
+781,563,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9364,California
+782,409,FH_RobertWalraven_ESG,Near Peak,Dec,0.5878,California
+783,409,FH_CU_nochange,Peaking,Dec,-0.9747,California
+784,409,FH_CU_scenario_low,Peaking,Dec,-0.9672,California
+785,409,FH_JHUAPL_Bucky,Near Peak,Dec,0.2176,California
+786,409,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9262,California
+787,409,FH_CU_scenario_mid,Peaking,Dec,-0.9834,California
+788,409,FH_TTU_squider,Peaking,Dec,-0.4301,California
+789,409,FH_Karlen_pypm,Peaking,Dec,-0.5711,California
+790,409,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9999,California
+791,409,FH_CEID_Walk,Peaking,Dec,-0.9431,California
+792,409,USC_SI_kJalpha,Peaking,Dec,-0.8815,California
+793,409,FH_BPagano_RtDriven,Peaking,Dec,-0.8941,California
+794,409,FH_COVIDhub_ensemble,Peaking,Dec,-0.9334,California
+795,409,FH_CU_select,Peaking,Dec,-0.9834,California
+796,409,FH_LANL_GrowthRate,Peaking,Dec,-0.9929,California
+797,409,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.227,California
+798,437,FH_RobertWalraven_ESG,Peaking,Dec,-0.9003,California
+799,437,FH_CU_nochange,Peaking,Dec,-0.9847,California
+800,437,FH_CU_scenario_low,Peaking,Dec,-0.9843,California
+801,437,FH_JHUAPL_Bucky,Peaking,Dec,-0.9295,California
+802,437,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.989,California
+803,437,FH_CU_scenario_mid,Peaking,Dec,-0.9939,California
+804,437,FH_TTU_squider,Near Peak,Dec,0.4908,California
+805,437,FH_Karlen_pypm,Peaking,Dec,-0.9481,California
+806,437,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9998,California
+807,437,FH_CEID_Walk,Peaking,Dec,-0.9741,California
+808,437,USC_SI_kJalpha,Peaking,Dec,-0.8374,California
+809,437,FH_BPagano_RtDriven,Peaking,Dec,-0.9599,California
+810,437,FH_COVIDhub_ensemble,Peaking,Dec,-0.9401,California
+811,437,FH_CU_select,Peaking,Dec,-0.9843,California
+812,437,FH_LANL_GrowthRate,Peaking,Dec,-0.9984,California
+813,437,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.6244,California
+814,605,FH_RobertWalraven_ESG,Peaking,Flat,-0.8299,California
+815,605,FH_CU_nochange,Peaking,Flat,-0.7663,California
+816,605,FH_CU_scenario_low,Peaking,Flat,-0.7392,California
+817,605,FH_JHUAPL_Bucky,Peaking,Flat,-0.7401,California
+818,605,FH_JHU_IDD_CovidSP,Peaking,Flat,-0.5282,California
+819,605,FH_CU_scenario_mid,Peaking,Flat,-0.7285,California
+820,605,FH_TTU_squider,Peaking,Flat,-0.6695,California
+821,605,FH_Karlen_pypm,Peaking,Flat,-0.938,California
+822,605,FH_UMich_RidgeTfReg,Peaking,Flat,-0.618,California
+823,605,FH_CEID_Walk,Peaking,Flat,-0.6606,California
+824,605,USC_SI_kJalpha,Inc,Flat,-0.3754,California
+825,605,FH_BPagano_RtDriven,Peaking,Flat,-0.869,California
+826,605,FH_COVIDhub_ensemble,Peaking,Flat,-0.7571,California
+827,605,FH_CU_select,Peaking,Flat,-0.7392,California
+828,605,FH_LANL_GrowthRate,Peaking,Flat,-0.5947,California
+829,605,FH_CovidAnalytics_DELPHI,Peaking,Flat,-0.8548,California
+830,374,FH_RobertWalraven_ESG,Peaking,Dec,-0.0723,California
+831,374,FH_CU_nochange,Peaking,Dec,-0.9826,California
+832,374,FH_CU_scenario_low,Peaking,Dec,-0.9428,California
+833,374,FH_JHUAPL_Bucky,Peaking,Dec,-0.4755,California
+834,374,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.7831,California
+835,374,FH_CU_scenario_mid,Peaking,Dec,-0.9759,California
+836,374,FH_TTU_squider,Peaking,Dec,-0.4304,California
+837,374,FH_Karlen_pypm,Peaking,Dec,0.1449,California
+838,374,FH_UMich_RidgeTfReg,Peaking,Dec,-0.6643,California
+839,374,FH_CEID_Walk,Peaking,Dec,-0.9229,California
+840,374,USC_SI_kJalpha,Peaking,Dec,-0.4345,California
+841,374,FH_BPagano_RtDriven,Peaking,Dec,-0.8404,California
+842,374,FH_COVIDhub_ensemble,Peaking,Dec,-0.6596,California
+843,374,FH_CU_select,Peaking,Dec,-0.9428,California
+844,374,FH_LANL_GrowthRate,Peaking,Dec,-0.9199,California
+845,374,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.582,California
+846,402,FH_RobertWalraven_ESG,Near Peak,Dec,0.7657,California
+847,402,FH_CU_nochange,Peaking,Dec,-0.9626,California
+848,402,FH_CU_scenario_low,Peaking,Dec,-0.9343,California
+849,402,FH_JHUAPL_Bucky,Peaking,Dec,-0.4544,California
+850,402,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8952,California
+851,402,FH_CU_scenario_mid,Peaking,Dec,-0.9676,California
+852,402,FH_TTU_squider,Peaking,Dec,-0.4119,California
+853,402,FH_Karlen_pypm,Peaking,Dec,-0.6662,California
+854,402,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9904,California
+855,402,FH_CEID_Walk,Peaking,Dec,-0.9021,California
+856,402,USC_SI_kJalpha,Peaking,Dec,-0.6587,California
+857,402,FH_BPagano_RtDriven,Peaking,Dec,-0.7926,California
+858,402,FH_COVIDhub_ensemble,Peaking,Dec,-0.7838,California
+859,402,FH_CU_select,Peaking,Dec,-0.9676,California
+860,402,FH_LANL_GrowthRate,Peaking,Dec,-0.9494,California
+861,402,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.8843,California
+862,360,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.5331,California
+863,360,FH_TTU_squider,Peaking,Near Peak,-0.3423,California
+864,360,FH_Karlen_pypm,Peaking,Near Peak,-0.6411,California
+865,360,FH_CEID_Walk,Peaking,Near Peak,-0.7265,California
+866,360,USC_SI_kJalpha,Peaking,Near Peak,-0.6806,California
+867,360,FH_BPagano_RtDriven,Peaking,Near Peak,-0.7224,California
+868,556,FH_RobertWalraven_ESG,Peaking,Surge,0.8374,California
+869,556,FH_CU_nochange,Peaking,Surge,0.9644,California
+870,556,FH_CU_scenario_low,Peaking,Surge,0.9529,California
+871,556,FH_JHUAPL_Bucky,Peaking,Surge,0.9318,California
+872,556,FH_JHU_IDD_CovidSP,Peaking,Surge,0.8945,California
+873,556,FH_CU_scenario_mid,Peaking,Surge,0.9328,California
+874,556,FH_TTU_squider,Peaking,Surge,0.6159,California
+875,556,FH_Karlen_pypm,Inc,Surge,0.9827,California
+876,556,FH_UMich_RidgeTfReg,Peaking,Surge,0.9525,California
+877,556,FH_CEID_Walk,Peaking,Surge,0.8429,California
+878,556,USC_SI_kJalpha,Peaking,Surge,0.9494,California
+879,556,FH_BPagano_RtDriven,Inc,Surge,0.9782,California
+880,556,FH_COVIDhub_ensemble,Peaking,Surge,0.9154,California
+881,556,FH_CU_select,Peaking,Surge,0.9529,California
+882,556,FH_LANL_GrowthRate,Peaking,Surge,0.8541,California
+883,556,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.8403,California
+884,213,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.8016,California
+885,213,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.8978,California
+886,213,FH_Karlen_pypm,Peaking,Near Peak,-0.8628,California
+887,213,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.954,California
+888,213,FH_CEID_Walk,Peaking,Near Peak,-0.8926,California
+889,213,USC_SI_kJalpha,Peaking,Near Peak,-0.5427,California
+890,213,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8799,California
+891,213,FH_CU_select,Peaking,Near Peak,-0.9364,California
+892,213,FH_LANL_GrowthRate,Peaking,Near Peak,-0.3343,California
+893,213,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.8423,California
+894,570,FH_RobertWalraven_ESG,Peaking,Inc,0.8954,California
+895,570,FH_CU_nochange,Peaking,Inc,0.9888,California
+896,570,FH_CU_scenario_low,Peaking,Inc,0.9804,California
+897,570,FH_JHUAPL_Bucky,Peaking,Inc,0.9231,California
+898,570,FH_JHU_IDD_CovidSP,Inc,Inc,0.9983,California
+899,570,FH_TTU_squider,Peaking,Inc,0.7498,California
+900,570,FH_Karlen_pypm,Peaking,Inc,0.971,California
+901,570,FH_UMich_RidgeTfReg,Peaking,Inc,0.9822,California
+902,570,FH_CEID_Walk,Peaking,Inc,0.9415,California
+903,570,USC_SI_kJalpha,Peaking,Inc,0.961,California
+904,570,FH_BPagano_RtDriven,Peaking,Inc,0.9836,California
+905,570,FH_COVIDhub_ensemble,Peaking,Inc,0.97,California
+906,570,FH_CU_select,Peaking,Inc,0.9804,California
+907,570,FH_LANL_GrowthRate,Peaking,Inc,0.9531,California
+908,570,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.8429,California
+909,227,FH_RobertWalraven_ESG,Peaking,Dec,-0.5768,California
+910,227,FH_JHUAPL_Bucky,Peaking,Dec,-0.8754,California
+911,227,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.889,California
+912,227,FH_Karlen_pypm,Peaking,Dec,-0.8348,California
+913,227,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9356,California
+914,227,FH_CEID_Walk,Peaking,Dec,-0.8949,California
+915,227,USC_SI_kJalpha,Peaking,Dec,-0.5844,California
+916,227,FH_COVIDhub_ensemble,Peaking,Dec,-0.8561,California
+917,227,FH_CU_select,Peaking,Dec,-0.9608,California
+918,227,FH_LANL_GrowthRate,Peaking,Dec,-0.5979,California
+919,227,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.7795,California
+920,346,FH_RobertWalraven_ESG,Peaking,Peaking,0.9125,California
+921,346,FH_CU_nochange,Peaking,Peaking,0.9836,California
+922,346,FH_CU_scenario_low,Peaking,Peaking,0.9784,California
+923,346,FH_JHUAPL_Bucky,Peaking,Peaking,0.8524,California
+924,346,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9739,California
+925,346,FH_CU_scenario_mid,Peaking,Peaking,0.9901,California
+926,346,FH_TTU_squider,Peaking,Peaking,0.9309,California
+927,346,FH_Karlen_pypm,Peaking,Peaking,0.966,California
+928,346,FH_UMich_RidgeTfReg,Peaking,Peaking,0.991,California
+929,346,FH_CEID_Walk,Peaking,Peaking,0.9838,California
+930,346,USC_SI_kJalpha,Peaking,Peaking,0.98,California
+931,346,FH_BPagano_RtDriven,Peaking,Peaking,0.9835,California
+932,346,FH_COVIDhub_ensemble,Peaking,Peaking,0.9751,California
+933,346,FH_CU_select,Peaking,Peaking,0.9901,California
+934,346,FH_LANL_GrowthRate,Peaking,Peaking,0.9781,California
+935,346,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.5612,California
+936,199,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.8053,California
+937,199,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.9345,California
+938,199,FH_Karlen_pypm,Peaking,Near Peak,-0.8121,California
+939,199,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9688,California
+940,199,FH_CEID_Walk,Peaking,Near Peak,-0.9072,California
+941,199,USC_SI_kJalpha,Peaking,Near Peak,-0.3811,California
+942,199,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8803,California
+943,199,FH_CU_select,Peaking,Near Peak,-0.7964,California
+944,199,FH_LANL_GrowthRate,Peaking,Near Peak,-0.3566,California
+945,199,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.9194,California
+946,164,FH_RobertWalraven_ESG,Near Peak,Inc,-0.9995,California
+947,164,FH_JHU_IDD_CovidSP,Inc,Inc,0.9986,California
+948,164,USC_SI_kJalpha,Near Peak,Inc,-0.9983,California
+949,164,FH_LANL_GrowthRate,Near Peak,Inc,-0.9994,California
+950,164,FH_CovidAnalytics_DELPHI,Inc,Inc,0.9998,California
+951,598,FH_RobertWalraven_ESG,Peaking,Dec,-0.2527,California
+952,598,FH_CU_nochange,Peaking,Dec,-0.7855,California
+953,598,FH_CU_scenario_low,Peaking,Dec,-0.8187,California
+954,598,FH_JHUAPL_Bucky,Peaking,Dec,-0.8759,California
+955,598,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9936,California
+956,598,FH_CU_scenario_mid,Peaking,Dec,-0.8277,California
+957,598,FH_TTU_squider,Peaking,Dec,-0.9236,California
+958,598,FH_Karlen_pypm,Peaking,Dec,-0.3617,California
+959,598,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9687,California
+960,598,FH_CEID_Walk,Peaking,Dec,-0.9612,California
+961,598,USC_SI_kJalpha,Peaking,Dec,-0.5527,California
+962,598,FH_BPagano_RtDriven,Peaking,Dec,-0.4761,California
+963,598,FH_COVIDhub_ensemble,Peaking,Dec,-0.7071,California
+964,598,FH_CU_select,Peaking,Dec,-0.8187,California
+965,598,FH_LANL_GrowthRate,Peaking,Dec,-0.9524,California
+966,598,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.1512,California
+967,612,FH_RobertWalraven_ESG,Peaking,Surge,0.4084,California
+968,612,FH_CU_nochange,Peaking,Surge,0.7976,California
+969,612,FH_CU_scenario_low,Peaking,Surge,0.826,California
+970,612,FH_JHUAPL_Bucky,Peaking,Surge,0.7737,California
+971,612,FH_JHU_IDD_CovidSP,Peaking,Surge,0.9113,California
+972,612,FH_CU_scenario_mid,Peaking,Surge,0.8241,California
+973,612,FH_TTU_squider,Peaking,Surge,0.7676,California
+974,612,FH_Karlen_pypm,Peaking,Surge,0.1749,California
+975,612,FH_UMich_RidgeTfReg,Peaking,Surge,0.7949,California
+976,612,FH_CEID_Walk,Peaking,Surge,0.8383,California
+977,612,USC_SI_kJalpha,Peaking,Surge,0.7518,California
+978,612,FH_BPagano_RtDriven,Peaking,Surge,0.3271,California
+979,612,FH_COVIDhub_ensemble,Peaking,Surge,0.6249,California
+980,612,FH_CU_select,Peaking,Surge,0.826,California
+981,612,FH_LANL_GrowthRate,Peaking,Surge,0.8818,California
+982,612,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.0014,California
+983,171,FH_RobertWalraven_ESG,Peaking,Inc,0.7412,California
+984,171,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9836,California
+985,171,USC_SI_kJalpha,Peaking,Inc,0.6982,California
+986,171,FH_LANL_GrowthRate,Peaking,Inc,0.9475,California
+987,171,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9715,California
+988,626,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.1872,California
+989,626,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.7412,California
+990,626,FH_TTU_squider,Peaking,Near Peak,-0.6724,California
+991,626,FH_Karlen_pypm,Peaking,Near Peak,0.2469,California
+992,626,FH_CEID_Walk,Peaking,Near Peak,-0.6736,California
+993,626,USC_SI_kJalpha,Peaking,Near Peak,-0.6816,California
+994,626,FH_BPagano_RtDriven,Peaking,Near Peak,-0.2722,California
+995,626,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.6337,California
+996,626,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,0.1433,California
+0,591,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.6779,Florida
+1,591,FH_CU_nochange,Peaking,Near Peak,0.306,Florida
+2,591,FH_CU_scenario_low,Peaking,Near Peak,0.3335,Florida
+3,591,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.4066,Florida
+4,591,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.7969,Florida
+5,591,FH_CU_scenario_mid,Peaking,Near Peak,-0.3541,Florida
+6,591,FH_TTU_squider,Peaking,Near Peak,-0.634,Florida
+7,591,FH_Karlen_pypm,Peaking,Near Peak,-0.0205,Florida
+8,591,FH_UMich_RidgeTfReg,Near Peak,Near Peak,0.8996,Florida
+9,591,FH_CEID_Walk,Peaking,Near Peak,-0.7686,Florida
+10,591,USC_SI_kJalpha,Peaking,Near Peak,-0.4911,Florida
+11,591,FH_BPagano_RtDriven,Peaking,Near Peak,-0.1776,Florida
+12,591,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.3448,Florida
+13,591,FH_CU_select,Peaking,Near Peak,0.3335,Florida
+14,591,FH_LANL_GrowthRate,Peaking,Near Peak,-0.782,Florida
+15,591,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,0.2232,Florida
+16,234,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.394,Florida
+17,234,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.8369,Florida
+18,234,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.7081,Florida
+19,234,FH_Karlen_pypm,Peaking,Near Peak,-0.4943,Florida
+20,234,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9081,Florida
+21,234,FH_CEID_Walk,Peaking,Near Peak,-0.9037,Florida
+22,234,USC_SI_kJalpha,Peaking,Near Peak,-0.4012,Florida
+23,234,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.6832,Florida
+24,234,FH_CU_select,Peaking,Near Peak,-0.8954,Florida
+25,234,FH_LANL_GrowthRate,Peaking,Near Peak,-0.4608,Florida
+26,234,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.0409,Florida
+27,542,FH_RobertWalraven_ESG,Peaking,Surge,0.8608,Florida
+28,542,FH_CU_nochange,Peaking,Surge,0.9687,Florida
+29,542,FH_CU_scenario_low,Peaking,Surge,0.9527,Florida
+30,542,FH_JHUAPL_Bucky,Inc,Surge,0.9946,Florida
+31,542,FH_JHU_IDD_CovidSP,Dec,Surge,-0.9176,Florida
+32,542,FH_CU_scenario_mid,Peaking,Surge,0.9541,Florida
+33,542,FH_TTU_squider,Peaking,Surge,0.6137,Florida
+34,542,FH_Karlen_pypm,Inc,Surge,0.9993,Florida
+35,542,FH_UMich_RidgeTfReg,Peaking,Surge,0.8413,Florida
+36,542,FH_CEID_Walk,Peaking,Surge,0.9111,Florida
+37,542,USC_SI_kJalpha,Inc,Surge,0.9986,Florida
+38,542,FH_BPagano_RtDriven,Peaking,Surge,0.9771,Florida
+39,542,FH_COVIDhub_ensemble,Peaking,Surge,0.9631,Florida
+40,542,FH_CU_select,Peaking,Surge,0.9527,Florida
+41,542,FH_LANL_GrowthRate,Peaking,Surge,0.9175,Florida
+42,542,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.9325,Florida
+43,416,FH_RobertWalraven_ESG,Peaking,Dec,-0.9196,Florida
+44,416,FH_CU_nochange,Peaking,Dec,-0.7049,Florida
+45,416,FH_CU_scenario_low,Peaking,Dec,-0.9048,Florida
+46,416,FH_JHUAPL_Bucky,Peaking,Dec,-0.6134,Florida
+47,416,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9191,Florida
+48,416,FH_CU_scenario_mid,Peaking,Dec,-0.8657,Florida
+49,416,FH_TTU_squider,Peaking,Dec,-0.8011,Florida
+50,416,FH_Karlen_pypm,Peaking,Dec,-0.9224,Florida
+51,416,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9999,Florida
+52,416,FH_CEID_Walk,Peaking,Dec,-0.989,Florida
+53,416,USC_SI_kJalpha,Peaking,Dec,-0.8766,Florida
+54,416,FH_BPagano_RtDriven,Peaking,Dec,-0.8668,Florida
+55,416,FH_COVIDhub_ensemble,Peaking,Dec,-0.933,Florida
+56,416,FH_CU_select,Peaking,Dec,-0.8657,Florida
+57,416,FH_LANL_GrowthRate,Peaking,Dec,-0.9939,Florida
+58,416,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.2978,Florida
+59,423,FH_RobertWalraven_ESG,Peaking,Dec,-0.853,Florida
+60,423,FH_CU_nochange,Peaking,Dec,-0.8265,Florida
+61,423,FH_CU_scenario_low,Peaking,Dec,-0.8876,Florida
+62,423,FH_JHUAPL_Bucky,Peaking,Dec,-0.9165,Florida
+63,423,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8309,Florida
+64,423,FH_CU_scenario_mid,Peaking,Dec,-0.9013,Florida
+65,423,FH_TTU_squider,Peaking,Dec,-0.6911,Florida
+66,423,FH_Karlen_pypm,Peaking,Dec,-0.9505,Florida
+67,423,FH_UMich_RidgeTfReg,Peaking,Dec,-0.939,Florida
+68,423,FH_CEID_Walk,Peaking,Dec,-0.9383,Florida
+69,423,USC_SI_kJalpha,Peaking,Dec,-0.8557,Florida
+70,423,FH_BPagano_RtDriven,Peaking,Dec,-0.9067,Florida
+71,423,FH_COVIDhub_ensemble,Peaking,Dec,-0.9156,Florida
+72,423,FH_CU_select,Peaking,Dec,-0.8876,Florida
+73,423,FH_LANL_GrowthRate,Peaking,Dec,-0.9422,Florida
+74,423,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.0729,Florida
+75,577,FH_RobertWalraven_ESG,Peaking,Peaking,0.9622,Florida
+76,577,FH_CU_nochange,Peaking,Peaking,0.327,Florida
+77,577,FH_CU_scenario_low,Peaking,Peaking,0.2094,Florida
+78,577,FH_JHUAPL_Bucky,Peaking,Peaking,0.9637,Florida
+79,577,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9815,Florida
+80,577,FH_CU_scenario_mid,Peaking,Peaking,0.747,Florida
+81,577,FH_TTU_squider,Peaking,Peaking,0.8864,Florida
+82,577,FH_Karlen_pypm,Peaking,Peaking,0.8732,Florida
+83,577,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9755,Florida
+84,577,FH_CEID_Walk,Peaking,Peaking,0.9737,Florida
+85,577,USC_SI_kJalpha,Peaking,Peaking,0.8886,Florida
+86,577,FH_BPagano_RtDriven,Peaking,Peaking,0.8488,Florida
+87,577,FH_COVIDhub_ensemble,Peaking,Peaking,0.925,Florida
+88,577,FH_CU_select,Peaking,Peaking,0.2094,Florida
+89,577,FH_LANL_GrowthRate,Peaking,Peaking,0.9762,Florida
+90,577,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.6786,Florida
+91,549,FH_RobertWalraven_ESG,Peaking,Inc,0.9195,Florida
+92,549,FH_CU_nochange,Peaking,Inc,0.979,Florida
+93,549,FH_CU_scenario_low,Peaking,Inc,0.9669,Florida
+94,549,FH_JHUAPL_Bucky,Peaking,Inc,0.99,Florida
+95,549,FH_JHU_IDD_CovidSP,Dec,Inc,-0.9292,Florida
+96,549,FH_CU_scenario_mid,Peaking,Inc,0.9615,Florida
+97,549,FH_TTU_squider,Peaking,Inc,0.6185,Florida
+98,549,FH_Karlen_pypm,Inc,Inc,0.9987,Florida
+99,549,FH_UMich_RidgeTfReg,Peaking,Inc,0.9944,Florida
+100,549,FH_CEID_Walk,Peaking,Inc,0.9226,Florida
+101,549,USC_SI_kJalpha,Peaking,Inc,0.9877,Florida
+102,549,FH_BPagano_RtDriven,Peaking,Inc,0.9846,Florida
+103,549,FH_COVIDhub_ensemble,Peaking,Inc,0.9519,Florida
+104,549,FH_CU_select,Peaking,Inc,0.9669,Florida
+105,549,FH_LANL_GrowthRate,Peaking,Inc,0.9293,Florida
+106,549,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.7696,Florida
+107,584,FH_RobertWalraven_ESG,Peaking,Peaking,0.9933,Florida
+108,584,FH_CU_nochange,Peaking,Peaking,0.3708,Florida
+109,584,FH_CU_scenario_low,Peaking,Peaking,0.3624,Florida
+110,584,FH_JHUAPL_Bucky,Peaking,Peaking,0.9945,Florida
+111,584,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9948,Florida
+112,584,FH_CU_scenario_mid,Peaking,Peaking,0.8453,Florida
+113,584,FH_TTU_squider,Peaking,Peaking,0.9794,Florida
+114,584,FH_Karlen_pypm,Peaking,Peaking,0.9059,Florida
+115,584,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9931,Florida
+116,584,FH_CEID_Walk,Peaking,Peaking,0.9917,Florida
+117,584,USC_SI_kJalpha,Peaking,Peaking,0.9905,Florida
+118,584,FH_BPagano_RtDriven,Peaking,Peaking,0.7091,Florida
+119,584,FH_COVIDhub_ensemble,Peaking,Peaking,0.9891,Florida
+120,584,FH_CU_select,Peaking,Peaking,0.3624,Florida
+121,584,FH_LANL_GrowthRate,Peaking,Peaking,0.9921,Florida
+122,584,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.6861,Florida
+123,220,FH_RobertWalraven_ESG,Peaking,Dec,-0.1262,Florida
+124,220,FH_JHUAPL_Bucky,Peaking,Dec,-0.9414,Florida
+125,220,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8103,Florida
+126,220,FH_Karlen_pypm,Peaking,Dec,-0.6534,Florida
+127,220,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9742,Florida
+128,220,FH_CEID_Walk,Peaking,Dec,-0.9397,Florida
+129,220,USC_SI_kJalpha,Peaking,Dec,-0.211,Florida
+130,220,FH_COVIDhub_ensemble,Peaking,Dec,-0.8515,Florida
+131,220,FH_CU_select,Peaking,Dec,-0.9335,Florida
+132,220,FH_LANL_GrowthRate,Peaking,Dec,-0.3949,Florida
+133,220,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.3602,Florida
+134,353,FH_RobertWalraven_ESG,Peaking,Peaking,0.9834,Florida
+135,353,FH_CU_nochange,Peaking,Peaking,0.9979,Florida
+136,353,FH_CU_scenario_low,Peaking,Peaking,0.9965,Florida
+137,353,FH_JHUAPL_Bucky,Peaking,Peaking,0.9977,Florida
+138,353,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9975,Florida
+139,353,FH_CU_scenario_mid,Peaking,Peaking,0.9976,Florida
+140,353,FH_TTU_squider,Peaking,Peaking,0.9522,Florida
+141,353,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9978,Florida
+142,353,FH_CEID_Walk,Peaking,Peaking,0.9886,Florida
+143,353,USC_SI_kJalpha,Peaking,Peaking,0.9838,Florida
+144,353,FH_BPagano_RtDriven,Peaking,Peaking,0.9934,Florida
+145,353,FH_COVIDhub_ensemble,Peaking,Peaking,0.9959,Florida
+146,353,FH_CU_select,Peaking,Peaking,0.9976,Florida
+147,353,FH_LANL_GrowthRate,Peaking,Peaking,0.9962,Florida
+148,353,FH_CovidAnalytics_DELPHI,Inc,Peaking,0.991,Florida
+149,339,FH_RobertWalraven_ESG,Peaking,Inc,0.9269,Florida
+150,339,FH_CU_nochange,Peaking,Inc,0.8254,Florida
+151,339,FH_CU_scenario_low,Peaking,Inc,0.9018,Florida
+152,339,FH_JHUAPL_Bucky,Peaking,Inc,0.8339,Florida
+153,339,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9605,Florida
+154,339,FH_CU_scenario_mid,Peaking,Inc,0.8995,Florida
+155,339,FH_TTU_squider,Peaking,Inc,0.9103,Florida
+156,339,FH_Karlen_pypm,Peaking,Inc,0.9792,Florida
+157,339,FH_UMich_RidgeTfReg,Peaking,Inc,0.9477,Florida
+158,339,FH_CEID_Walk,Peaking,Inc,0.9435,Florida
+159,339,USC_SI_kJalpha,Peaking,Inc,0.9276,Florida
+160,339,FH_BPagano_RtDriven,Peaking,Inc,0.9457,Florida
+161,339,FH_COVIDhub_ensemble,Peaking,Inc,0.941,Florida
+162,339,FH_CU_select,Peaking,Inc,0.8995,Florida
+163,339,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9209,Florida
+164,367,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.8296,Florida
+165,367,FH_CU_nochange,Peaking,Near Peak,-0.9468,Florida
+166,367,FH_CU_scenario_low,Peaking,Near Peak,-0.8963,Florida
+167,367,FH_JHUAPL_Bucky,Peaking,Near Peak,0.0271,Florida
+168,367,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.8549,Florida
+169,367,FH_CU_scenario_mid,Peaking,Near Peak,-0.9406,Florida
+170,367,FH_TTU_squider,Peaking,Near Peak,-0.7555,Florida
+171,367,FH_Karlen_pypm,Peaking,Near Peak,-0.733,Florida
+172,367,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.8198,Florida
+173,367,FH_CEID_Walk,Peaking,Near Peak,-0.907,Florida
+174,367,USC_SI_kJalpha,Peaking,Near Peak,-0.7473,Florida
+175,367,FH_BPagano_RtDriven,Peaking,Near Peak,-0.8458,Florida
+176,367,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8435,Florida
+177,367,FH_CU_select,Peaking,Near Peak,-0.9406,Florida
+178,367,FH_LANL_GrowthRate,Peaking,Near Peak,-0.8998,Florida
+179,367,FH_CovidAnalytics_DELPHI,Inc,Near Peak,-0.9796,Florida
+180,192,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.6301,Florida
+181,192,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.7587,Florida
+182,192,FH_Karlen_pypm,Peaking,Near Peak,-0.8648,Florida
+183,192,USC_SI_kJalpha,Peaking,Near Peak,0.0254,Florida
+184,192,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.686,Florida
+185,192,FH_LANL_GrowthRate,Peaking,Near Peak,-0.518,Florida
+186,192,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.7934,Florida
+187,178,FH_RobertWalraven_ESG,Peaking,Peaking,0.9789,Florida
+188,178,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9999,Florida
+189,178,FH_Karlen_pypm,Peaking,Peaking,0.9963,Florida
+190,178,FH_UMich_RidgeTfReg,Inc,Peaking,0.9795,Florida
+191,178,USC_SI_kJalpha,Peaking,Peaking,0.4962,Florida
+192,178,FH_COVIDhub_ensemble,Peaking,Peaking,0.9871,Florida
+193,178,FH_LANL_GrowthRate,Peaking,Peaking,0.9641,Florida
+194,178,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.9877,Florida
+195,430,FH_RobertWalraven_ESG,Peaking,Dec,-0.967,Florida
+196,430,FH_CU_nochange,Peaking,Dec,-0.9973,Florida
+197,430,FH_CU_scenario_low,Peaking,Dec,-0.9981,Florida
+198,430,FH_JHUAPL_Bucky,Peaking,Dec,-0.9969,Florida
+199,430,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9737,Florida
+200,430,FH_CU_scenario_mid,Peaking,Dec,-0.9937,Florida
+201,430,FH_TTU_squider,Peaking,Dec,-0.8745,Florida
+202,430,FH_Karlen_pypm,Peaking,Dec,-0.9979,Florida
+203,430,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9873,Florida
+204,430,FH_CEID_Walk,Peaking,Dec,-0.999,Florida
+205,430,USC_SI_kJalpha,Peaking,Dec,-0.993,Florida
+206,430,FH_BPagano_RtDriven,Peaking,Dec,-0.9981,Florida
+207,430,FH_COVIDhub_ensemble,Peaking,Dec,-0.9988,Florida
+208,430,FH_CU_select,Peaking,Dec,-0.9981,Florida
+209,430,FH_LANL_GrowthRate,Peaking,Dec,-0.9979,Florida
+210,430,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.8627,Florida
+211,381,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.5287,Florida
+212,381,FH_CU_nochange,Inc,Near Peak,-0.9863,Florida
+213,381,FH_CU_scenario_low,Peaking,Near Peak,-0.9425,Florida
+214,381,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.7115,Florida
+215,381,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.8038,Florida
+216,381,FH_CU_scenario_mid,Peaking,Near Peak,-0.9776,Florida
+217,381,FH_TTU_squider,Peaking,Near Peak,-0.6841,Florida
+218,381,FH_Karlen_pypm,Peaking,Near Peak,-0.6126,Florida
+219,381,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9043,Florida
+220,381,FH_CEID_Walk,Peaking,Near Peak,-0.91,Florida
+221,381,USC_SI_kJalpha,Peaking,Near Peak,-0.7625,Florida
+222,381,FH_BPagano_RtDriven,Peaking,Near Peak,-0.7641,Florida
+223,381,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.807,Florida
+224,381,FH_CU_select,Peaking,Near Peak,-0.9776,Florida
+225,381,FH_LANL_GrowthRate,Peaking,Near Peak,-0.9064,Florida
+226,381,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.7491,Florida
+227,395,FH_RobertWalraven_ESG,Peaking,Dec,-0.8255,Florida
+228,395,FH_CU_nochange,Peaking,Dec,-0.6968,Florida
+229,395,FH_CU_scenario_low,Peaking,Dec,-0.8523,Florida
+230,395,FH_JHUAPL_Bucky,Peaking,Dec,-0.4173,Florida
+231,395,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8724,Florida
+232,395,FH_CU_scenario_mid,Peaking,Dec,-0.8333,Florida
+233,395,FH_TTU_squider,Peaking,Dec,-0.703,Florida
+234,395,FH_Karlen_pypm,Peaking,Dec,-0.5376,Florida
+235,395,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9722,Florida
+236,395,FH_CEID_Walk,Peaking,Dec,-0.9308,Florida
+237,395,USC_SI_kJalpha,Peaking,Dec,-0.8421,Florida
+238,395,FH_BPagano_RtDriven,Peaking,Dec,-0.7621,Florida
+239,395,FH_COVIDhub_ensemble,Peaking,Dec,-0.8345,Florida
+240,395,FH_CU_select,Peaking,Dec,-0.8333,Florida
+241,395,FH_LANL_GrowthRate,Peaking,Dec,-0.9501,Florida
+242,395,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.6616,Florida
+243,206,FH_RobertWalraven_ESG,Peaking,Dec,-0.8256,Florida
+244,206,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8748,Florida
+245,206,FH_Karlen_pypm,Peaking,Dec,-0.817,Florida
+246,206,FH_CEID_Walk,Peaking,Dec,-0.9501,Florida
+247,206,USC_SI_kJalpha,Peaking,Dec,0.0108,Florida
+248,206,FH_COVIDhub_ensemble,Peaking,Dec,-0.8288,Florida
+249,206,FH_CU_select,Peaking,Dec,-0.9847,Florida
+250,206,FH_LANL_GrowthRate,Peaking,Dec,-0.7291,Florida
+251,206,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.7445,Florida
+252,619,FH_RobertWalraven_ESG,Peaking,Dec,-0.0827,Florida
+253,619,FH_CU_nochange,Peaking,Dec,-0.561,Florida
+254,619,FH_CU_scenario_low,Peaking,Dec,-0.6235,Florida
+255,619,FH_JHUAPL_Bucky,Peaking,Dec,-0.8919,Florida
+256,619,FH_CU_scenario_mid,Peaking,Dec,-0.8211,Florida
+257,619,FH_TTU_squider,Peaking,Dec,-0.7001,Florida
+258,619,FH_Karlen_pypm,Near Peak,Dec,0.4265,Florida
+259,619,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9975,Florida
+260,619,FH_CEID_Walk,Peaking,Dec,-0.9579,Florida
+261,619,USC_SI_kJalpha,Peaking,Dec,-0.0578,Florida
+262,619,FH_BPagano_RtDriven,Peaking,Dec,0.0984,Florida
+263,619,FH_COVIDhub_ensemble,Peaking,Dec,-0.2819,Florida
+264,619,FH_CU_select,Peaking,Dec,-0.6235,Florida
+265,619,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.3046,Florida
+266,633,FH_RobertWalraven_ESG,Peaking,Dec,0.156,Florida
+267,633,FH_CU_nochange,Peaking,Dec,-0.7489,Florida
+268,633,FH_CU_scenario_low,Peaking,Dec,-0.817,Florida
+269,633,FH_JHUAPL_Bucky,Peaking,Dec,-0.6428,Florida
+270,633,FH_CU_scenario_mid,Peaking,Dec,-0.8552,Florida
+271,633,FH_TTU_squider,Peaking,Dec,-0.6098,Florida
+272,633,FH_Karlen_pypm,Peaking,Dec,-0.0532,Florida
+273,633,USC_SI_kJalpha,Peaking,Dec,-0.3223,Florida
+274,633,FH_BPagano_RtDriven,Peaking,Dec,0.0952,Florida
+275,633,FH_COVIDhub_ensemble,Peaking,Dec,-0.0768,Florida
+276,633,FH_CU_select,Peaking,Dec,-0.817,Florida
+277,633,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.551,Florida
+278,388,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.6733,Florida
+279,388,FH_CU_nochange,Peaking,Near Peak,-0.5226,Florida
+280,388,FH_CU_scenario_low,Peaking,Near Peak,-0.8129,Florida
+281,388,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.8114,Florida
+282,388,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.9255,Florida
+283,388,FH_CU_scenario_mid,Peaking,Near Peak,-0.7534,Florida
+284,388,FH_TTU_squider,Peaking,Near Peak,-0.7238,Florida
+285,388,FH_Karlen_pypm,Peaking,Near Peak,-0.6057,Florida
+286,388,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9524,Florida
+287,388,FH_CEID_Walk,Peaking,Near Peak,-0.941,Florida
+288,388,USC_SI_kJalpha,Peaking,Near Peak,-0.8052,Florida
+289,388,FH_BPagano_RtDriven,Peaking,Near Peak,-0.6843,Florida
+290,388,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8244,Florida
+291,388,FH_CU_select,Peaking,Near Peak,-0.7534,Florida
+292,388,FH_LANL_GrowthRate,Peaking,Near Peak,-0.9337,Florida
+293,388,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.7389,Florida
+294,185,FH_RobertWalraven_ESG,Peaking,Peaking,0.4687,Florida
+295,185,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.526,Florida
+296,185,FH_Karlen_pypm,Peaking,Peaking,0.3781,Florida
+297,185,USC_SI_kJalpha,Peaking,Peaking,0.8342,Florida
+298,185,FH_COVIDhub_ensemble,Peaking,Peaking,0.533,Florida
+299,185,FH_LANL_GrowthRate,Peaking,Peaking,0.6802,Florida
+300,185,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.5223,Florida
+301,451,FH_RobertWalraven_ESG,Peaking,Peaking,0.8099,Florida
+302,451,FH_CU_nochange,Peaking,Peaking,0.7106,Florida
+303,451,FH_CU_scenario_low,Peaking,Peaking,0.7666,Florida
+304,451,FH_JHUAPL_Bucky,Peaking,Peaking,0.6413,Florida
+305,451,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.5387,Florida
+306,451,FH_CU_scenario_mid,Peaking,Peaking,0.6789,Florida
+307,451,FH_TTU_squider,Peaking,Peaking,0.8318,Florida
+308,451,FH_Karlen_pypm,Peaking,Peaking,0.6558,Florida
+309,451,FH_UMich_RidgeTfReg,Peaking,Peaking,0.7038,Florida
+310,451,FH_CEID_Walk,Peaking,Peaking,0.6488,Florida
+311,451,USC_SI_kJalpha,Peaking,Peaking,0.7672,Florida
+312,451,FH_BPagano_RtDriven,Peaking,Peaking,0.5095,Florida
+313,451,FH_COVIDhub_ensemble,Peaking,Peaking,0.6656,Florida
+314,451,FH_CU_select,Peaking,Peaking,0.6789,Florida
+315,451,FH_LANL_GrowthRate,Peaking,Peaking,0.5855,Florida
+316,451,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.8394,Florida
+317,332,FH_RobertWalraven_ESG,Peaking,Surge,0.9404,Florida
+318,332,FH_CU_nochange,Peaking,Surge,0.9322,Florida
+319,332,FH_CU_scenario_low,Peaking,Surge,0.9352,Florida
+320,332,FH_JHUAPL_Bucky,Peaking,Surge,0.8934,Florida
+321,332,FH_JHU_IDD_CovidSP,Peaking,Surge,0.957,Florida
+322,332,FH_CU_scenario_mid,Peaking,Surge,0.9551,Florida
+323,332,FH_TTU_squider,Peaking,Surge,0.9148,Florida
+324,332,FH_Karlen_pypm,Peaking,Surge,0.974,Florida
+325,332,FH_UMich_RidgeTfReg,Peaking,Surge,0.929,Florida
+326,332,USC_SI_kJalpha,Peaking,Surge,0.9321,Florida
+327,332,FH_BPagano_RtDriven,Peaking,Surge,0.9308,Florida
+328,332,FH_COVIDhub_ensemble,Peaking,Surge,0.9383,Florida
+329,332,FH_CU_select,Peaking,Surge,0.9352,Florida
+330,332,FH_LANL_GrowthRate,Peaking,Surge,0.9354,Florida
+331,332,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.9273,Florida
+332,318,FH_RobertWalraven_ESG,Peaking,Surge,0.8348,Florida
+333,318,FH_CU_nochange,Peaking,Surge,0.964,Florida
+334,318,FH_CU_scenario_low,Peaking,Surge,0.9567,Florida
+335,318,FH_JHUAPL_Bucky,Peaking,Surge,0.8985,Florida
+336,318,FH_JHU_IDD_CovidSP,Peaking,Surge,0.9682,Florida
+337,318,FH_CU_scenario_mid,Peaking,Surge,0.9476,Florida
+338,318,FH_TTU_squider,Peaking,Surge,0.952,Florida
+339,318,FH_Karlen_pypm,Peaking,Surge,0.9884,Florida
+340,318,FH_CEID_Walk,Peaking,Surge,0.9425,Florida
+341,318,USC_SI_kJalpha,Peaking,Surge,0.9756,Florida
+342,318,FH_BPagano_RtDriven,Peaking,Surge,0.9551,Florida
+343,318,FH_COVIDhub_ensemble,Peaking,Surge,0.9624,Florida
+344,318,FH_CU_select,Peaking,Surge,0.9567,Florida
+345,318,FH_LANL_GrowthRate,Peaking,Surge,0.9459,Florida
+346,318,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.9834,Florida
+347,444,FH_RobertWalraven_ESG,Peaking,Inc,0.6043,Florida
+348,444,FH_CU_nochange,Peaking,Inc,0.6717,Florida
+349,444,FH_CU_scenario_low,Peaking,Inc,0.6185,Florida
+350,444,FH_JHUAPL_Bucky,Peaking,Inc,0.8181,Florida
+351,444,FH_JHU_IDD_CovidSP,Peaking,Inc,0.8244,Florida
+352,444,FH_CU_scenario_mid,Peaking,Inc,0.7239,Florida
+353,444,FH_TTU_squider,Peaking,Inc,0.3576,Florida
+354,444,FH_Karlen_pypm,Peaking,Inc,0.7997,Florida
+355,444,FH_UMich_RidgeTfReg,Peaking,Inc,0.7892,Florida
+356,444,FH_CEID_Walk,Peaking,Inc,0.7419,Florida
+357,444,USC_SI_kJalpha,Peaking,Inc,0.601,Florida
+358,444,FH_BPagano_RtDriven,Peaking,Inc,0.8513,Florida
+359,444,FH_COVIDhub_ensemble,Peaking,Inc,0.75,Florida
+360,444,FH_CU_select,Peaking,Inc,0.7239,Florida
+361,444,FH_LANL_GrowthRate,Peaking,Inc,0.7681,Florida
+362,444,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.4948,Florida
+363,528,FH_RobertWalraven_ESG,Peaking,Surge,0.719,Florida
+364,528,FH_CU_nochange,Peaking,Surge,0.9199,Florida
+365,528,FH_CU_scenario_low,Peaking,Surge,0.8798,Florida
+366,528,FH_JHUAPL_Bucky,Peaking,Surge,0.9483,Florida
+367,528,FH_JHU_IDD_CovidSP,Peaking,Surge,0.2832,Florida
+368,528,FH_CU_scenario_mid,Peaking,Surge,0.9109,Florida
+369,528,FH_TTU_squider,Peaking,Surge,0.5174,Florida
+370,528,FH_Karlen_pypm,Peaking,Surge,0.9746,Florida
+371,528,FH_UMich_RidgeTfReg,Peaking,Surge,0.9088,Florida
+372,528,FH_CEID_Walk,Peaking,Surge,0.8911,Florida
+373,528,USC_SI_kJalpha,Peaking,Surge,0.9817,Florida
+374,528,FH_BPagano_RtDriven,Peaking,Surge,0.9546,Florida
+375,528,FH_COVIDhub_ensemble,Peaking,Surge,0.9009,Florida
+376,528,FH_CU_select,Peaking,Surge,0.9109,Florida
+377,528,FH_LANL_GrowthRate,Dec,Surge,-0.8981,Florida
+378,528,FH_CovidAnalytics_DELPHI,Near Peak,Surge,-0.8583,Florida
+379,255,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.2757,Florida
+380,255,FH_CU_nochange,Peaking,Near Peak,-0.9661,Florida
+381,255,FH_CU_scenario_low,Peaking,Near Peak,-0.8781,Florida
+382,255,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.8574,Florida
+383,255,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.9821,Florida
+384,255,FH_CU_scenario_mid,Peaking,Near Peak,-0.9424,Florida
+385,255,FH_TTU_squider,Dec,Near Peak,0.9363,Florida
+386,255,FH_Karlen_pypm,Peaking,Near Peak,-0.6016,Florida
+387,255,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9799,Florida
+388,255,FH_CEID_Walk,Peaking,Near Peak,-0.9562,Florida
+389,255,USC_SI_kJalpha,Peaking,Near Peak,-0.775,Florida
+390,255,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.9234,Florida
+391,255,FH_CU_select,Peaking,Near Peak,-0.9424,Florida
+392,255,FH_LANL_GrowthRate,Peaking,Near Peak,-0.5693,Florida
+393,255,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.119,Florida
+394,241,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.2838,Florida
+395,241,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.9301,Florida
+396,241,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.8078,Florida
+397,241,FH_Karlen_pypm,Peaking,Near Peak,-0.6068,Florida
+398,241,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9702,Florida
+399,241,FH_CEID_Walk,Peaking,Near Peak,-0.9323,Florida
+400,241,USC_SI_kJalpha,Peaking,Near Peak,-0.6688,Florida
+401,241,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8651,Florida
+402,241,FH_CU_select,Peaking,Near Peak,-0.9843,Florida
+403,241,FH_LANL_GrowthRate,Peaking,Near Peak,-0.538,Florida
+404,241,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.1426,Florida
+405,507,FH_RobertWalraven_ESG,Peaking,Dec,-0.907,Florida
+406,507,FH_CU_nochange,Peaking,Dec,-0.823,Florida
+407,507,FH_CU_scenario_low,Peaking,Dec,-0.7308,Florida
+408,507,FH_JHUAPL_Bucky,Peaking,Dec,0.0752,Florida
+409,507,FH_JHU_IDD_CovidSP,Peaking,Dec,0.0676,Florida
+410,507,FH_CU_scenario_mid,Peaking,Dec,-0.9095,Florida
+411,507,FH_TTU_squider,Peaking,Dec,-0.6521,Florida
+412,507,FH_Karlen_pypm,Peaking,Dec,-0.8619,Florida
+413,507,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9811,Florida
+414,507,FH_CEID_Walk,Peaking,Dec,-0.9583,Florida
+415,507,USC_SI_kJalpha,Near Peak,Dec,0.8396,Florida
+416,507,FH_BPagano_RtDriven,Peaking,Dec,-0.8807,Florida
+417,507,FH_COVIDhub_ensemble,Peaking,Dec,-0.86,Florida
+418,507,FH_CU_select,Peaking,Dec,-0.9095,Florida
+419,507,FH_LANL_GrowthRate,Dec,Dec,0.8785,Florida
+420,507,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.4369,Florida
+421,325,FH_RobertWalraven_ESG,Peaking,Surge,0.8893,Florida
+422,325,FH_CU_nochange,Peaking,Surge,0.8884,Florida
+423,325,FH_CU_scenario_low,Peaking,Surge,0.8894,Florida
+424,325,FH_JHUAPL_Bucky,Peaking,Surge,0.8463,Florida
+425,325,FH_JHU_IDD_CovidSP,Peaking,Surge,0.9274,Florida
+426,325,FH_CU_scenario_mid,Peaking,Surge,0.9141,Florida
+427,325,FH_TTU_squider,Peaking,Surge,0.871,Florida
+428,325,FH_Karlen_pypm,Peaking,Surge,0.9377,Florida
+429,325,FH_CEID_Walk,Near Peak,Surge,-0.8149,Florida
+430,325,USC_SI_kJalpha,Peaking,Surge,0.8872,Florida
+431,325,FH_BPagano_RtDriven,Peaking,Surge,0.8685,Florida
+432,325,FH_COVIDhub_ensemble,Peaking,Surge,0.8772,Florida
+433,325,FH_CU_select,Peaking,Surge,0.8894,Florida
+434,325,FH_LANL_GrowthRate,Peaking,Surge,0.8564,Florida
+435,325,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.9187,Florida
+436,640,FH_RobertWalraven_ESG,Peaking,Dec,0.0181,Florida
+437,640,FH_CU_nochange,Peaking,Dec,-0.8417,Florida
+438,640,FH_CU_scenario_low,Peaking,Dec,-0.87,Florida
+439,640,FH_JHUAPL_Bucky,Peaking,Dec,-0.8912,Florida
+440,640,FH_CU_scenario_mid,Peaking,Dec,-0.8994,Florida
+441,640,FH_TTU_squider,Peaking,Dec,-0.5785,Florida
+442,640,FH_Karlen_pypm,Near Peak,Dec,0.2408,Florida
+443,640,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9947,Florida
+444,640,USC_SI_kJalpha,Peaking,Dec,-0.5318,Florida
+445,640,FH_BPagano_RtDriven,Near Peak,Dec,0.2066,Florida
+446,640,FH_COVIDhub_ensemble,Peaking,Dec,-0.7391,Florida
+447,640,FH_CU_select,Peaking,Dec,-0.87,Florida
+448,640,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.6713,Florida
+449,654,FH_RobertWalraven_ESG,Peaking,Dec,-0.5863,Florida
+450,654,FH_CU_nochange,Peaking,Dec,-0.9911,Florida
+451,654,FH_CU_scenario_low,Peaking,Dec,-0.9918,Florida
+452,654,FH_JHUAPL_Bucky,Peaking,Dec,-0.9766,Florida
+453,654,FH_CU_scenario_mid,Peaking,Dec,-0.9815,Florida
+454,654,FH_TTU_squider,Peaking,Dec,-0.6191,Florida
+455,654,FH_Karlen_pypm,Near Peak,Dec,0.1437,Florida
+456,654,FH_UMich_RidgeTfReg,Inc,Dec,-0.9929,Florida
+457,654,USC_SI_kJalpha,Peaking,Dec,-0.9336,Florida
+458,654,FH_BPagano_RtDriven,Peaking,Dec,-0.6666,Florida
+459,654,FH_COVIDhub_ensemble,Peaking,Dec,-0.9103,Florida
+460,654,FH_CU_select,Peaking,Dec,-0.9815,Florida
+461,654,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.8148,Florida
+462,283,FH_RobertWalraven_ESG,Peaking,Surge,0.8968,Florida
+463,283,FH_CU_nochange,Peaking,Surge,0.9659,Florida
+464,283,FH_CU_scenario_low,Peaking,Surge,0.7197,Florida
+465,283,FH_JHUAPL_Bucky,Peaking,Surge,0.8483,Florida
+466,283,FH_JHU_IDD_CovidSP,Peaking,Surge,0.9303,Florida
+467,283,FH_CU_scenario_mid,Peaking,Surge,0.8928,Florida
+468,283,FH_TTU_squider,Peaking,Surge,0.8598,Florida
+469,283,FH_Karlen_pypm,Peaking,Surge,0.9528,Florida
+470,283,FH_UMich_RidgeTfReg,Peaking,Surge,0.9076,Florida
+471,283,FH_CEID_Walk,Peaking,Surge,0.8814,Florida
+472,283,USC_SI_kJalpha,Peaking,Surge,0.7762,Florida
+473,283,FH_BPagano_RtDriven,Peaking,Surge,0.8307,Florida
+474,283,FH_COVIDhub_ensemble,Peaking,Surge,0.8815,Florida
+475,283,FH_CU_select,Peaking,Surge,0.8928,Florida
+476,283,FH_LANL_GrowthRate,Peaking,Surge,0.9044,Florida
+477,283,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.5475,Florida
+478,276,FH_RobertWalraven_ESG,Peaking,Flat,-0.2765,Florida
+479,276,FH_CU_nochange,Peaking,Flat,-0.3192,Florida
+480,276,FH_CU_scenario_low,Peaking,Flat,-0.6796,Florida
+481,276,FH_JHUAPL_Bucky,Peaking,Flat,-0.3322,Florida
+482,276,FH_JHU_IDD_CovidSP,Peaking,Flat,-0.1078,Florida
+483,276,FH_CU_scenario_mid,Peaking,Flat,-0.3003,Florida
+484,276,FH_TTU_squider,Peaking,Flat,-0.9477,Florida
+485,276,FH_Karlen_pypm,Peaking,Flat,-0.0879,Florida
+486,276,FH_UMich_RidgeTfReg,Peaking,Flat,-0.1657,Florida
+487,276,FH_CEID_Walk,Peaking,Flat,-0.2998,Florida
+488,276,USC_SI_kJalpha,Peaking,Flat,-0.3396,Florida
+489,276,FH_BPagano_RtDriven,Peaking,Flat,-0.347,Florida
+490,276,FH_COVIDhub_ensemble,Peaking,Flat,-0.3059,Florida
+491,276,FH_CU_select,Peaking,Flat,-0.3003,Florida
+492,276,FH_LANL_GrowthRate,Peaking,Flat,-0.7654,Florida
+493,276,FH_CovidAnalytics_DELPHI,Peaking,Flat,-0.7145,Florida
+494,248,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.5866,Florida
+495,248,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.8306,Florida
+496,248,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.9587,Florida
+497,248,FH_Karlen_pypm,Peaking,Near Peak,-0.522,Florida
+498,248,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9489,Florida
+499,248,FH_CEID_Walk,Peaking,Near Peak,-0.8446,Florida
+500,248,USC_SI_kJalpha,Peaking,Near Peak,-0.7039,Florida
+501,248,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8179,Florida
+502,248,FH_CU_select,Peaking,Near Peak,-0.9416,Florida
+503,248,FH_LANL_GrowthRate,Peaking,Near Peak,-0.5201,Florida
+504,248,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.0424,Florida
+505,479,FH_RobertWalraven_ESG,Peaking,Dec,-0.7787,Florida
+506,479,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9536,Florida
+507,479,FH_TTU_squider,Peaking,Dec,-0.942,Florida
+508,479,FH_Karlen_pypm,Peaking,Dec,-0.3336,Florida
+509,479,USC_SI_kJalpha,Peaking,Dec,-0.5609,Florida
+510,479,FH_BPagano_RtDriven,Peaking,Dec,-0.8274,Florida
+511,479,FH_LANL_GrowthRate,Peaking,Dec,-0.9641,Florida
+512,493,FH_RobertWalraven_ESG,Peaking,Dec,-0.8452,Florida
+513,493,FH_CU_nochange,Peaking,Dec,-0.3017,Florida
+514,493,FH_CU_scenario_low,Peaking,Dec,-0.1693,Florida
+515,493,FH_JHUAPL_Bucky,Peaking,Dec,-0.8554,Florida
+516,493,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.3092,Florida
+517,493,FH_CU_scenario_mid,Peaking,Dec,-0.7689,Florida
+518,493,FH_TTU_squider,Peaking,Dec,-0.8565,Florida
+519,493,FH_Karlen_pypm,Peaking,Dec,-0.0374,Florida
+520,493,FH_UMich_RidgeTfReg,Near Peak,Dec,0.8098,Florida
+521,493,FH_CEID_Walk,Peaking,Dec,-0.9714,Florida
+522,493,USC_SI_kJalpha,Peaking,Dec,-0.4108,Florida
+523,493,FH_BPagano_RtDriven,Peaking,Dec,-0.6903,Florida
+524,493,FH_CU_select,Peaking,Dec,-0.7689,Florida
+525,493,FH_LANL_GrowthRate,Peaking,Dec,-0.9936,Florida
+526,493,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.1421,Florida
+527,521,FH_RobertWalraven_ESG,Peaking,Surge,0.6348,Florida
+528,521,FH_CU_nochange,Peaking,Surge,0.7445,Florida
+529,521,FH_CU_scenario_low,Peaking,Surge,0.6748,Florida
+530,521,FH_JHUAPL_Bucky,Peaking,Surge,0.7388,Florida
+531,521,FH_JHU_IDD_CovidSP,Peaking,Surge,0.0648,Florida
+532,521,FH_CU_scenario_mid,Peaking,Surge,0.7427,Florida
+533,521,FH_TTU_squider,Peaking,Surge,0.253,Florida
+534,521,FH_Karlen_pypm,Peaking,Surge,0.8245,Florida
+535,521,FH_UMich_RidgeTfReg,Peaking,Surge,0.7953,Florida
+536,521,FH_CEID_Walk,Peaking,Surge,0.7385,Florida
+537,521,USC_SI_kJalpha,Peaking,Surge,0.6481,Florida
+538,521,FH_BPagano_RtDriven,Peaking,Surge,0.8159,Florida
+539,521,FH_COVIDhub_ensemble,Peaking,Surge,0.6643,Florida
+540,521,FH_CU_select,Peaking,Surge,0.7427,Florida
+541,521,FH_LANL_GrowthRate,Peaking,Surge,0.7454,Florida
+542,521,FH_CovidAnalytics_DELPHI,Near Peak,Surge,-0.9402,Florida
+543,535,FH_RobertWalraven_ESG,Peaking,Surge,0.9325,Florida
+544,535,FH_CU_nochange,Peaking,Surge,0.9677,Florida
+545,535,FH_CU_scenario_low,Peaking,Surge,0.9506,Florida
+546,535,FH_JHUAPL_Bucky,Inc,Surge,0.9882,Florida
+547,535,FH_JHU_IDD_CovidSP,Peaking,Surge,0.5061,Florida
+548,535,FH_CU_scenario_mid,Peaking,Surge,0.9446,Florida
+549,535,FH_TTU_squider,Peaking,Surge,0.515,Florida
+550,535,FH_Karlen_pypm,Inc,Surge,0.9955,Florida
+551,535,FH_UMich_RidgeTfReg,Peaking,Surge,0.7289,Florida
+552,535,FH_CEID_Walk,Peaking,Surge,0.9123,Florida
+553,535,USC_SI_kJalpha,Inc,Surge,0.995,Florida
+554,535,FH_BPagano_RtDriven,Peaking,Surge,0.9725,Florida
+555,535,FH_COVIDhub_ensemble,Peaking,Surge,0.9141,Florida
+556,535,FH_CU_select,Peaking,Surge,0.9506,Florida
+557,535,FH_LANL_GrowthRate,Peaking,Surge,0.8998,Florida
+558,535,FH_CovidAnalytics_DELPHI,Near Peak,Surge,-0.8899,Florida
+559,290,FH_RobertWalraven_ESG,Peaking,Inc,0.8979,Florida
+560,290,FH_CU_nochange,Peaking,Inc,0.9944,Florida
+561,290,FH_CU_scenario_low,Peaking,Inc,0.9788,Florida
+562,290,FH_JHUAPL_Bucky,Peaking,Inc,0.9179,Florida
+563,290,FH_CU_scenario_mid,Peaking,Inc,0.9568,Florida
+564,290,FH_TTU_squider,Peaking,Inc,0.9445,Florida
+565,290,FH_Karlen_pypm,Peaking,Inc,0.985,Florida
+566,290,FH_UMich_RidgeTfReg,Peaking,Inc,0.9471,Florida
+567,290,FH_CEID_Walk,Peaking,Inc,0.9343,Florida
+568,290,USC_SI_kJalpha,Peaking,Inc,0.7963,Florida
+569,290,FH_BPagano_RtDriven,Peaking,Inc,0.9606,Florida
+570,290,FH_COVIDhub_ensemble,Peaking,Inc,0.9541,Florida
+571,290,FH_CU_select,Peaking,Inc,0.9916,Florida
+572,290,FH_LANL_GrowthRate,Peaking,Inc,0.9514,Florida
+573,290,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.7516,Florida
+574,465,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.8964,Florida
+575,465,FH_CU_nochange,Peaking,Near Peak,-0.3947,Florida
+576,465,FH_CU_scenario_low,Peaking,Near Peak,-0.2605,Florida
+577,465,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.8806,Florida
+578,465,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.8135,Florida
+579,465,FH_CU_scenario_mid,Peaking,Near Peak,-0.7617,Florida
+580,465,FH_TTU_squider,Peaking,Near Peak,-0.9194,Florida
+581,465,FH_Karlen_pypm,Peaking,Near Peak,-0.5796,Florida
+582,465,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.949,Florida
+583,465,FH_CEID_Walk,Peaking,Near Peak,-0.9331,Florida
+584,465,USC_SI_kJalpha,Peaking,Near Peak,-0.7742,Florida
+585,465,FH_BPagano_RtDriven,Peaking,Near Peak,-0.858,Florida
+586,465,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8792,Florida
+587,465,FH_CU_select,Peaking,Near Peak,-0.7617,Florida
+588,465,FH_LANL_GrowthRate,Peaking,Near Peak,-0.9414,Florida
+589,465,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.46,Florida
+590,297,FH_RobertWalraven_ESG,Peaking,Inc,0.9384,Florida
+591,297,FH_CU_nochange,Peaking,Inc,0.9687,Florida
+592,297,FH_CU_scenario_low,Peaking,Inc,0.9546,Florida
+593,297,FH_JHUAPL_Bucky,Peaking,Inc,0.9752,Florida
+594,297,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9911,Florida
+595,297,FH_CU_scenario_mid,Peaking,Inc,0.9727,Florida
+596,297,FH_TTU_squider,Peaking,Inc,0.949,Florida
+597,297,FH_Karlen_pypm,Peaking,Inc,0.9877,Florida
+598,297,FH_UMich_RidgeTfReg,Peaking,Inc,0.9566,Florida
+599,297,FH_CEID_Walk,Peaking,Inc,0.9424,Florida
+600,297,USC_SI_kJalpha,Peaking,Inc,0.3194,Florida
+601,297,FH_BPagano_RtDriven,Peaking,Inc,0.9786,Florida
+602,297,FH_COVIDhub_ensemble,Peaking,Inc,0.9609,Florida
+603,297,FH_CU_select,Peaking,Inc,0.9546,Florida
+604,297,FH_LANL_GrowthRate,Peaking,Inc,0.944,Florida
+605,297,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.7798,Florida
+606,472,FH_RobertWalraven_ESG,Peaking,Dec,-0.758,Florida
+607,472,FH_CU_nochange,Peaking,Dec,-0.1057,Florida
+608,472,FH_CU_scenario_low,Peaking,Dec,0.0114,Florida
+609,472,FH_JHUAPL_Bucky,Peaking,Dec,-0.675,Florida
+610,472,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9028,Florida
+611,472,FH_CU_scenario_mid,Peaking,Dec,-0.6356,Florida
+612,472,FH_TTU_squider,Peaking,Dec,-0.8961,Florida
+613,472,FH_Karlen_pypm,Peaking,Dec,-0.3666,Florida
+614,472,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9407,Florida
+615,472,FH_CEID_Walk,Peaking,Dec,-0.9343,Florida
+616,472,USC_SI_kJalpha,Peaking,Dec,-0.5925,Florida
+617,472,FH_BPagano_RtDriven,Peaking,Dec,-0.8699,Florida
+618,472,FH_COVIDhub_ensemble,Peaking,Dec,-0.7404,Florida
+619,472,FH_CU_select,Peaking,Dec,-0.6356,Florida
+620,472,FH_LANL_GrowthRate,Peaking,Dec,-0.9324,Florida
+621,472,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.2533,Florida
+622,304,FH_RobertWalraven_ESG,Peaking,Peaking,0.9921,Florida
+623,304,FH_CU_nochange,Peaking,Peaking,0.9967,Florida
+624,304,FH_CU_scenario_low,Peaking,Peaking,0.9966,Florida
+625,304,FH_JHUAPL_Bucky,Peaking,Peaking,0.9983,Florida
+626,304,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9967,Florida
+627,304,FH_CU_scenario_mid,Peaking,Peaking,0.9999,Florida
+628,304,FH_TTU_squider,Peaking,Peaking,0.9872,Florida
+629,304,FH_Karlen_pypm,Peaking,Peaking,0.9998,Florida
+630,304,FH_UMich_RidgeTfReg,Peaking,Peaking,0.974,Florida
+631,304,FH_CEID_Walk,Peaking,Peaking,0.9802,Florida
+632,304,USC_SI_kJalpha,Peaking,Peaking,0.9977,Florida
+633,304,FH_BPagano_RtDriven,Peaking,Peaking,0.9958,Florida
+634,304,FH_COVIDhub_ensemble,Peaking,Peaking,0.9949,Florida
+635,304,FH_CU_select,Peaking,Peaking,0.9966,Florida
+636,304,FH_LANL_GrowthRate,Peaking,Peaking,0.9856,Florida
+637,304,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.9997,Florida
+638,458,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.4823,Florida
+639,458,FH_CU_nochange,Peaking,Near Peak,-0.3553,Florida
+640,458,FH_CU_scenario_low,Peaking,Near Peak,-0.2062,Florida
+641,458,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.6489,Florida
+642,458,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.7013,Florida
+643,458,FH_CU_scenario_mid,Peaking,Near Peak,-0.6393,Florida
+644,458,FH_TTU_squider,Peaking,Near Peak,-0.8194,Florida
+645,458,FH_Karlen_pypm,Peaking,Near Peak,-0.7828,Florida
+646,458,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.8032,Florida
+647,458,FH_CEID_Walk,Peaking,Near Peak,-0.8247,Florida
+648,458,USC_SI_kJalpha,Peaking,Near Peak,-0.5474,Florida
+649,458,FH_BPagano_RtDriven,Peaking,Near Peak,-0.8211,Florida
+650,458,FH_CU_select,Peaking,Near Peak,-0.6393,Florida
+651,458,FH_LANL_GrowthRate,Peaking,Near Peak,-0.8048,Florida
+652,458,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.3145,Florida
+653,661,FH_RobertWalraven_ESG,Peaking,Flat,-0.9888,Florida
+654,661,FH_CU_nochange,Peaking,Flat,-0.7508,Florida
+655,661,FH_CU_scenario_low,Inc,Flat,-0.7246,Florida
+656,661,FH_JHUAPL_Bucky,Peaking,Flat,-0.8044,Florida
+657,661,FH_CU_scenario_mid,Peaking,Flat,-0.8295,Florida
+658,661,FH_TTU_squider,Peaking,Flat,-0.9775,Florida
+659,661,FH_Karlen_pypm,Peaking,Flat,-0.9674,Florida
+660,661,USC_SI_kJalpha,Peaking,Flat,-0.8656,Florida
+661,661,FH_BPagano_RtDriven,Peaking,Flat,-0.9885,Florida
+662,661,FH_COVIDhub_ensemble,Peaking,Flat,-0.9209,Florida
+663,661,FH_CU_select,Peaking,Flat,-0.8295,Florida
+664,661,FH_CovidAnalytics_DELPHI,Near Peak,Flat,0.3482,Florida
+665,311,FH_RobertWalraven_ESG,Peaking,Peaking,0.9578,Florida
+666,311,FH_CU_nochange,Peaking,Peaking,0.9206,Florida
+667,311,FH_CU_scenario_low,Peaking,Peaking,0.9486,Florida
+668,311,FH_JHUAPL_Bucky,Peaking,Peaking,0.9818,Florida
+669,311,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9831,Florida
+670,311,FH_CU_scenario_mid,Peaking,Peaking,0.9563,Florida
+671,311,FH_TTU_squider,Peaking,Peaking,0.9837,Florida
+672,311,FH_Karlen_pypm,Peaking,Peaking,0.9954,Florida
+673,311,FH_CEID_Walk,Peaking,Peaking,0.9564,Florida
+674,311,USC_SI_kJalpha,Peaking,Peaking,0.7946,Florida
+675,311,FH_BPagano_RtDriven,Peaking,Peaking,0.9793,Florida
+676,311,FH_COVIDhub_ensemble,Peaking,Peaking,0.9809,Florida
+677,311,FH_CU_select,Peaking,Peaking,0.9486,Florida
+678,311,FH_LANL_GrowthRate,Peaking,Peaking,0.9845,Florida
+679,311,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.995,Florida
+680,269,FH_RobertWalraven_ESG,Peaking,Dec,-0.9707,Florida
+681,269,FH_CU_nochange,Peaking,Dec,-0.9974,Florida
+682,269,FH_CU_scenario_low,Peaking,Dec,-0.9787,Florida
+683,269,FH_JHUAPL_Bucky,Peaking,Dec,-0.9644,Florida
+684,269,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9968,Florida
+685,269,FH_CU_scenario_mid,Peaking,Dec,-0.9979,Florida
+686,269,FH_TTU_squider,Peaking,Dec,-0.7142,Florida
+687,269,FH_Karlen_pypm,Peaking,Dec,-0.9754,Florida
+688,269,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9989,Florida
+689,269,FH_CEID_Walk,Peaking,Dec,-0.992,Florida
+690,269,USC_SI_kJalpha,Peaking,Dec,-0.9214,Florida
+691,269,FH_BPagano_RtDriven,Peaking,Dec,-0.9988,Florida
+692,269,FH_COVIDhub_ensemble,Peaking,Dec,-0.9739,Florida
+693,269,FH_CU_select,Peaking,Dec,-0.9979,Florida
+694,269,FH_LANL_GrowthRate,Peaking,Dec,-0.7808,Florida
+695,269,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.2427,Florida
+696,486,FH_RobertWalraven_ESG,Peaking,Dec,-0.8288,Florida
+697,486,FH_JHUAPL_Bucky,Peaking,Dec,-0.278,Florida
+698,486,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9151,Florida
+699,486,FH_TTU_squider,Peaking,Dec,-0.93,Florida
+700,486,FH_Karlen_pypm,Peaking,Dec,-0.3242,Florida
+701,486,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9908,Florida
+702,486,FH_CEID_Walk,Peaking,Dec,-0.977,Florida
+703,486,USC_SI_kJalpha,Peaking,Dec,-0.515,Florida
+704,486,FH_BPagano_RtDriven,Peaking,Dec,-0.7262,Florida
+705,486,FH_LANL_GrowthRate,Peaking,Dec,-0.9444,Florida
+706,486,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.0963,Florida
+707,647,FH_RobertWalraven_ESG,Peaking,Dec,-0.5921,Florida
+708,647,FH_CU_nochange,Peaking,Dec,-0.9874,Florida
+709,647,FH_CU_scenario_low,Peaking,Dec,-0.9938,Florida
+710,647,FH_JHUAPL_Bucky,Peaking,Dec,-0.9851,Florida
+711,647,FH_CU_scenario_mid,Peaking,Dec,-0.983,Florida
+712,647,FH_TTU_squider,Peaking,Dec,-0.671,Florida
+713,647,FH_Karlen_pypm,Peaking,Dec,-0.0316,Florida
+714,647,FH_UMich_RidgeTfReg,Inc,Dec,-0.9953,Florida
+715,647,USC_SI_kJalpha,Inc,Dec,-0.9968,Florida
+716,647,FH_BPagano_RtDriven,Peaking,Dec,-0.3977,Florida
+717,647,FH_COVIDhub_ensemble,Peaking,Dec,-0.8353,Florida
+718,647,FH_CU_select,Peaking,Dec,-0.983,Florida
+719,647,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.6548,Florida
+720,262,FH_RobertWalraven_ESG,Near Peak,Dec,0.7462,Florida
+721,262,FH_CU_nochange,Peaking,Dec,-0.9817,Florida
+722,262,FH_CU_scenario_low,Peaking,Dec,-0.861,Florida
+723,262,FH_JHUAPL_Bucky,Peaking,Dec,-0.8825,Florida
+724,262,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9954,Florida
+725,262,FH_CU_scenario_mid,Peaking,Dec,-0.9681,Florida
+726,262,FH_TTU_squider,Dec,Dec,0.9563,Florida
+727,262,FH_Karlen_pypm,Peaking,Dec,-0.9123,Florida
+728,262,FH_UMich_RidgeTfReg,Peaking,Dec,-0.994,Florida
+729,262,FH_CEID_Walk,Peaking,Dec,-0.9547,Florida
+730,262,USC_SI_kJalpha,Peaking,Dec,-0.7013,Florida
+731,262,FH_COVIDhub_ensemble,Peaking,Dec,-0.9217,Florida
+732,262,FH_CU_select,Peaking,Dec,-0.9681,Florida
+733,262,FH_LANL_GrowthRate,Peaking,Dec,-0.6165,Florida
+734,262,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.1802,Florida
+735,500,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.8178,Florida
+736,500,FH_CU_nochange,Peaking,Near Peak,0.0914,Florida
+737,500,FH_CU_scenario_low,Peaking,Near Peak,0.2345,Florida
+738,500,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.6596,Florida
+739,500,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.0709,Florida
+740,500,FH_CU_scenario_mid,Peaking,Near Peak,-0.4869,Florida
+741,500,FH_TTU_squider,Peaking,Near Peak,-0.5156,Florida
+742,500,FH_Karlen_pypm,Peaking,Near Peak,-0.1793,Florida
+743,500,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.958,Florida
+744,500,FH_CEID_Walk,Peaking,Near Peak,-0.8815,Florida
+745,500,USC_SI_kJalpha,Peaking,Near Peak,-0.4207,Florida
+746,500,FH_BPagano_RtDriven,Near Peak,Near Peak,0.603,Florida
+747,500,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.4438,Florida
+748,500,FH_CU_select,Peaking,Near Peak,-0.4869,Florida
+749,500,FH_LANL_GrowthRate,Peaking,Near Peak,-0.9606,Florida
+750,500,FH_CovidAnalytics_DELPHI,Near Peak,Near Peak,0.4777,Florida
+751,514,FH_RobertWalraven_ESG,Peaking,Dec,-0.9781,Florida
+752,514,FH_CU_nochange,Peaking,Dec,-0.9891,Florida
+753,514,FH_CU_scenario_low,Peaking,Dec,-0.986,Florida
+754,514,FH_JHUAPL_Bucky,Peaking,Dec,-0.8213,Florida
+755,514,FH_JHU_IDD_CovidSP,Near Peak,Dec,0.0694,Florida
+756,514,FH_CU_scenario_mid,Peaking,Dec,-0.9897,Florida
+757,514,FH_TTU_squider,Peaking,Dec,-0.7922,Florida
+758,514,FH_Karlen_pypm,Peaking,Dec,-0.9777,Florida
+759,514,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9879,Florida
+760,514,FH_CEID_Walk,Peaking,Dec,-0.9851,Florida
+761,514,USC_SI_kJalpha,Peaking,Dec,-0.9882,Florida
+762,514,FH_BPagano_RtDriven,Peaking,Dec,-0.979,Florida
+763,514,FH_COVIDhub_ensemble,Peaking,Dec,-0.9815,Florida
+764,514,FH_CU_select,Peaking,Dec,-0.9897,Florida
+765,514,FH_LANL_GrowthRate,Peaking,Dec,-0.9897,Florida
+766,514,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.386,Florida
+767,563,FH_RobertWalraven_ESG,Peaking,Inc,0.9563,Florida
+768,563,FH_CU_nochange,Peaking,Inc,0.8523,Florida
+769,563,FH_CU_scenario_low,Peaking,Inc,0.8021,Florida
+770,563,FH_JHUAPL_Bucky,Peaking,Inc,0.9733,Florida
+771,563,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9592,Florida
+772,563,FH_CU_scenario_mid,Peaking,Inc,0.9013,Florida
+773,563,FH_TTU_squider,Peaking,Inc,0.7246,Florida
+774,563,FH_Karlen_pypm,Peaking,Inc,0.9495,Florida
+775,563,FH_CEID_Walk,Peaking,Inc,0.9453,Florida
+776,563,USC_SI_kJalpha,Peaking,Inc,0.95,Florida
+777,563,FH_BPagano_RtDriven,Peaking,Inc,0.9841,Florida
+778,563,FH_COVIDhub_ensemble,Peaking,Inc,0.9643,Florida
+779,563,FH_CU_select,Peaking,Inc,0.8021,Florida
+780,563,FH_LANL_GrowthRate,Peaking,Inc,0.9496,Florida
+781,563,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9152,Florida
+782,409,FH_RobertWalraven_ESG,Peaking,Dec,-0.8586,Florida
+783,409,FH_CU_nochange,Peaking,Dec,-0.9051,Florida
+784,409,FH_CU_scenario_low,Peaking,Dec,-0.9421,Florida
+785,409,FH_JHUAPL_Bucky,Peaking,Dec,-0.4937,Florida
+786,409,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.875,Florida
+787,409,FH_CU_scenario_mid,Peaking,Dec,-0.9447,Florida
+788,409,FH_TTU_squider,Peaking,Dec,-0.7396,Florida
+789,409,FH_Karlen_pypm,Peaking,Dec,-0.9247,Florida
+790,409,FH_UMich_RidgeTfReg,Peaking,Dec,-0.992,Florida
+791,409,FH_CEID_Walk,Peaking,Dec,-0.9664,Florida
+792,409,USC_SI_kJalpha,Peaking,Dec,-0.9446,Florida
+793,409,FH_BPagano_RtDriven,Peaking,Dec,-0.9355,Florida
+794,409,FH_COVIDhub_ensemble,Peaking,Dec,-0.9306,Florida
+795,409,FH_CU_select,Peaking,Dec,-0.9447,Florida
+796,409,FH_LANL_GrowthRate,Peaking,Dec,-0.9782,Florida
+797,409,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.6924,Florida
+798,437,FH_RobertWalraven_ESG,Peaking,Surge,0.0388,Florida
+799,437,FH_CU_nochange,Peaking,Surge,0.3134,Florida
+800,437,FH_CU_scenario_low,Peaking,Surge,0.3179,Florida
+801,437,FH_JHUAPL_Bucky,Peaking,Surge,0.3244,Florida
+802,437,FH_JHU_IDD_CovidSP,Peaking,Surge,0.2058,Florida
+803,437,FH_CU_scenario_mid,Peaking,Surge,0.3459,Florida
+804,437,FH_TTU_squider,Peaking,Surge,0.0493,Florida
+805,437,FH_Karlen_pypm,Peaking,Surge,0.3949,Florida
+806,437,FH_UMich_RidgeTfReg,Peaking,Surge,0.3598,Florida
+807,437,FH_CEID_Walk,Peaking,Surge,0.3243,Florida
+808,437,USC_SI_kJalpha,Peaking,Surge,0.2499,Florida
+809,437,FH_BPagano_RtDriven,Peaking,Surge,0.4111,Florida
+810,437,FH_COVIDhub_ensemble,Peaking,Surge,0.3234,Florida
+811,437,FH_CU_select,Peaking,Surge,0.3179,Florida
+812,437,FH_LANL_GrowthRate,Peaking,Surge,0.3558,Florida
+813,437,FH_CovidAnalytics_DELPHI,Peaking,Surge,0.0778,Florida
+814,605,FH_RobertWalraven_ESG,Peaking,Dec,-0.7883,Florida
+815,605,FH_CU_nochange,Peaking,Dec,-0.2017,Florida
+816,605,FH_CU_scenario_low,Peaking,Dec,-0.2387,Florida
+817,605,FH_JHUAPL_Bucky,Peaking,Dec,-0.4005,Florida
+818,605,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8138,Florida
+819,605,FH_CU_scenario_mid,Peaking,Dec,-0.6415,Florida
+820,605,FH_TTU_squider,Peaking,Dec,-0.7413,Florida
+821,605,FH_Karlen_pypm,Near Peak,Dec,0.221,Florida
+822,605,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9549,Florida
+823,605,FH_CEID_Walk,Peaking,Dec,-0.9503,Florida
+824,605,USC_SI_kJalpha,Peaking,Dec,-0.3473,Florida
+825,605,FH_BPagano_RtDriven,Peaking,Dec,0.0107,Florida
+826,605,FH_COVIDhub_ensemble,Peaking,Dec,-0.4312,Florida
+827,605,FH_CU_select,Peaking,Dec,-0.2387,Florida
+828,605,FH_LANL_GrowthRate,Peaking,Dec,-0.9708,Florida
+829,605,FH_CovidAnalytics_DELPHI,Peaking,Dec,0.0917,Florida
+830,374,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.6268,Florida
+831,374,FH_CU_nochange,Peaking,Near Peak,-0.9862,Florida
+832,374,FH_CU_scenario_low,Peaking,Near Peak,-0.9628,Florida
+833,374,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.6147,Florida
+834,374,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.8635,Florida
+835,374,FH_CU_scenario_mid,Peaking,Near Peak,-0.9838,Florida
+836,374,FH_TTU_squider,Peaking,Near Peak,-0.7511,Florida
+837,374,FH_Karlen_pypm,Peaking,Near Peak,-0.7338,Florida
+838,374,FH_UMich_RidgeTfReg,Peaking,Near Peak,-0.9342,Florida
+839,374,FH_CEID_Walk,Peaking,Near Peak,-0.9403,Florida
+840,374,USC_SI_kJalpha,Peaking,Near Peak,-0.8433,Florida
+841,374,FH_BPagano_RtDriven,Peaking,Near Peak,-0.8978,Florida
+842,374,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.8876,Florida
+843,374,FH_CU_select,Peaking,Near Peak,-0.9628,Florida
+844,374,FH_LANL_GrowthRate,Peaking,Near Peak,-0.9318,Florida
+845,374,FH_CovidAnalytics_DELPHI,Peaking,Near Peak,-0.9819,Florida
+846,402,FH_RobertWalraven_ESG,Peaking,Dec,-0.8932,Florida
+847,402,FH_CU_nochange,Peaking,Dec,-0.9582,Florida
+848,402,FH_CU_scenario_low,Peaking,Dec,-0.9627,Florida
+849,402,FH_JHUAPL_Bucky,Peaking,Dec,-0.8753,Florida
+850,402,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8794,Florida
+851,402,FH_CU_scenario_mid,Peaking,Dec,-0.9715,Florida
+852,402,FH_TTU_squider,Peaking,Dec,-0.7586,Florida
+853,402,FH_Karlen_pypm,Peaking,Dec,-0.9464,Florida
+854,402,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9908,Florida
+855,402,FH_CEID_Walk,Peaking,Dec,-0.967,Florida
+856,402,USC_SI_kJalpha,Peaking,Dec,-0.9574,Florida
+857,402,FH_BPagano_RtDriven,Peaking,Dec,-0.9128,Florida
+858,402,FH_COVIDhub_ensemble,Peaking,Dec,-0.9316,Florida
+859,402,FH_CU_select,Peaking,Dec,-0.9715,Florida
+860,402,FH_LANL_GrowthRate,Peaking,Dec,-0.9825,Florida
+861,402,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.6709,Florida
+862,360,FH_RobertWalraven_ESG,Peaking,Peaking,0.8001,Florida
+863,360,FH_TTU_squider,Peaking,Peaking,0.9004,Florida
+864,360,FH_Karlen_pypm,Peaking,Peaking,0.7249,Florida
+865,360,FH_CEID_Walk,Peaking,Peaking,0.7589,Florida
+866,360,USC_SI_kJalpha,Peaking,Peaking,0.815,Florida
+867,360,FH_BPagano_RtDriven,Peaking,Peaking,0.7614,Florida
+868,556,FH_RobertWalraven_ESG,Peaking,Inc,0.929,Florida
+869,556,FH_CU_nochange,Peaking,Inc,0.9519,Florida
+870,556,FH_CU_scenario_low,Peaking,Inc,0.9322,Florida
+871,556,FH_JHUAPL_Bucky,Peaking,Inc,0.9822,Florida
+872,556,FH_JHU_IDD_CovidSP,Dec,Inc,-0.9371,Florida
+873,556,FH_CU_scenario_mid,Peaking,Inc,0.9459,Florida
+874,556,FH_TTU_squider,Peaking,Inc,0.6073,Florida
+875,556,FH_Karlen_pypm,Peaking,Inc,0.9955,Florida
+876,556,FH_UMich_RidgeTfReg,Peaking,Inc,0.9954,Florida
+877,556,FH_CEID_Walk,Peaking,Inc,0.939,Florida
+878,556,USC_SI_kJalpha,Peaking,Inc,0.9788,Florida
+879,556,FH_BPagano_RtDriven,Peaking,Inc,0.9942,Florida
+880,556,FH_COVIDhub_ensemble,Peaking,Inc,0.9373,Florida
+881,556,FH_CU_select,Peaking,Inc,0.9322,Florida
+882,556,FH_LANL_GrowthRate,Peaking,Inc,0.9371,Florida
+883,556,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9602,Florida
+884,213,FH_RobertWalraven_ESG,Peaking,Dec,-0.7204,Florida
+885,213,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9304,Florida
+886,213,FH_Karlen_pypm,Peaking,Dec,-0.8769,Florida
+887,213,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9994,Florida
+888,213,FH_CEID_Walk,Peaking,Dec,-0.9963,Florida
+889,213,USC_SI_kJalpha,Near Peak,Dec,0.2316,Florida
+890,213,FH_COVIDhub_ensemble,Peaking,Dec,-0.8577,Florida
+891,213,FH_CU_select,Peaking,Dec,-0.9079,Florida
+892,213,FH_LANL_GrowthRate,Peaking,Dec,-0.5148,Florida
+893,213,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.7242,Florida
+894,570,FH_RobertWalraven_ESG,Peaking,Inc,0.938,Florida
+895,570,FH_CU_nochange,Peaking,Inc,0.6256,Florida
+896,570,FH_CU_scenario_low,Peaking,Inc,0.5171,Florida
+897,570,FH_JHUAPL_Bucky,Peaking,Inc,0.9707,Florida
+898,570,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9851,Florida
+899,570,FH_TTU_squider,Peaking,Inc,0.7902,Florida
+900,570,FH_Karlen_pypm,Peaking,Inc,0.8729,Florida
+901,570,FH_UMich_RidgeTfReg,Peaking,Inc,0.9338,Florida
+902,570,FH_CEID_Walk,Peaking,Inc,0.954,Florida
+903,570,USC_SI_kJalpha,Peaking,Inc,0.9122,Florida
+904,570,FH_BPagano_RtDriven,Peaking,Inc,0.8648,Florida
+905,570,FH_COVIDhub_ensemble,Peaking,Inc,0.9054,Florida
+906,570,FH_CU_select,Peaking,Inc,0.5171,Florida
+907,570,FH_LANL_GrowthRate,Peaking,Inc,0.9532,Florida
+908,570,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.8096,Florida
+909,227,FH_RobertWalraven_ESG,Peaking,Dec,-0.4606,Florida
+910,227,FH_JHUAPL_Bucky,Peaking,Dec,-0.9611,Florida
+911,227,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.9006,Florida
+912,227,FH_Karlen_pypm,Peaking,Dec,-0.7607,Florida
+913,227,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9927,Florida
+914,227,FH_CEID_Walk,Peaking,Dec,-0.9571,Florida
+915,227,USC_SI_kJalpha,Peaking,Dec,-0.7861,Florida
+916,227,FH_COVIDhub_ensemble,Peaking,Dec,-0.9551,Florida
+917,227,FH_CU_select,Peaking,Dec,-0.9966,Florida
+918,227,FH_LANL_GrowthRate,Peaking,Dec,-0.7318,Florida
+919,227,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.426,Florida
+920,346,FH_RobertWalraven_ESG,Peaking,Peaking,0.9685,Florida
+921,346,FH_CU_nochange,Inc,Peaking,0.9967,Florida
+922,346,FH_CU_scenario_low,Peaking,Peaking,0.9995,Florida
+923,346,FH_JHUAPL_Bucky,Peaking,Peaking,0.9757,Florida
+924,346,FH_JHU_IDD_CovidSP,Peaking,Peaking,0.9892,Florida
+925,346,FH_CU_scenario_mid,Peaking,Peaking,0.9982,Florida
+926,346,FH_TTU_squider,Peaking,Peaking,0.9438,Florida
+927,346,FH_Karlen_pypm,Peaking,Peaking,0.9956,Florida
+928,346,FH_UMich_RidgeTfReg,Peaking,Peaking,0.9939,Florida
+929,346,FH_CEID_Walk,Peaking,Peaking,0.9781,Florida
+930,346,USC_SI_kJalpha,Peaking,Peaking,0.9702,Florida
+931,346,FH_BPagano_RtDriven,Peaking,Peaking,0.9845,Florida
+932,346,FH_COVIDhub_ensemble,Peaking,Peaking,0.978,Florida
+933,346,FH_CU_select,Peaking,Peaking,0.9982,Florida
+934,346,FH_LANL_GrowthRate,Peaking,Peaking,0.9895,Florida
+935,346,FH_CovidAnalytics_DELPHI,Peaking,Peaking,0.9237,Florida
+936,199,FH_RobertWalraven_ESG,Peaking,Dec,-0.9856,Florida
+937,199,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.8999,Florida
+938,199,FH_Karlen_pypm,Peaking,Dec,-0.8992,Florida
+939,199,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9902,Florida
+940,199,FH_CEID_Walk,Peaking,Dec,-0.9847,Florida
+941,199,USC_SI_kJalpha,Peaking,Dec,-0.3277,Florida
+942,199,FH_COVIDhub_ensemble,Peaking,Dec,-0.9106,Florida
+943,199,FH_CU_select,Peaking,Dec,-0.887,Florida
+944,199,FH_LANL_GrowthRate,Peaking,Dec,-0.5247,Florida
+945,199,FH_CovidAnalytics_DELPHI,Peaking,Dec,-0.8911,Florida
+946,164,FH_RobertWalraven_ESG,Near Peak,Inc,-0.9978,Florida
+947,164,FH_JHU_IDD_CovidSP,Inc,Inc,0.9988,Florida
+948,164,USC_SI_kJalpha,Near Peak,Inc,-0.7511,Florida
+949,164,FH_LANL_GrowthRate,Peaking,Inc,0.9646,Florida
+950,164,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9893,Florida
+951,598,FH_RobertWalraven_ESG,Peaking,Near Peak,-0.8296,Florida
+952,598,FH_CU_nochange,Peaking,Near Peak,-0.1117,Florida
+953,598,FH_CU_scenario_low,Peaking,Near Peak,-0.1348,Florida
+954,598,FH_JHUAPL_Bucky,Peaking,Near Peak,-0.4082,Florida
+955,598,FH_JHU_IDD_CovidSP,Peaking,Near Peak,-0.7868,Florida
+956,598,FH_CU_scenario_mid,Peaking,Near Peak,-0.6124,Florida
+957,598,FH_TTU_squider,Peaking,Near Peak,-0.7207,Florida
+958,598,FH_Karlen_pypm,Peaking,Near Peak,0.1284,Florida
+959,598,FH_UMich_RidgeTfReg,Near Peak,Near Peak,0.8811,Florida
+960,598,FH_CEID_Walk,Peaking,Near Peak,-0.9063,Florida
+961,598,USC_SI_kJalpha,Peaking,Near Peak,-0.4507,Florida
+962,598,FH_BPagano_RtDriven,Peaking,Near Peak,-0.3102,Florida
+963,598,FH_COVIDhub_ensemble,Peaking,Near Peak,-0.3698,Florida
+964,598,FH_CU_select,Peaking,Near Peak,-0.1348,Florida
+965,598,FH_LANL_GrowthRate,Peaking,Near Peak,-0.9145,Florida
+966,598,FH_CovidAnalytics_DELPHI,Near Peak,Near Peak,0.4499,Florida
+967,612,FH_RobertWalraven_ESG,Peaking,Dec,-0.5716,Florida
+968,612,FH_CU_nochange,Peaking,Dec,-0.5023,Florida
+969,612,FH_CU_scenario_low,Peaking,Dec,-0.5549,Florida
+970,612,FH_JHUAPL_Bucky,Peaking,Dec,-0.4897,Florida
+971,612,FH_JHU_IDD_CovidSP,Peaking,Dec,-0.7736,Florida
+972,612,FH_CU_scenario_mid,Peaking,Dec,-0.7864,Florida
+973,612,FH_TTU_squider,Peaking,Dec,-0.7169,Florida
+974,612,FH_Karlen_pypm,Near Peak,Dec,0.3143,Florida
+975,612,FH_UMich_RidgeTfReg,Peaking,Dec,-0.9854,Florida
+976,612,FH_CEID_Walk,Peaking,Dec,-0.9587,Florida
+977,612,USC_SI_kJalpha,Peaking,Dec,-0.2337,Florida
+978,612,FH_BPagano_RtDriven,Near Peak,Dec,0.2578,Florida
+979,612,FH_COVIDhub_ensemble,Peaking,Dec,-0.2692,Florida
+980,612,FH_CU_select,Peaking,Dec,-0.5549,Florida
+981,612,FH_LANL_GrowthRate,Surge,Dec,-0.9949,Florida
+982,612,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.1806,Florida
+983,171,FH_RobertWalraven_ESG,Near Peak,Inc,-0.578,Florida
+984,171,FH_JHU_IDD_CovidSP,Peaking,Inc,0.9828,Florida
+985,171,USC_SI_kJalpha,Peaking,Inc,0.6993,Florida
+986,171,FH_LANL_GrowthRate,Peaking,Inc,0.9848,Florida
+987,171,FH_CovidAnalytics_DELPHI,Peaking,Inc,0.9152,Florida
+988,626,FH_RobertWalraven_ESG,Near Peak,Dec,0.3108,Florida
+989,626,FH_JHUAPL_Bucky,Peaking,Dec,-0.478,Florida
+990,626,FH_TTU_squider,Peaking,Dec,-0.5412,Florida
+991,626,FH_Karlen_pypm,Near Peak,Dec,0.5249,Florida
+992,626,FH_CEID_Walk,Peaking,Dec,-0.9328,Florida
+993,626,USC_SI_kJalpha,Peaking,Dec,-0.0039,Florida
+994,626,FH_BPagano_RtDriven,Near Peak,Dec,0.4236,Florida
+995,626,FH_COVIDhub_ensemble,Peaking,Dec,0.0622,Florida
+996,626,FH_CovidAnalytics_DELPHI,Near Peak,Dec,0.4368,Florida
