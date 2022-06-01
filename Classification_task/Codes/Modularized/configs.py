@@ -1,6 +1,6 @@
 from imports import *
 
-Runtype = "Cases"#### choose Deaths for generating results for deaths and Cases for generating case results
+Runtype = "Deaths"#### choose Deaths for generating results for deaths and Cases for generating case results
 
 Evaluation_files_github ='../../Data_Sources/Evaluation/'
 if Runtype =='Cases':
@@ -29,7 +29,7 @@ else:
     Visualization_path = Input_path+"Visualizations/"
 
 
-export_visualizations = False ### when this is set to True, visualizations will be expored. If False, visualizations will only be displayed not exported
+export_visualizations = True ### when this is set to True, visualizations will be expored. If False, visualizations will only be displayed not exported
 Data_refresh = 0 
 
 # Smoothening_param= 3 ### make it dynamic in code below 
