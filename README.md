@@ -77,6 +77,8 @@ Deaths : Classification_task/Data_Sources/Deaths/Input_Files/Actual_Incidence_Da
 2) Model Forecasts Data: Models generate case/death forecasts every week. Prof has a ssc github repo where he stores processed forecast files. 
 Classification_task/Data_Sources/Cases/Input_Files/Model_Forecasts_Data/US-COVID/state-case
 Update this folder for latest results.
+https://github.com/scc-usc/covid19-forecast-bench/tree/master/formatted-forecasts/US-COVID/state-case
+
 
 3) Quantile based model forecasts; For using quantile data, I had to use raw forcasts data coming from this github link.
 https://github.com/reichlab/covid19-forecast-hub/tree/master/data-processed
