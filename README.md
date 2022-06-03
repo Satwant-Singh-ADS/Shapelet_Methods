@@ -84,4 +84,6 @@ https://github.com/scc-usc/covid19-forecast-bench/tree/master/formatted-forecast
 https://github.com/reichlab/covid19-forecast-hub/tree/master/data-processed
 
 
+Github Page for this Project
+https://github.com/Satwant-Singh-ADS/Shapelet_Methods/
 
