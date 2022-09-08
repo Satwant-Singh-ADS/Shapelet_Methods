@@ -2,7 +2,7 @@ from imports import *
 
 Runtype = "Deaths"#### 2 values Cases and Deaths. choose Deaths for generating results for deaths and Cases for generating case results
 qualifying_threshold = 10
-### basically not all models should be part of the analysis. we want to use only those models which made submissions beyond a certain numbe rof weeks. Currently set to 60 weeks. you can change that 
+### basically not all models should be part of the analysis. we want to use only those models which made submissions beyond a certain number of weeks. Currently set to 60 weeks. you can change that 
 Evaluation_files_github ='../../Data_Sources/Evaluation/'
 if Runtype =='Cases':
     print("Process will run for Cases")
@@ -60,7 +60,7 @@ Ignore_State_list = []
 # State_list = ["Florida"]
 
 
-vector_length = (1,4)   ### 1 means using N-1 week value for defining shapelet and 4 weeks 4 weeks from future. 4 can't be changed because models generate only 4 weeks ahead predictions.
+vector_length = (0,4)   ### 1 means using N-1 week value for defining shapelet and 4 weeks 4 weeks from future. 4 can't be changed because models generate only 4 weeks ahead predictions.
 ## (0,4) means look 4 weeks ahead in future while defining shapelet
 ## (1,4) means look 4 weeks ahead in future, 1 week in past basically N-1 week from actual covid incidence list for defining shapelet
 
@@ -81,17 +81,17 @@ Shapelet_length = vector_length[0]+vector_length[1]
 shapelet_standard_array = [[0]*Shapelet_length for w in range(Number_of_shapelets)]
 ## here we have initialized an zero valued array of array.
 
-shapelet_standard_names = ["Flat","Inc",'Dec',"Surge",'Peaking',"Near Peak"]
+shapelet_standard_names = ["Flat","Inc",'Dec',"Surge",'Past Peak',"Near Peak"]
 
 assert len(shapelet_standard_names)==Number_of_shapelets, 'Size of array mismatch for shapelet_standard_names and value of  Number_of_shapelets'
 
 
-shapelet_standard_array[0] = [1.0, 0, 1.0, 0.0000,1]
-shapelet_standard_array[1] = [1 ,2, 3, 4,5]
-shapelet_standard_array[2] = [5, 4, 3 ,2,1]
-shapelet_standard_array[3] = [1,2,4,8,16]
-shapelet_standard_array[4] = [-1*w for w in [exp(1/2) ,exp(0/2), exp(-1/2), exp(-2/2),exp(-3/2)]]
-shapelet_standard_array[5] = [-1*w for w in [exp(-1/2) ,exp(0/2) ,exp(1/2) ,exp(2/2),exp(3/2)]]
+shapelet_standard_array[0] = [0,0,0,0]
+shapelet_standard_array[1] = [1,2,3,4]
+shapelet_standard_array[2] = [4,3,2,1]
+shapelet_standard_array[3] = [1,2,4,8]
+shapelet_standard_array[4] = [-1,-2,-4,-8]
+shapelet_standard_array[5] = [-1,-0.5,-0.25,0.125]
 
 assert len(shapelet_standard_array[0])==Shapelet_length, 'Size of defined shapelet array mismatch for shapelet_standard_names and value of  Shapelet_length.please check vector_length'
 

@@ -2,7 +2,11 @@ import time
 import pandas as pd
 from numpy import corrcoef as pcor
 from numpy import exp as exp
+from numpy import mean
+from numpy import diff
+from numpy import log
 from scipy import spatial
+from scipy import stats
 from itertools import combinations
 import pickle
 from datetime import datetime, timedelta

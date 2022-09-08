@@ -1,5 +1,6 @@
 from Similarity_fxns import *
 
+#%%
 ##################### Preprocessing Code ###########################################
 
 state_population = pd.read_csv(Actual_incidence_path+"US State Population.csv")
@@ -13,7 +14,7 @@ cases_tmp = pd.read_csv(Actual_incidence_path+"US_actual_data.csv")
 
 US_total = pd.DataFrame(cases_tmp.sum(axis=0))
 
-cases = pd.concat([cases_tmp,US_total.T])
+cases = pd.concat([cases_tmp,US_total.T], ignore_index=True)
 
 impute = {}
 
@@ -22,7 +23,7 @@ impute['Country'] = {'WashingtonIllinoisCaliforniaArizonaMassachusettsWisconsinT
 cases = cases.replace(impute)
 
 
-
+#%%
 N = 157
 t = 'Jan 22 2020'
 format = '%b %d %Y'
@@ -32,32 +33,29 @@ print(now)
 print(after)
 
 cases_for_use = cases.iloc[:,157:]
+cases_for_slope_thres = cases.iloc[:,3:157].T
 start = 157
-
 days = [i for i in range(start,start+cases_for_use.shape[1])]
-
 cases_for_use.columns = days
-
 weekly_cases = pd.DataFrame()
+
 for i in range(start, start+cases_for_use.shape[1],7):
     weekly_cases = pd.concat([weekly_cases,cases_for_use[i]],axis=1)
-
-    
+  
 weekly_cases_2 = weekly_cases.copy()
-
-
 weekly_cases_2 = weekly_cases.diff(axis=1)
-
 weekly_cases_2[weekly_cases_2<0] = 0
-
-
-
 weekly_cases1 = weekly_cases_2[list(weekly_cases_2.columns)[1:]]
 
-
 weekly_cases1.index = list(cases['Country'].values)
-
 states_list = list(cases['Country'].values)
+
+days = [i for i in range(0,cases_for_slope_thres.shape[1])]
+cases_for_slope_thres.columns = days
+
+slope_thres = {}
+for i in range(len(states_list)):
+    slope_thres[states_list[i]] = np.max([1, np.max(cases_for_slope_thres[i].diff(periods=3)/3)])
 
 Actual_covid_tally = weekly_cases1.copy()
 # 2020-6-28 is a Sunday
@@ -73,7 +71,7 @@ pd.set_option('display.max_columns', None)
 
 Actual_covid_tally_dict = Actual_covid_tally.T.to_dict()
 
-#### Using a sliding window, compute the runnning averages of fixed window sizes
+#%% Using a sliding window, compute the runnning averages of fixed window sizes
 
 
 state_wise_running_averages = []
@@ -81,20 +79,9 @@ state_wise_running_averages = []
 for state in range(len(states_list)):
     vector = data_array[state]
     running_average = [0]*len(vector)
+    xx = pd.DataFrame(vector).rolling(window= 3, min_periods=1).mean()
+    running_average = xx[0].tolist()
     
-    for k in range(len(vector)):
-        #print(k)
-        if k==0:
-#             print(k)
-#             print(vector[k:k+2])
-            running_average[k]=sum(vector[k:k+2])/2
-            
-        elif k>0 and k < len(vector)-1:
-            running_average[k] = sum(vector[k-1:k+2])/3
-        elif k==len(vector)-1:
-#             print(k)
-            running_average[k] = sum(vector[k-1:k+1])/2
-#             print(vector[k-1:k+1])
     state_wise_running_averages.append(running_average)
     
         
@@ -132,7 +119,7 @@ if export_visualizations:
 else:
     print("**")
 
-## Generating Shapelets for Actual Covid-19 Case/Death Incidence - Ground Truth
+#%%%%% Generating Shapelets for Actual Covid-19 Case/Death Incidence - Ground Truth
 
 
 shapelet_Combinatinos = list(combinations(shapelet_standard_array,2))
@@ -161,6 +148,7 @@ with open(pickle_path+'ShapeLet_loss_weight.pickle', 'wb') as handle:
 ### Lets Generate for each week/ state, running vectors of size 5
 
 ShapeLet_Dictionary_State_level = {}
+Shapelet_shift ={}
 
 Shapelet_dict_actual_state_week_vector_label = {}
 
@@ -188,7 +176,7 @@ for keys in running_average.keys():
     dicy_state = Shapelet_dict_actual_state_week_vector_label.get(State_name,{})
 #     print(dicy_state)
 #     assert len(vector[2])==Shapelet_length,"Size of vector not equal to standard shapelet size"
-    scenarios_list_pearson_perason = [(vector[0],vector[1],return_best_shapelet_pearson(vector[2]),return_all_shapelet_pearson(vector[2])) for vector in running_avg_vectors]
+    scenarios_list_pearson_perason = [(vector[0],vector[1],return_best_shapelet_pearson(vector[2], slope_thres[State_name]),return_all_shapelet_pearson(vector[2], slope_thres[State_name])) for vector in running_avg_vectors]
     
     for vector in scenarios_list_pearson_perason:
         dicy_state[vector[0]] = [(vector[3],vector[2])]
@@ -196,9 +184,16 @@ for keys in running_average.keys():
         
 
     ShapeLet_Dictionary_State_level[keys] = scenarios_list_pearson_perason
+    
+    this_shift = {}
+    for i in range(2,len(running_avg)-future_weeks+1):
+        prev_shape = Shapelet_dict_actual_state_week_vector_label[keys][start+ 7*(i-1)][0][0]
+        this_shape = Shapelet_dict_actual_state_week_vector_label[keys][start+ 7*i][0][0]
+        this_shift[7*i+start] = cosine_sim(prev_shape, this_shape)
+   
 
-    ## Actual Covid tally plot validation 
-
+    Shapelet_shift[keys] = this_shift
+    
     week_nbr_plt = [w[0] for w in scenarios_list_pearson_perason]
     actual_count_plt = [w[1] for w in scenarios_list_pearson_perason]
     labels_plt = [w[2] for w in scenarios_list_pearson_perason]
@@ -217,7 +212,7 @@ with open(pickle_path+'ShapeLet_Dictionary_State_level_actual.pickle', 'wb') as 
 with open(pickle_path+'Shapelet_dict_actual_state_week_vector_label.pickle', 'wb') as handle:
     pickle.dump(Shapelet_dict_actual_state_week_vector_label, handle, protocol=pickle.HIGHEST_PROTOCOL)
     
-## Load Models Data and apply Shapelets method on it
+#%% Load Models Data and apply Shapelets method on it
 
 if Data_refresh==1:
     print("Data refresh process begins")
@@ -280,7 +275,7 @@ else:
 
 
 
-    
+   #%% 
 ########### RUnning loop at State-Model_week level to generate correlation of model forecast with standard shapes
 
 
@@ -388,9 +383,9 @@ for key_outer,value_outer in Eligible_Model_week_State_forecasts.items():
                 Actual_shapelte_5X1_vector = [None]*Shapelet_length
 #                 print("exception",key,state,predictions_vector_tmp)
                 continue
-            shape_1 = return_best_shapelet_pearson(predictions_vector_tmp)
+            shape_1 = return_best_shapelet_pearson(predictions_vector_tmp, slope_thres[state])
 #             try:
-            state_dict_model_dict[key_outer] = [((return_all_shapelet_pearson(predictions_vector_tmp),Actual_shapelte_5X1_vector,),shape_1)]
+            state_dict_model_dict[key_outer] = [((return_all_shapelet_pearson(predictions_vector_tmp, slope_thres[state]),Actual_shapelte_5X1_vector,),shape_1)]
 #             except:
                 
             state_dict[lookup_key] = state_dict_model_dict
@@ -413,6 +408,8 @@ print("Total number of impuations {}".format(impu))
 with open(pickle_path+'State_model_Week_vector_shapelet_Actual_dict.pickle', 'wb') as handle:
     pickle.dump(State_model_Week_vector_shapelet_Actual_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
     
+    
+#%%
 Actual_covid_tuples = []
 
 for key, val1 in ShapeLet_Dictionary_State_level.items():
@@ -556,7 +553,7 @@ MeanSimilarityModels_Actual = Master_df_actual_VS_Model_Agrrement.groupby(['Stat
 best_model_label_df = Master_df_actual_VS_Model_Agrrement.groupby(['True Label','Model Name']).agg(Mean_Score=("Cosine Similarty","mean")).reset_index()
 
 
-## NC2 conbinations for checking agreement between models
+#%% Agreement: NC2 conbinations for checking agreement between models
 
 State_model_Week_vector_shapelet_Actual_dict.keys()
 

@@ -16,26 +16,34 @@ def similarity_metrix(vector1,vector2):
     
     1 - spatial.distance.cosine(vector1, vector2)
     '''
-    similarity_value = pcor(vector1,vector2)[0][1]
+    if np.std(vector1) < 1e-100 or np.std(vector2) < 1e-100:
+        similarity_value = 0
+    else:
+        similarity_value = pcor(vector1,vector2)[0][1]
     return similarity_value
 
 ### calculates score with all standard shapes and return standard shape with highlest similarity score
-def return_best_shapelet_pearson(vector):
-    correlation_lst = []
-    corrs = []
-    for i in range(len(shapelet_standard_array)):
-        score = similarity_metrix(shapelet_standard_array[i],vector)
-        correlation_lst.append(shapelet_standard_names[i])
-        corrs.append(score)
+def return_best_shapelet_pearson(vector, slope_thres = 0.0005):
+    corrs = return_all_shapelet_pearson(vector, slope_thres)
     scenario = corrs.index(max(corrs))
-    return correlation_lst[scenario]
+    return shapelet_standard_names[scenario]
 
 ### generate similairty score vector for all standard shapes compared with inpyt vector    
-def return_all_shapelet_pearson(vector):
+def return_all_shapelet_pearson(vector, slope_thres = 0.0005):
 #     correlation_lst = []
     corrs = []
+    beta = -log(0.1)/slope_thres # if change is above slope_thres population its flatness is 0.01
+    m0 = 0
+    slope =mean(abs(diff(vector)))
+    if slope < m0:
+        flatnes = 1
+    else: 
+        flatness = exp(-beta*(slope - m0));
     for i in range(len(shapelet_standard_array)):
-        score = similarity_metrix(shapelet_standard_array[i],vector)
+        if not(any(shapelet_standard_array[i])):
+            score = 2*flatness - 1
+        else:
+            score = (1-flatness)*similarity_metrix(shapelet_standard_array[i],vector)
 #         correlation_lst.append(shapelet_standard_names[i])
         corrs.append(score)
     return corrs
