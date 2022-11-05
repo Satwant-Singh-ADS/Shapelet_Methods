@@ -1,7 +1,7 @@
 ## Shape-based Evaluation of Epidemic Forecasts
 
 ## Paper Link
-https://arxiv.org/pdf/2209.04035.pdf
+https://arxiv.org/pdf/2209.04035.pdf (accepted at IEEE BigData 2022)
 
 ## Definitions
 
