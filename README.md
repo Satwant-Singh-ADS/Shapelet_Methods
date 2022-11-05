@@ -76,3 +76,4 @@ https://github.com/scc-usc/covid19-forecast-bench/tree/master/formatted-forecast
 Github Page for this Project
 https://github.com/Satwant-Singh-ADS/Shapelet_Methods/
 
+Run modular_main.py & preprocessing.py in Modular Folder and to generate all the results used in our IEEE BigData 2022 paper
