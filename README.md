@@ -1,5 +1,8 @@
 ## Shape-based Evaluation of Epidemic Forecasts
 
+## Paper Link
+https://arxiv.org/pdf/2209.04035.pdf
+
 ## Definitions
 
 Shapelet : We define a shapelet as a vector that describes one of the shapes of interest in the trend of an epidemic. <br>
