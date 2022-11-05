@@ -6,15 +6,6 @@ Mainly there are 2 folders
 
 1) Codes ->
 
-1) Shapelet_Demo.ipynb : This notebook has been developed to explain the general concept of shapetlet tansformation and its usages in forecasting tasks.
-
-There are two types of estimations which we have used. 1) Point and 2) Quantile based. There are separate codes for both the approaches. Strutcure is pretty much the same.
-
-
-1) Quantiles Preprocessing Code- ALL models.ipynb : This is the end to end code for Quantile Based approach.
-2) Quantiles Preprocessing Code - Development.ipynb : This notebook is the development code for testing minor changes in the approach. Unit testing purposes. 
-
-3) main.ipynb : This is the development code for point based estimation. This code runs end to end but is too lengthy and cumbursome for end user. so we made a new folder called modularized. That folder contains a modular approach in running the process
 
 Details of Modular Folder
 
