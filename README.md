@@ -31,16 +31,6 @@ Mainly there are 2 folders
 
 ### 1) Codes ->
 
-1) Shapelet_Demo.ipynb : This notebook has been developed to explain the general concept of shapetlet tansformation and its usages in forecasting tasks.
-
-There are two types of estimations which we have used. 1) Point and 2) Quantile based. There are separate codes for both the approaches. Strutcure is pretty much the same.
-
-
-1) Quantiles Preprocessing Code- ALL models.ipynb : This is the end to end code for Quantile Based approach.
-2) Quantiles Preprocessing Code - Development.ipynb : This notebook is the development code for testing minor changes in the approach. Unit testing purposes. 
-
-3) main.ipynb : This is the development code for point based estimation. This code runs end to end but is too lengthy and cumbursome for end user. so we made a new folder called modularized. That folder contains a modular approach in running the process
-
 ### Details of Modular Folder
 
 1) imports.py : It contains list of all the libraries used in the code
@@ -63,7 +53,6 @@ We have two forecasts, 1 for cases, 1 for deaths. Since we want to ensure modula
 1) Cases --> Here all the model input files, visualization results, output csv files, intermediate pickle files are stored.
 2) Deaths --> Here all the model input files, visualization results, output csv files, intermediate pickle files are stored.
 3) Evaluation --> Here Evaluation files for covid19 work bench are stored
-4) quantile_preprocessing --> Here Sample File for developing quantile approach pipeline is stored.
 
 
 
@@ -79,9 +68,6 @@ Classification_task/Data_Sources/Cases/Input_Files/Model_Forecasts_Data/US-COVID
 Update this folder for latest results.
 https://github.com/scc-usc/covid19-forecast-bench/tree/master/formatted-forecasts/US-COVID/state-case
 
-
-3) Quantile based model forecasts; For using quantile data, I had to use raw forcasts data coming from this github link.
-https://github.com/reichlab/covid19-forecast-hub/tree/master/data-processed
 
 
 Github Page for this Project
