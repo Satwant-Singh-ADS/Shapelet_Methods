@@ -1,0 +1,51 @@
+,newlable,Model Name,Mean_Score,rank
+22,Continued Trend,US-Flu\UT_FluCast-Voltaire,0.38970474308300396,1.0
+16,Continued Trend,US-Flu\PSI-DICE,0.34921040462427744,2.0
+1,Continued Trend,US-Flu\CMU-TimeSeries,0.340739443378119,3.0
+6,Continued Trend,US-Flu\GT-FluFNP,0.2779442522889115,4.0
+15,Continued Trend,US-Flu\MOBS-GLEAM_FLUH,0.27560699052132703,5.0
+18,Continued Trend,US-Flu\SGroup-SIkJalpha,0.26617082533589254,6.0
+17,Continued Trend,US-Flu\SGroup-RandomForest,0.2448328193832599,7.0
+4,Continued Trend,US-Flu\Flusight-ensemble,0.22913944337811898,8.0
+14,Continued Trend,US-Flu\LosAlamos_NAU-CModel_Flu,0.21329309021113244,9.0
+11,Continued Trend,US-Flu\LUcompUncertLab-VAR2K_plusCOVID,0.2074744680851064,10.0
+21,Continued Trend,US-Flu\UMass-trends_ensemble,0.1927378486055777,11.0
+8,Continued Trend,US-Flu\LUcompUncertLab-TEVA,0.18359,12.0
+9,Continued Trend,US-Flu\LUcompUncertLab-VAR2,0.1579365927419355,13.0
+10,Continued Trend,US-Flu\LUcompUncertLab-VAR2K,0.13420691489361702,14.0
+7,Continued Trend,US-Flu\IEM_Health-FluProject,0.13367497546614326,15.0
+0,Continued Trend,US-Flu\CEID-Walk,0.13273336831059812,16.0
+12,Continued Trend,US-Flu\LUcompUncertLab-VAR2_plusCOVID,0.12640131048387096,17.0
+2,Continued Trend,US-Flu\CU-ensemble,0.12113176583493282,18.0
+24,Continued Trend,US-Flu\VTSanghani-ExogModel,0.11182184210526316,19.0
+23,Continued Trend,US-Flu\UVAFluX-Ensemble,0.08220408773678962,20.0
+20,Continued Trend,US-Flu\SigSci-TSENS,0.07247922606924644,21.0
+19,Continued Trend,US-Flu\SigSci-CREG,0.024372767364939363,22.0
+5,Continued Trend,US-Flu\GH-Flusight,-0.03276792849631966,23.0
+3,Continued Trend,US-Flu\Flusight-baseline,-0.070539443378119,24.0
+13,Continued Trend,US-Flu\LUcompUncertLab-humanjudgment,-0.0884588768115942,25.0
+26,Others,US-Flu\CMU-TimeSeries,0.2624345,1.0
+42,Others,US-Flu\SGroup-RandomForest,0.15978023255813953,2.0
+35,Others,US-Flu\LUcompUncertLab-VAR2K,0.06336494845360825,3.0
+43,Others,US-Flu\SGroup-SIkJalpha,0.061780999999999996,4.0
+31,Others,US-Flu\GT-FluFNP,0.027352631578947368,5.0
+36,Others,US-Flu\LUcompUncertLab-VAR2K_plusCOVID,0.017565463917525774,6.0
+39,Others,US-Flu\LosAlamos_NAU-CModel_Flu,0.012636000000000001,7.0
+27,Others,US-Flu\CU-ensemble,0.010666000000000002,8.0
+30,Others,US-Flu\GH-Flusight,-0.0068707182320442,9.0
+34,Others,US-Flu\LUcompUncertLab-VAR2,-0.008684693877551018,10.0
+25,Others,US-Flu\CEID-Walk,-0.0627243093922652,11.0
+46,Others,US-Flu\UMass-trends_ensemble,-0.07280326086956522,12.0
+47,Others,US-Flu\UT_FluCast-Voltaire,-0.078535,13.0
+41,Others,US-Flu\PSI-DICE,-0.09513266331658292,14.0
+33,Others,US-Flu\LUcompUncertLab-TEVA,-0.09741855670103093,15.0
+49,Others,US-Flu\VTSanghani-ExogModel,-0.10321392405063291,16.0
+40,Others,US-Flu\MOBS-GLEAM_FLUH,-0.1089867816091954,17.0
+38,Others,US-Flu\LUcompUncertLab-humanjudgment,-0.11252333333333335,18.0
+37,Others,US-Flu\LUcompUncertLab-VAR2_plusCOVID,-0.1360107142857143,19.0
+48,Others,US-Flu\UVAFluX-Ensemble,-0.19733350253807105,20.0
+29,Others,US-Flu\Flusight-ensemble,-0.214609,21.0
+45,Others,US-Flu\SigSci-TSENS,-0.22649090909090908,22.0
+32,Others,US-Flu\IEM_Health-FluProject,-0.2414885,23.0
+28,Others,US-Flu\Flusight-baseline,-0.279153,24.0
+44,Others,US-Flu\SigSci-CREG,-0.3164814606741573,25.0

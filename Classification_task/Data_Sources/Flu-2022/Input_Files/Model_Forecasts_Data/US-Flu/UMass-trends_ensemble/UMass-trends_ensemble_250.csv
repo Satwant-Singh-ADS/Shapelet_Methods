@@ -1,0 +1,55 @@
+id,State,dummy,256,263,270,277
+47,Alabama,0,28,28,28,28
+45,Alaska,0,3,3,4,4
+3,Arizona,0,182,182,185,186
+39,Arkansas,0,24,24,25,25
+2,California,0,217,220,223,226
+17,Colorado,0,268,278,288,298
+33,Connecticut,0,107,113,121,127
+40,Delaware,0,8,8,8,8
+28,District of Columbia,0,2,2,2,2
+10,Florida,0,253,268,280,291
+13,Georgia,0,45,45,45,45
+21,Hawaii,0,3,3,3,3
+48,Idaho,0,15,15,15,15
+1,Illinois,0,133,135,136,136
+22,Indiana,0,56,55,55,55
+34,Iowa,0,29,30,30,30
+29,Kansas,0,21,20,20,20
+23,Kentucky,0,58,56,53,51
+35,Louisiana,0,25,25,24,24
+46,Maine,0,10,10,10,10
+18,Maryland,0,41,40,41,41
+4,Massachusetts,0,227,234,239,246
+37,Michigan,0,181,180,181,181
+24,Minnesota,0,32,32,32,32
+41,Mississippi,0,17,16,16,16
+30,Missouri,0,68,67,65,64
+49,Montana,0,26,26,27,29
+7,Nebraska,0,3,3,3,3
+19,Nevada,0,71,68,66,66
+14,New Hampshire,0,26,28,29,29
+16,New Jersey,0,122,121,120,120
+42,New Mexico,0,73,74,76,77
+11,New York,0,263,266,267,269
+15,North Carolina,0,65,67,68,68
+43,North Dakota,0,0,0,1,1
+36,Ohio,0,104,103,103,103
+25,Oklahoma,0,35,35,33,31
+9,Oregon,0,21,20,21,21
+26,Pennsylvania,0,147,138,133,128
+12,Rhode Island,0,8,8,8,8
+27,South Carolina,0,24,22,22,21
+38,South Dakota,0,6,5,5,5
+20,Tennessee,0,24,22,21,21
+6,Texas,0,178,175,170,166
+8,Utah,0,19,19,20,20
+31,Vermont,0,6,6,6,6
+32,Virginia,0,47,48,48,48
+0,Washington,0,59,61,62,63
+53,West Virginia,0,27,27,26,26
+5,Wisconsin,0,54,54,54,54
+44,Wyoming,0,4,3,3,3
+50,Puerto Rico,0,35,35,35,35
+51,Virgin Islands,0,0,0,0,0
+US,US,0,3433,3433,3435,3432

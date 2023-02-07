@@ -1,0 +1,54 @@
+id,State,dummy,172,179,186,193
+45,Alaska,0,10,10,10,10
+47,Alabama,0,16,16,24,28
+39,Arkansas,0,6,6,7,8
+3,Arizona,0,14,10,12,10.5
+2,California,0,9,13,13,13
+17,Colorado,0,8,8,6,7
+33,Connecticut,0,6,6,6,6
+28,District of Columbia,0,6,6,5,6
+40,Delaware,0,5,6,6,6
+10,Florida,0,36,39,40,39
+13,Georgia,0,12,7,11,14
+21,Hawaii,0,6,6,5,6
+34,Iowa,0,8,8,8,8
+48,Idaho,0,5,6,6,6
+1,Illinois,0,8,10,12,11
+22,Indiana,0,10,11,14,21
+29,Kansas,0,5,7,9,9
+23,Kentucky,0,7,8,7,8
+35,Louisiana,0,12,13,8,13
+4,Massachusetts,0,5,6,7,8
+18,Maryland,0,6,5,6,6
+46,Maine,0,5,6,6,6
+37,Michigan,0,5,6,6,6
+24,Minnesota,0,5,6,6,5
+30,Missouri,0,8,7,7,7
+41,Mississippi,0,7,7,10,8
+49,Montana,0,5,6,6,5
+15,North Carolina,0,7,9,12,11
+43,North Dakota,0,7,8,6,7
+7,Nebraska,0,5,6,6,6
+14,New Hampshire,0,5,6,6,6
+16,New Jersey,0,10,10,10,9
+42,New Mexico,0,8,9,9,10
+19,Nevada,0,6,8,7,6
+11,New York,0,7,6,7,7
+36,Ohio,0,8,5,4,12
+25,Oklahoma,0,11,12,13,15
+9,Oregon,0,6,6,6,5
+26,Pennsylvania,0,12,11,13,18
+50,Puerto Rico,0,21,22,17,18
+12,Rhode Island,0,8,8,8,8
+27,South Carolina,0,7,8,8,9
+38,South Dakota,0,7,8,6,6
+20,Tennessee,0,7,8,8,8
+6,Texas,0,71,96,96,70
+8,Utah,0,7,6,6,7
+32,Virginia,0,18,24,24,21
+31,Vermont,0,5,6,6,6
+0,Washington,0,5,6,6,6
+5,Wisconsin,0,5,6,6,6
+53,West Virginia,0,5,7,8,7
+44,Wyoming,0,5,6,6,5
+US,US,0,1030,1044,1089,1170
