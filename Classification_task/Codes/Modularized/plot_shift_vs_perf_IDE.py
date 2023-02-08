@@ -29,22 +29,19 @@ for state in state_lst:
 
     
 #%% Show results
-
+tc_cut_off = 0;
 print('Performance at Total, Change vs Continued Trend')
 print('Fraction when change is seen: ' )
-print(len([i for i in range(len(shape_change)) if shape_change[i] <= 0])/len(shape_change))
+print(len([i for i in range(len(shape_change)) if shape_change[i] <= tc_cut_off])/len(shape_change))
 print('Shape Ensemble: ')
 print(np.mean(perf_score_usc))
-print('+-')
-print(np.std(perf_score_usc))
-print(np.mean([perf_score_usc[i] for i in range(len(shape_change)) if shape_change[i] <= 0]))
-print(np.mean([perf_score_usc[i] for i in range(len(shape_change)) if shape_change[i] > 0]))
+print(np.mean([perf_score_usc[i] for i in range(len(shape_change)) if shape_change[i] <= tc_cut_off]))
+print(np.mean([perf_score_usc[i] for i in range(len(shape_change)) if shape_change[i] > tc_cut_off]))
 
 print('Hub Ensemble: ')
 print(np.mean(perf_score_ensemble))
-print('+-')
-print(np.std(perf_score_ensemble))
-
+print(np.mean([perf_score_ensemble[i] for i in range(len(shape_change)) if shape_change[i] <= 0.75]))
+print(np.mean([perf_score_ensemble[i] for i in range(len(shape_change)) if shape_change[i] > 0.75]))
 #%%
 plt.rcParams.update({'font.size': 20})
 fig, axs = plt.subplots(1,figsize=(12, 10), dpi=300)
@@ -65,5 +62,6 @@ if export_visualizations:
     plt.savefig(Visualization_path+"PlotType : "+Runtype+" "+'Evaluation of Shapelet Ensemble & Hub-Ensemble using Agreement Score for State '+state+'.png')
 else:
     plt.show()
-print(np.mean([perf_score_ensemble[i] for i in range(len(shape_change)) if shape_change[i] <= 0]))
-print(np.mean([perf_score_ensemble[i] for i in range(len(shape_change)) if shape_change[i] > 0]))
+
+
+

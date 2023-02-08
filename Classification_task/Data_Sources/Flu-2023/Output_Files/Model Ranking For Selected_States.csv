@@ -1,1182 +1,1561 @@
 ,State,Model Name,Mean_Similarity,Count_Similarity,rank
-186,District of Columbia,US-Flu\JHU_IDD-CovidSP,0.7114444444444444,9,1.0
-138,Connecticut,US-Flu\Flusight-ensemble,0.93555,12,1.0
-1093,Washington,US-Flu\CEPH-Rtrend_fluH,0.9267555555555556,9,1.0
-818,Oklahoma,US-Flu\UMass-trends_ensemble,0.8955166666666666,12,1.0
-675,New Jersey,US-Flu\LUcompUncertLab-humanjudgment,0.8787125,8,1.0
-394,Kentucky,US-Flu\UMass-trends_ensemble,0.9121166666666666,12,1.0
-309,Indiana,US-Flu\CEPH-Rtrend_fluH,0.8596888888888888,9,1.0
-583,Montana,US-Flu\JHU_IDD-CovidSP,0.8985777777777777,9,1.0
-397,Louisiana,US-Flu\CEPH-Rtrend_fluH,0.945911111111111,9,1.0
-306,Illinois,US-Flu\UMass-trends_ensemble,0.9005083333333334,12,1.0
-992,United States,US-Flu\CEPH-Rtrend_fluH,0.8481888888888889,9,1.0
-1148,Wisconsin,US-Flu\LUcompUncertLab-humanjudgment,0.9434375,8,1.0
-55,Arizona,US-Flu\LUcompUncertLab-humanjudgment,0.9055875,8,1.0
-888,Rhode Island,US-Flu\JHU_IDD-CovidSP,0.9361,8,1.0
-483,Massachusetts,US-Flu\UMass-trends_ensemble,0.8501,12,1.0
-598,Nebraska,US-Flu\CEPH-Rtrend_fluH,0.9237555555555557,9,1.0
-925,South Dakota,US-Flu\CEPH-Rtrend_fluH,0.7482111111111112,9,1.0
-115,Colorado,US-Flu\Flusight-ensemble,0.9201583333333333,12,1.0
-649,New Hampshire,US-Flu\JHU_IDD-CovidSP,0.9276777777777778,9,1.0
-1021,Utah,US-Flu\JHU_IDD-CovidSP,0.9280555555555554,9,1.0
-1115,West Virginia,US-Flu\CEPH-Rtrend_fluH,0.9521444444444445,9,1.0
-261,Hawaii,US-Flu\UGA_flucast-OKeeffe,0.5892727272727273,11,1.0
-441,Maryland,US-Flu\CEPH-Rtrend_fluH,0.9426888888888888,9,1.0
-903,South Carolina,US-Flu\CEPH-Rtrend_fluH,0.6769000000000001,9,1.0
-620,Nevada,US-Flu\CEPH-Rtrend_fluH,0.926888888888889,9,1.0
-272,Idaho,US-Flu\JHU_IDD-CovidSP,0.948211111111111,9,1.0
-419,Maine,US-Flu\CEPH-Rtrend_fluH,0.9298444444444445,9,1.0
-88,California,US-Flu\CEPH-Rtrend_fluH,0.902811111111111,9,1.0
-78,Arkansas,US-Flu\MIGHTE-Nsemble,0.9479818181818181,11,1.0
-761,North Dakota,US-Flu\JHU_IDD-CovidSP,0.9690444444444444,9,1.0
-981,Texas,US-Flu\LUcompUncertLab-humanjudgment,0.7716875,8,1.0
-1036,Vermont,US-Flu\CEPH-Rtrend_fluH,0.9403555555555556,9,1.0
-1166,Wyoming,US-Flu\JHU_IDD-CovidSP,0.6416888888888889,9,1.0
-718,New York,US-Flu\LUcompUncertLab-KalmanFilter,0.7918454545454545,11,1.0
-959,Tennessee,US-Flu\MIGHTE-Nsemble,0.9281545454545455,11,1.0
-343,Iowa,US-Flu\MIGHTE-Nsemble,0.9609181818181818,11,1.0
-532,Mississippi,US-Flu\CEPH-Rtrend_fluH,0.8142111111111111,9,1.0
-7,Alabama,US-Flu\JHU_IDD-CovidSP,0.7456,9,1.0
-513,Minnesota,US-Flu\Flusight-ensemble,0.955775,12,1.0
-353,Kansas,US-Flu\CEPH-Rtrend_fluH,0.9293666666666667,9,1.0
-732,North Carolina,US-Flu\CEPH-Rtrend_fluH,0.9163444444444444,9,1.0
-706,New Mexico,US-Flu\UMass-trends_ensemble,0.9266083333333334,12,1.0
-844,Pennsylvania,US-Flu\CEPH-Rtrend_fluH,0.7779777777777778,9,1.0
-842,Oregon,US-Flu\UVAFluX-Ensemble,0.9170916666666667,12,1.0
-1070,Virgin Islands,US-Flu\VTSanghani-ExogModel,-0.5901818181818181,11,1.0
-1071,Virginia,US-Flu\CEPH-Rtrend_fluH,0.9408555555555557,9,1.0
-164,Delaware,US-Flu\JHU_IDD-CovidSP,0.5864444444444445,9,1.0
-866,Puerto Rico,US-Flu\CEPH-Rtrend_fluH,0.30023333333333335,9,1.0
-778,Ohio,US-Flu\CU-ensemble,0.8240545454545455,11,1.0
-207,Florida,US-Flu\LUcompUncertLab-HWAR2,0.7170666666666667,12,1.0
-556,Missouri,US-Flu\CU-ensemble,0.9036636363636364,11,1.0
-495,Michigan,US-Flu\LUcompUncertLab-KalmanFilter,0.8018181818181819,11,1.0
-221,Georgia,US-Flu\CEPH-Rtrend_fluH,0.7557666666666667,9,1.0
-22,Alaska,US-Flu\CEPH-Rtrend_fluH,0.7738555555555555,9,1.0
-1043,Vermont,US-Flu\JHU_IDD-CovidSP,0.8948222222222222,9,2.0
-823,Oregon,US-Flu\CU-ensemble,0.9159636363636363,11,2.0
-94,California,US-Flu\ISU_NiemiLab-Flu,0.8087333333333333,9,2.0
-265,Idaho,US-Flu\CEPH-Rtrend_fluH,0.8888222222222222,9,2.0
-554,Missouri,US-Flu\CEPH-Rtrend_fluH,0.8856777777777778,9,2.0
-1064,Virgin Islands,US-Flu\LUcompUncertLab-hier_mech_model,-0.6225666666666666,3,2.0
-880,Puerto Rico,US-Flu\VTSanghani-ExogModel,0.2793090909090909,11,2.0
-1014,Utah,US-Flu\CEPH-Rtrend_fluH,0.7871777777777778,9,2.0
-179,District of Columbia,US-Flu\CEPH-Rtrend_fluH,0.4982,9,2.0
-576,Montana,US-Flu\CEPH-Rtrend_fluH,0.8712111111111112,9,2.0
-796,Ohio,US-Flu\UMass-trends_ensemble,0.8103250000000001,12,2.0
-521,Minnesota,US-Flu\MIGHTE-Nsemble,0.9372,11,2.0
-910,South Carolina,US-Flu\JHU_IDD-CovidSP,0.6752111111111111,9,2.0
-803,Oklahoma,US-Flu\Flusight-ensemble,0.8588833333333333,12,2.0
-539,Mississippi,US-Flu\JHU_IDD-CovidSP,0.7263777777777778,9,2.0
-863,Pennsylvania,US-Flu\UMass-trends_ensemble,0.7580333333333332,12,2.0
-881,Rhode Island,US-Flu\CEPH-Rtrend_fluH,0.8817222222222223,9,2.0
-250,Hawaii,US-Flu\JHU_IDD-CovidSP,0.5106777777777778,9,2.0
-1104,Washington,US-Flu\LUcompUncertLab-humanjudgment,0.903925,8,2.0
-146,Connecticut,US-Flu\MIGHTE-Nsemble,0.9331909090909091,11,2.0
-500,Michigan,US-Flu\NIH-Flu_ARIMA,0.7814000000000001,9,2.0
-122,Colorado,US-Flu\LUcompUncertLab-humanjudgment,0.917025,8,2.0
-466,Massachusetts,US-Flu\CU-ensemble,0.8491272727272728,11,2.0
-241,Georgia,US-Flu\UMass-trends_ensemble,0.6742666666666667,12,2.0
-461,Maryland,US-Flu\UMass-trends_ensemble,0.9054583333333334,12,2.0
-208,Florida,US-Flu\LUcompUncertLab-KalmanFilter,0.6719454545454545,11,2.0
-610,Nebraska,US-Flu\MIGHTE-Nsemble,0.8740909090909091,11,2.0
-1083,Virginia,US-Flu\MIGHTE-Nsemble,0.9391363636363637,11,2.0
-175,Delaware,US-Flu\UGA_flucast-OKeeffe,0.5163636363636364,11,2.0
-328,Indiana,US-Flu\UMass-trends_ensemble,0.8553583333333333,12,2.0
-379,Kentucky,US-Flu\Flusight-ensemble,0.9111916666666667,12,2.0
-1159,Wyoming,US-Flu\CEPH-Rtrend_fluH,0.5557777777777777,9,2.0
-754,North Dakota,US-Flu\CEPH-Rtrend_fluH,0.9204444444444445,9,2.0
-932,South Dakota,US-Flu\JHU_IDD-CovidSP,0.704175,8,2.0
-48,Arizona,US-Flu\Flusight-ensemble,0.8980583333333333,12,2.0
-982,Texas,US-Flu\MIGHTE-Nsemble,0.6673818181818182,11,2.0
-29,Alaska,US-Flu\JHU_IDD-CovidSP,0.7432777777777777,9,2.0
-664,New Jersey,US-Flu\CEPH-Rtrend_fluH,0.8609666666666667,9,2.0
-654,New Hampshire,US-Flu\MIGHTE-Nsemble,0.9008818181818182,11,2.0
-690,New Mexico,US-Flu\Flusight-ensemble,0.8833666666666667,12,2.0
-996,United States,US-Flu\Flusight-ensemble,0.8209916666666667,12,2.0
-1157,Wisconsin,US-Flu\UVAFluX-Ensemble,0.9112416666666667,12,2.0
-409,Louisiana,US-Flu\MIGHTE-Nsemble,0.8580000000000001,11,2.0
-70,Arkansas,US-Flu\Flusight-ensemble,0.93965,12,2.0
-947,Tennessee,US-Flu\CEPH-Rtrend_fluH,0.9218666666666666,9,2.0
-426,Maine,US-Flu\JHU_IDD-CovidSP,0.919975,8,2.0
-289,Illinois,US-Flu\CU-ensemble,0.8877636363636363,11,2.0
-18,Alabama,US-Flu\UGA_flucast-OKeeffe,0.7359909090909091,11,2.0
-711,New York,US-Flu\CU-ensemble,0.7611909090909091,11,2.0
-365,Kansas,US-Flu\MIGHTE-Nsemble,0.8944181818181818,11,2.0
-734,North Carolina,US-Flu\CU-ensemble,0.8753454545454545,11,2.0
-1127,West Virginia,US-Flu\MIGHTE-Nsemble,0.8994,11,2.0
-335,Iowa,US-Flu\Flusight-ensemble,0.951825,12,2.0
-640,Nevada,US-Flu\UVAFluX-Ensemble,0.844275,12,2.0
-825,Oregon,US-Flu\Flusight-ensemble,0.9154166666666667,12,3.0
-321,Indiana,US-Flu\MIGHTE-Nsemble,0.8313727272727273,11,3.0
-723,New York,US-Flu\NIH-Flu_ARIMA,0.7559222222222223,9,3.0
-879,Puerto Rico,US-Flu\UMass-trends_ensemble,0.17895833333333333,12,3.0
-573,Missouri,US-Flu\UMass-trends_ensemble,0.8848250000000001,12,3.0
-182,District of Columbia,US-Flu\Flusight-baseline,0.31211538461538463,13,3.0
-529,Minnesota,US-Flu\UMass-trends_ensemble,0.9338083333333334,12,3.0
-354,Kansas,US-Flu\CMU-TimeSeries,0.7818166666666667,12,3.0
-232,Georgia,US-Flu\LUcompUncertLab-humanjudgment,0.6623375,8,3.0
-1160,Wyoming,US-Flu\CMU-TimeSeries,0.3842666666666667,12,3.0
-688,New Mexico,US-Flu\CU-ensemble,0.8344999999999999,11,3.0
-494,Michigan,US-Flu\LUcompUncertLab-HWAR2,0.7374666666666667,12,3.0
-855,Pennsylvania,US-Flu\LUcompUncertLab-humanjudgment,0.754675,8,3.0
-375,Kentucky,US-Flu\CEPH-Rtrend_fluH,0.9040333333333334,9,3.0
-949,Tennessee,US-Flu\CU-ensemble,0.9144545454545454,11,3.0
-154,Connecticut,US-Flu\UMass-trends_ensemble,0.9316083333333333,12,3.0
-976,Texas,US-Flu\ISU_NiemiLab-Flu,0.6608,9,3.0
-157,Delaware,US-Flu\CEPH-Rtrend_fluH,0.4749666666666667,9,3.0
-24,Alaska,US-Flu\CU-ensemble,0.40563636363636363,11,3.0
-21,Alabama,US-Flu\VTSanghani-ExogModel,0.7344272727272727,11,3.0
-332,Iowa,US-Flu\CMU-TimeSeries,0.9127,12,3.0
-544,Mississippi,US-Flu\MIGHTE-Nsemble,0.6573909090909091,11,3.0
-204,Florida,US-Flu\GT-FluFNP,0.6032416666666667,12,3.0
-1072,Virginia,US-Flu\CMU-TimeSeries,0.9357545454545455,11,3.0
-1066,Virgin Islands,US-Flu\MIGHTE-Nsemble,-0.6279636363636364,11,3.0
-277,Idaho,US-Flu\MIGHTE-Nsemble,0.8442818181818182,11,3.0
-1037,Vermont,US-Flu\CMU-TimeSeries,0.6241416666666667,12,3.0
-772,North Dakota,US-Flu\UGA_flucast-OKeeffe,0.8202181818181817,11,3.0
-632,Nevada,US-Flu\MIGHTE-Nsemble,0.8220727272727273,11,3.0
-642,New Hampshire,US-Flu\CEPH-Rtrend_fluH,0.8984222222222223,9,3.0
-431,Maine,US-Flu\MIGHTE-Nsemble,0.9080454545454546,11,3.0
-788,Ohio,US-Flu\MIGHTE-Nsemble,0.7959727272727274,11,3.0
-287,Illinois,US-Flu\CEPH-Rtrend_fluH,0.8869222222222223,9,3.0
-99,California,US-Flu\LUcompUncertLab-humanjudgment,0.7926625,8,3.0
-1116,West Virginia,US-Flu\CMU-TimeSeries,0.7487916666666666,12,3.0
-924,South Carolina,US-Flu\VTSanghani-ExogModel,0.6701454545454545,11,3.0
-1113,Washington,US-Flu\UVAFluX-Ensemble,0.8941833333333333,12,3.0
-66,Arkansas,US-Flu\CEPH-Rtrend_fluH,0.9358666666666667,9,3.0
-799,Oklahoma,US-Flu\CEPH-Rtrend_fluH,0.8572888888888889,9,3.0
-602,Nebraska,US-Flu\Flusight-ensemble,0.7886166666666666,12,3.0
-445,Maryland,US-Flu\Flusight-ensemble,0.8987083333333333,12,3.0
-899,Rhode Island,US-Flu\UGA_flucast-OKeeffe,0.7275181818181818,11,3.0
-1141,Wisconsin,US-Flu\Flusight-ensemble,0.9086583333333333,12,3.0
-1015,Utah,US-Flu\CMU-TimeSeries,0.7325166666666667,12,3.0
-44,Arizona,US-Flu\CEPH-Rtrend_fluH,0.8933777777777778,9,3.0
-927,South Dakota,US-Flu\CU-ensemble,0.5676636363636364,11,3.0
-244,Hawaii,US-Flu\CEPH-Rtrend_fluH,0.47781111111111113,9,3.0
-401,Louisiana,US-Flu\Flusight-ensemble,0.7539666666666666,12,3.0
-131,Colorado,US-Flu\UMass-trends_ensemble,0.9021750000000001,12,3.0
-666,New Jersey,US-Flu\CU-ensemble,0.8380727272727273,11,3.0
-751,North Carolina,US-Flu\UMass-trends_ensemble,0.8711333333333333,12,3.0
-993,United States,US-Flu\CMU-TimeSeries,0.813625,12,3.0
-594,Montana,US-Flu\UGA_flucast-OKeeffe,0.8351909090909092,11,3.0
-468,Massachusetts,US-Flu\Flusight-ensemble,0.8477166666666666,12,3.0
-337,Iowa,US-Flu\ISU_NiemiLab-Flu,0.9123333333333333,9,4.0
-850,Pennsylvania,US-Flu\ISU_NiemiLab-Flu,0.7095333333333333,9,4.0
-453,Maryland,US-Flu\MIGHTE-Nsemble,0.8840272727272727,11,4.0
-951,Tennessee,US-Flu\Flusight-ensemble,0.8718583333333334,12,4.0
-970,Texas,US-Flu\CEPH-Rtrend_fluH,0.6606333333333333,9,4.0
-475,Massachusetts,US-Flu\LUcompUncertLab-humanjudgment,0.8300624999999999,8,4.0
-423,Maine,US-Flu\Flusight-ensemble,0.8533,12,4.0
-1011,United States,US-Flu\UMass-trends_ensemble,0.8127916666666667,12,4.0
-416,Louisiana,US-Flu\UMass-trends_ensemble,0.7447166666666667,12,4.0
-269,Idaho,US-Flu\Flusight-ensemble,0.823725,12,4.0
-921,South Carolina,US-Flu\UGA_flucast-OKeeffe,0.6680272727272727,11,4.0
-1016,Utah,US-Flu\CU-ensemble,0.7308454545454546,11,4.0
-873,Puerto Rico,US-Flu\LUcompUncertLab-KalmanFilter,0.1703818181818182,11,4.0
-291,Illinois,US-Flu\Flusight-ensemble,0.8846833333333333,12,4.0
-506,Michigan,US-Flu\UMass-trends_ensemble,0.7122416666666668,12,4.0
-372,Kansas,US-Flu\UMass-trends_ensemble,0.7646999999999999,12,4.0
-937,South Dakota,US-Flu\MIGHTE-Nsemble,0.5652636363636364,11,4.0
-377,Kentucky,US-Flu\CU-ensemble,0.9029545454545453,11,4.0
-213,Florida,US-Flu\PSI-DICE,0.6001916666666667,12,4.0
-258,Hawaii,US-Flu\SGroup-RandomForest,0.4743363636363637,11,4.0
-1054,Vermont,US-Flu\UGA_flucast-OKeeffe,0.5998,11,4.0
-902,Rhode Island,US-Flu\VTSanghani-ExogModel,0.7137363636363637,11,4.0
-225,Georgia,US-Flu\Flusight-ensemble,0.6373,12,4.0
-509,Minnesota,US-Flu\CEPH-Rtrend_fluH,0.9317333333333333,9,4.0
-313,Indiana,US-Flu\Flusight-ensemble,0.7960416666666666,12,4.0
-0,Alabama,US-Flu\CEPH-Rtrend_fluH,0.6891,9,4.0
-621,Nevada,US-Flu\CMU-TimeSeries,0.8167545454545454,11,4.0
-646,New Hampshire,US-Flu\Flusight-ensemble,0.8343333333333334,12,4.0
-63,Arizona,US-Flu\UMass-trends_ensemble,0.884125,12,4.0
-780,Ohio,US-Flu\Flusight-ensemble,0.795675,12,4.0
-85,Arkansas,US-Flu\UMass-trends_ensemble,0.9237166666666666,12,4.0
-668,New Jersey,US-Flu\Flusight-ensemble,0.8372,12,4.0
-759,North Dakota,US-Flu\GT-FluFNP,0.68319,10,4.0
-819,Oklahoma,US-Flu\UVAFluX-Ensemble,0.8535833333333334,12,4.0
-136,Connecticut,US-Flu\CU-ensemble,0.9201727272727273,11,4.0
-1065,Virgin Islands,US-Flu\LUcompUncertLab-humanjudgment,-0.62815,8,4.0
-1119,West Virginia,US-Flu\Flusight-ensemble,0.7117333333333334,12,4.0
-1156,Wisconsin,US-Flu\UMass-trends_ensemble,0.90315,12,4.0
-37,Alaska,US-Flu\SGroup-RandomForest,0.3973909090909091,11,4.0
-550,Mississippi,US-Flu\UGA_flucast-OKeeffe,0.6259,11,4.0
-1073,Virginia,US-Flu\CU-ensemble,0.9059454545454546,11,4.0
-841,Oregon,US-Flu\UMass-trends_ensemble,0.9046583333333333,12,4.0
-565,Missouri,US-Flu\LUcompUncertLab-humanjudgment,0.881425,8,4.0
-617,Nebraska,US-Flu\UMass-trends_ensemble,0.7826166666666667,12,4.0
-588,Montana,US-Flu\MIGHTE-Nsemble,0.6907181818181818,11,4.0
-181,District of Columbia,US-Flu\CU-ensemble,0.3004818181818182,11,4.0
-123,Colorado,US-Flu\MIGHTE-Nsemble,0.8013454545454546,11,4.0
-1174,Wyoming,US-Flu\SGroup-RandomForest,0.3669363636363636,11,4.0
-707,New Mexico,US-Flu\UVAFluX-Ensemble,0.8277,12,4.0
-729,New York,US-Flu\UMass-trends_ensemble,0.7436416666666666,12,4.0
-172,Delaware,US-Flu\SGroup-RandomForest,0.47245454545454546,11,4.0
-102,California,US-Flu\NIH-Flu_ARIMA,0.7453444444444445,9,4.0
-1097,Washington,US-Flu\Flusight-ensemble,0.8873333333333333,12,4.0
-736,North Carolina,US-Flu\Flusight-ensemble,0.8699416666666666,12,4.0
-442,Maryland,US-Flu\CMU-TimeSeries,0.84077,10,5.0
-89,California,US-Flu\CMU-TimeSeries,0.7427,11,5.0
-618,Nebraska,US-Flu\UVAFluX-Ensemble,0.7713333333333333,12,5.0
-266,Idaho,US-Flu\CMU-TimeSeries,0.8021,11,5.0
-1112,Washington,US-Flu\UMass-trends_ensemble,0.8807333333333333,12,5.0
-801,Oklahoma,US-Flu\CU-ensemble,0.8158727272727273,11,5.0
-1122,West Virginia,US-Flu\JHU_IDD-CovidSP,0.7071666666666666,9,5.0
-420,Maine,US-Flu\CMU-TimeSeries,0.8490454545454544,11,5.0
-915,South Carolina,US-Flu\MIGHTE-Nsemble,0.664,11,5.0
-624,Nevada,US-Flu\Flusight-ensemble,0.8067333333333333,12,5.0
-299,Illinois,US-Flu\MIGHTE-Nsemble,0.8752636363636364,11,5.0
-643,New Hampshire,US-Flu\CMU-TimeSeries,0.8247272727272726,11,5.0
-1,Alabama,US-Flu\CMU-TimeSeries,0.5897818181818182,11,5.0
-357,Kansas,US-Flu\Flusight-ensemble,0.7586833333333334,12,5.0
-967,Tennessee,US-Flu\UMass-trends_ensemble,0.8714,12,5.0
-720,New York,US-Flu\LUcompUncertLab-humanjudgment,0.728075,8,5.0
-733,North Carolina,US-Flu\CMU-TimeSeries,0.8676,10,5.0
-698,New Mexico,US-Flu\MIGHTE-Nsemble,0.8122363636363636,11,5.0
-25,Alaska,US-Flu\Flusight-baseline,0.39490000000000003,13,5.0
-977,Texas,US-Flu\JHU_IDD-CovidSP,0.5737333333333333,9,5.0
-1161,Wyoming,US-Flu\CU-ensemble,0.35283636363636367,11,5.0
-776,Ohio,US-Flu\CEPH-Rtrend_fluH,0.7710333333333333,9,5.0
-320,Indiana,US-Flu\LUcompUncertLab-humanjudgment,0.7946,8,5.0
-46,Arizona,US-Flu\CU-ensemble,0.869890909090909,11,5.0
-395,Kentucky,US-Flu\UVAFluX-Ensemble,0.8783416666666667,12,5.0
-1149,Wisconsin,US-Flu\MIGHTE-Nsemble,0.8811363636363635,11,5.0
-758,North Dakota,US-Flu\Flusight-ensemble,0.6815916666666667,12,5.0
-398,Louisiana,US-Flu\CMU-TimeSeries,0.74395,10,5.0
-113,Colorado,US-Flu\CU-ensemble,0.7981363636363636,11,5.0
-665,New Jersey,US-Flu\CMU-TimeSeries,0.8312833333333334,12,5.0
-994,United States,US-Flu\CU-ensemble,0.8077181818181818,11,5.0
-72,Arkansas,US-Flu\ISU_NiemiLab-Flu,0.8964888888888889,9,5.0
-940,South Dakota,US-Flu\SGroup-RandomForest,0.5262636363636364,11,5.0
-896,Rhode Island,US-Flu\SGroup-RandomForest,0.6249545454545454,11,5.0
-350,Iowa,US-Flu\UMass-trends_ensemble,0.8602249999999999,12,5.0
-1075,Virginia,US-Flu\Flusight-ensemble,0.88795,12,5.0
-577,Montana,US-Flu\CMU-TimeSeries,0.5776166666666667,12,5.0
-828,Oregon,US-Flu\JHU_IDD-CovidSP,0.8950625,8,5.0
-476,Massachusetts,US-Flu\MIGHTE-Nsemble,0.8126636363636363,11,5.0
-228,Georgia,US-Flu\JHU_IDD-CovidSP,0.6219555555555556,9,5.0
-1029,Utah,US-Flu\SGroup-RandomForest,0.7096363636363636,11,5.0
-510,Minnesota,US-Flu\CMU-TimeSeries,0.9099600000000001,10,5.0
-875,Puerto Rico,US-Flu\LUcompUncertLab-humanjudgment,0.1679875,8,5.0
-202,Florida,US-Flu\Flusight-baseline,0.5989692307692308,13,5.0
-159,Delaware,US-Flu\CU-ensemble,0.46683636363636366,11,5.0
-1061,Virgin Islands,US-Flu\Flusight-ensemble,-0.62825,12,5.0
-246,Hawaii,US-Flu\CU-ensemble,0.4622636363636364,11,5.0
-194,District of Columbia,US-Flu\SGroup-RandomForest,0.29051818181818184,11,5.0
-1048,Vermont,US-Flu\MIGHTE-Nsemble,0.5859272727272727,11,5.0
-846,Pennsylvania,US-Flu\CU-ensemble,0.7086545454545455,11,5.0
-533,Mississippi,US-Flu\CMU-TimeSeries,0.59058,10,5.0
-558,Missouri,US-Flu\Flusight-ensemble,0.8761666666666666,12,5.0
-134,Connecticut,US-Flu\CEPH-Rtrend_fluH,0.9048,9,5.0
-507,Michigan,US-Flu\UVAFluX-Ensemble,0.6995416666666667,12,5.0
-869,Puerto Rico,US-Flu\Flusight-baseline,0.16671538461538463,13,6.0
-56,Arizona,US-Flu\MIGHTE-Nsemble,0.8574999999999999,11,6.0
-683,New Jersey,US-Flu\UMass-trends_ensemble,0.8156083333333334,12,6.0
-755,North Dakota,US-Flu\CMU-TimeSeries,0.6769250000000001,12,6.0
-212,Florida,US-Flu\MOBS-GLEAM_FLUH,0.5722909090909091,11,6.0
-553,Mississippi,US-Flu\VTSanghani-ExogModel,0.5686454545454546,11,6.0
-399,Louisiana,US-Flu\CU-ensemble,0.6160363636363637,11,6.0
-155,Connecticut,US-Flu\UVAFluX-Ensemble,0.8556,12,6.0
-315,Indiana,US-Flu\ISU_NiemiLab-Flu,0.7824555555555555,9,6.0
-930,South Dakota,US-Flu\GT-FluFNP,0.52361,10,6.0
-376,Kentucky,US-Flu\CMU-TimeSeries,0.8626083333333333,12,6.0
-686,New Mexico,US-Flu\CEPH-Rtrend_fluH,0.8023777777777777,9,6.0
-1057,Vermont,US-Flu\VTSanghani-ExogModel,0.5676454545454545,11,6.0
-31,Alaska,US-Flu\LUcompUncertLab-KalmanFilter,0.3919181818181818,11,6.0
-744,North Carolina,US-Flu\MIGHTE-Nsemble,0.852,11,6.0
-373,Kansas,US-Flu\UVAFluX-Ensemble,0.7529916666666666,12,6.0
-331,Iowa,US-Flu\CEPH-Rtrend_fluH,0.8480777777777777,9,6.0
-1059,Virgin Islands,US-Flu\CU-ensemble,-0.6282727272727272,11,6.0
-948,Tennessee,US-Flu\CMU-TimeSeries,0.8333363636363637,11,6.0
-1168,Wyoming,US-Flu\LUcompUncertLab-KalmanFilter,0.3482454545454546,11,6.0
-511,Minnesota,US-Flu\CU-ensemble,0.8950636363636364,11,6.0
-709,New York,US-Flu\CEPH-Rtrend_fluH,0.7279444444444444,9,6.0
-971,Texas,US-Flu\CMU-TimeSeries,0.5567333333333333,9,6.0
-845,Pennsylvania,US-Flu\CMU-TimeSeries,0.6804833333333334,12,6.0
-4,Alabama,US-Flu\Flusight-ensemble,0.5416416666666667,12,6.0
-162,Delaware,US-Flu\GT-FluFNP,0.4625727272727273,11,6.0
-490,Michigan,US-Flu\Flusight-ensemble,0.6911916666666666,12,6.0
-188,District of Columbia,US-Flu\LUcompUncertLab-KalmanFilter,0.28705454545454545,11,6.0
-67,Arkansas,US-Flu\CMU-TimeSeries,0.8812083333333334,12,6.0
-639,Nevada,US-Flu\UMass-trends_ensemble,0.8010416666666668,12,6.0
-821,Oregon,US-Flu\CEPH-Rtrend_fluH,0.8668333333333333,9,6.0
-660,New Hampshire,US-Flu\UGA_flucast-OKeeffe,0.8149000000000001,11,6.0
-787,Ohio,US-Flu\LUcompUncertLab-humanjudgment,0.7637,8,6.0
-907,South Carolina,US-Flu\Flusight-ensemble,0.54955,12,6.0
-90,California,US-Flu\CU-ensemble,0.7386727272727271,11,6.0
-132,Colorado,US-Flu\UVAFluX-Ensemble,0.7975500000000001,12,6.0
-1090,Virginia,US-Flu\UMass-trends_ensemble,0.8641166666666668,12,6.0
-437,Maine,US-Flu\UGA_flucast-OKeeffe,0.8445181818181818,11,6.0
-578,Montana,US-Flu\CU-ensemble,0.5762909090909091,11,6.0
-1095,Washington,US-Flu\CU-ensemble,0.8775272727272726,11,6.0
-800,Oklahoma,US-Flu\CMU-TimeSeries,0.767,12,6.0
-447,Maryland,US-Flu\ISU_NiemiLab-Flu,0.799188888888889,9,6.0
-1025,Utah,US-Flu\LUcompUncertLab-humanjudgment,0.7012,8,6.0
-600,Nebraska,US-Flu\CU-ensemble,0.7681818181818181,11,6.0
-252,Hawaii,US-Flu\LUcompUncertLab-KalmanFilter,0.455290909090909,11,6.0
-883,Rhode Island,US-Flu\CU-ensemble,0.6178909090909092,11,6.0
-1003,United States,US-Flu\LUcompUncertLab-humanjudgment,0.7797,8,6.0
-574,Missouri,US-Flu\UVAFluX-Ensemble,0.8651583333333334,12,6.0
-284,Idaho,US-Flu\UMass-trends_ensemble,0.8019333333333334,12,6.0
-288,Illinois,US-Flu\CMU-TimeSeries,0.8468166666666667,12,6.0
-1135,West Virginia,US-Flu\UVAFluX-Ensemble,0.6872250000000001,12,6.0
-484,Massachusetts,US-Flu\UVAFluX-Ensemble,0.7818666666666667,12,6.0
-1137,Wisconsin,US-Flu\CEPH-Rtrend_fluH,0.8738888888888889,9,6.0
-222,Georgia,US-Flu\CMU-TimeSeries,0.5472444444444444,9,6.0
-929,South Dakota,US-Flu\Flusight-ensemble,0.52115,12,7.0
-599,Nebraska,US-Flu\CMU-TimeSeries,0.7390500000000001,12,7.0
-890,Rhode Island,US-Flu\LUcompUncertLab-KalmanFilter,0.6154181818181818,11,7.0
-833,Oregon,US-Flu\MIGHTE-Nsemble,0.8021909090909091,11,7.0
-717,New York,US-Flu\LUcompUncertLab-HWAR2,0.7203750000000001,12,7.0
-922,South Carolina,US-Flu\UMass-trends_ensemble,0.5231750000000001,12,7.0
-526,Minnesota,US-Flu\SigSci-CREG,0.7574818181818181,11,7.0
-580,Montana,US-Flu\Flusight-ensemble,0.5566166666666666,12,7.0
-462,Maryland,US-Flu\UVAFluX-Ensemble,0.7941666666666666,12,7.0
-464,Massachusetts,US-Flu\CEPH-Rtrend_fluH,0.7508777777777778,9,7.0
-953,Tennessee,US-Flu\ISU_NiemiLab-Flu,0.8072333333333334,9,7.0
-622,Nevada,US-Flu\CU-ensemble,0.7841363636363637,11,7.0
-566,Missouri,US-Flu\MIGHTE-Nsemble,0.8488454545454545,11,7.0
-738,North Carolina,US-Flu\ISU_NiemiLab-Flu,0.8208222222222221,9,7.0
-551,Mississippi,US-Flu\UMass-trends_ensemble,0.5468833333333333,12,7.0
-864,Pennsylvania,US-Flu\UVAFluX-Ensemble,0.6655333333333333,12,7.0
-756,North Dakota,US-Flu\CU-ensemble,0.6473545454545454,11,7.0
-644,New Hampshire,US-Flu\CU-ensemble,0.7791818181818182,11,7.0
-692,New Mexico,US-Flu\ISU_NiemiLab-Flu,0.7664111111111112,9,7.0
-870,Puerto Rico,US-Flu\Flusight-ensemble,0.14668333333333333,12,7.0
-777,Ohio,US-Flu\CMU-TimeSeries,0.7554916666666666,12,7.0
-417,Louisiana,US-Flu\UVAFluX-Ensemble,0.6104416666666667,12,7.0
-387,Kentucky,US-Flu\MIGHTE-Nsemble,0.8173272727272728,11,7.0
-421,Maine,US-Flu\CU-ensemble,0.8344,11,7.0
-684,New Jersey,US-Flu\UVAFluX-Ensemble,0.8095916666666666,12,7.0
-498,Michigan,US-Flu\MIGHTE-Nsemble,0.6655272727272727,11,7.0
-805,Oklahoma,US-Flu\ISU_NiemiLab-Flu,0.7650222222222223,9,7.0
-360,Kansas,US-Flu\JHU_IDD-CovidSP,0.7519111111111111,9,7.0
-1121,West Virginia,US-Flu\ISU_NiemiLab-Flu,0.6710666666666667,9,7.0
-978,Texas,US-Flu\LUcompUncertLab-HWAR2,0.4767666666666666,12,7.0
-108,California,US-Flu\UMass-trends_ensemble,0.7186416666666666,12,7.0
-1056,Vermont,US-Flu\UVAFluX-Ensemble,0.5550416666666667,12,7.0
-1105,Washington,US-Flu\MIGHTE-Nsemble,0.8611090909090909,11,7.0
-117,Colorado,US-Flu\ISU_NiemiLab-Flu,0.7824,9,7.0
-298,Illinois,US-Flu\LUcompUncertLab-humanjudgment,0.8366,8,7.0
-1060,Virgin Islands,US-Flu\Flusight-baseline,-0.6283,13,7.0
-209,Florida,US-Flu\LUcompUncertLab-hier_mech_model,0.5375300000000001,10,7.0
-140,Connecticut,US-Flu\ISU_NiemiLab-Flu,0.83,9,7.0
-1063,Virgin Islands,US-Flu\LUcompUncertLab-HWAR2,-0.6283,1,7.0
-1077,Virginia,US-Flu\ISU_NiemiLab-Flu,0.8421,9,7.0
-166,Delaware,US-Flu\LUcompUncertLab-KalmanFilter,0.46199999999999997,11,7.0
-1069,Virgin Islands,US-Flu\UMass-trends_ensemble,-0.6283,12,7.0
-1068,Virgin Islands,US-Flu\SGroup-RandomForest,-0.6283,11,7.0
-1067,Virgin Islands,US-Flu\PSI-DICE,-0.6283,12,7.0
-351,Iowa,US-Flu\UVAFluX-Ensemble,0.8374083333333333,12,7.0
-1062,Virgin Islands,US-Flu\ISU_NiemiLab-Flu,-0.6283,9,7.0
-329,Indiana,US-Flu\UVAFluX-Ensemble,0.7801833333333333,12,7.0
-180,District of Columbia,US-Flu\CMU-TimeSeries,0.2668416666666667,12,7.0
-267,Idaho,US-Flu\CU-ensemble,0.7915545454545455,11,7.0
-12,Alabama,US-Flu\MIGHTE-Nsemble,0.4768727272727272,11,7.0
-1004,United States,US-Flu\MIGHTE-Nsemble,0.7738545454545455,11,7.0
-23,Alaska,US-Flu\CMU-TimeSeries,0.3909833333333333,12,7.0
-233,Georgia,US-Flu\MIGHTE-Nsemble,0.5283636363636364,11,7.0
-1139,Wisconsin,US-Flu\CU-ensemble,0.8509818181818182,11,7.0
-245,Hawaii,US-Flu\CMU-TimeSeries,0.4518111111111111,9,7.0
-50,Arizona,US-Flu\ISU_NiemiLab-Flu,0.8378444444444444,9,7.0
-1162,Wyoming,US-Flu\Flusight-baseline,0.34031538461538463,13,7.0
-82,Arkansas,US-Flu\SigSci-CREG,0.6758090909090909,11,7.0
-1023,Utah,US-Flu\LUcompUncertLab-KalmanFilter,0.6930272727272727,11,7.0
-223,Georgia,US-Flu\CU-ensemble,0.4697545454545455,11,8.0
-438,Maine,US-Flu\UMass-trends_ensemble,0.8335499999999999,12,8.0
-1017,Utah,US-Flu\Flusight-baseline,0.6436461538461539,13,8.0
-848,Pennsylvania,US-Flu\Flusight-ensemble,0.6584500000000001,12,8.0
-901,Rhode Island,US-Flu\UVAFluX-Ensemble,0.6017416666666667,12,8.0
-452,Maryland,US-Flu\LUcompUncertLab-humanjudgment,0.7621875,8,8.0
-247,Hawaii,US-Flu\Flusight-baseline,0.4168307692307692,13,8.0
-200,Florida,US-Flu\CMU-TimeSeries,0.29922727272727273,11,8.0
-1058,Virgin Islands,US-Flu\CEPH-Rtrend_fluH,-0.6321444444444445,9,8.0
-470,Massachusetts,US-Flu\ISU_NiemiLab-Flu,0.7252,9,8.0
-877,Puerto Rico,US-Flu\PSI-DICE,0.10844166666666666,12,8.0
-183,District of Columbia,US-Flu\Flusight-ensemble,0.26185833333333336,12,8.0
-1052,Vermont,US-Flu\SigSci-CREG,0.5488333333333334,12,8.0
-486,Michigan,US-Flu\CEPH-Rtrend_fluH,0.6198888888888888,9,8.0
-516,Minnesota,US-Flu\JHU_IDD-CovidSP,0.7035,9,8.0
-964,Tennessee,US-Flu\SigSci-CREG,0.788909090909091,11,8.0
-1082,Virginia,US-Flu\LUcompUncertLab-humanjudgment,0.8120625,8,8.0
-560,Missouri,US-Flu\ISU_NiemiLab-Flu,0.8070444444444445,9,8.0
-713,New York,US-Flu\Flusight-ensemble,0.7089833333333333,12,8.0
-15,Alabama,US-Flu\SGroup-RandomForest,0.4309454545454546,11,8.0
-743,North Carolina,US-Flu\LUcompUncertLab-humanjudgment,0.80615,8,8.0
-1163,Wyoming,US-Flu\Flusight-ensemble,0.31783333333333336,12,8.0
-687,New Mexico,US-Flu\CMU-TimeSeries,0.7038833333333333,12,8.0
-40,Alaska,US-Flu\UGA_flucast-OKeeffe,0.35843636363636366,11,8.0
-676,New Jersey,US-Flu\MIGHTE-Nsemble,0.7899999999999999,11,8.0
-1152,Wisconsin,US-Flu\SGroup-RandomForest,0.8112181818181817,11,8.0
-661,New Hampshire,US-Flu\UMass-trends_ensemble,0.7324916666666667,12,8.0
-766,North Dakota,US-Flu\MIGHTE-Nsemble,0.6352636363636364,11,8.0
-64,Arizona,US-Flu\UVAFluX-Ensemble,0.8341916666666668,12,8.0
-177,Delaware,US-Flu\UVAFluX-Ensemble,0.40962499999999996,12,8.0
-73,Arkansas,US-Flu\JHU_IDD-CovidSP,0.6362777777777777,9,8.0
-782,Ohio,US-Flu\ISU_NiemiLab-Flu,0.7126,9,8.0
-627,Nevada,US-Flu\JHU_IDD-CovidSP,0.7206888888888889,9,8.0
-97,California,US-Flu\LUcompUncertLab-KalmanFilter,0.7168727272727273,11,8.0
-603,Nebraska,US-Flu\GT-FluFNP,0.64154,10,8.0
-111,Colorado,US-Flu\CEPH-Rtrend_fluH,0.7306888888888889,9,8.0
-591,Montana,US-Flu\SGroup-RandomForest,0.5082272727272727,11,8.0
-811,Oklahoma,US-Flu\MIGHTE-Nsemble,0.7590727272727272,11,8.0
-1099,Washington,US-Flu\ISU_NiemiLab-Flu,0.8465666666666667,9,8.0
-135,Connecticut,US-Flu\CMU-TimeSeries,0.7802272727272727,11,8.0
-822,Oregon,US-Flu\CMU-TimeSeries,0.7794583333333334,12,8.0
-904,South Carolina,US-Flu\CMU-TimeSeries,0.509675,8,8.0
-1134,West Virginia,US-Flu\UMass-trends_ensemble,0.6126833333333334,12,8.0
-271,Idaho,US-Flu\ISU_NiemiLab-Flu,0.7627444444444444,9,8.0
-536,Mississippi,US-Flu\Flusight-ensemble,0.5238916666666666,12,8.0
-381,Kentucky,US-Flu\ISU_NiemiLab-Flu,0.7856000000000001,9,8.0
-944,South Dakota,US-Flu\UMass-trends_ensemble,0.5155500000000001,12,8.0
-311,Indiana,US-Flu\CU-ensemble,0.6962272727272727,11,8.0
-989,Texas,US-Flu\UMass-trends_ensemble,0.4611,12,8.0
-333,Iowa,US-Flu\CU-ensemble,0.8143454545454546,11,8.0
-998,United States,US-Flu\ISU_NiemiLab-Flu,0.7577555555555555,9,8.0
-307,Illinois,US-Flu\UVAFluX-Ensemble,0.7636333333333334,12,8.0
-403,Louisiana,US-Flu\ISU_NiemiLab-Flu,0.6028555555555556,9,8.0
-369,Kansas,US-Flu\SigSci-CREG,0.6082454545454546,11,8.0
-860,Pennsylvania,US-Flu\SigSci-CREG,0.65564,10,9.0
-141,Connecticut,US-Flu\JHU_IDD-CovidSP,0.7337555555555555,9,9.0
-491,Michigan,US-Flu\GT-FluFNP,0.6108083333333333,12,9.0
-555,Missouri,US-Flu\CMU-TimeSeries,0.7926833333333333,12,9.0
-391,Kentucky,US-Flu\SigSci-CREG,0.7509727272727272,11,9.0
-158,Delaware,US-Flu\CMU-TimeSeries,0.4095416666666667,12,9.0
-837,Oregon,US-Flu\SGroup-RandomForest,0.7193363636363637,11,9.0
-1051,Vermont,US-Flu\SGroup-RandomForest,0.5482181818181818,11,9.0
-310,Indiana,US-Flu\CMU-TimeSeries,0.6814083333333333,12,9.0
-872,Puerto Rico,US-Flu\LUcompUncertLab-HWAR2,0.10800833333333333,12,9.0
-534,Mississippi,US-Flu\CU-ensemble,0.4879090909090909,11,9.0
-293,Illinois,US-Flu\ISU_NiemiLab-Flu,0.755,9,9.0
-211,Florida,US-Flu\MIGHTE-Nsemble,0.28855,10,9.0
-926,South Dakota,US-Flu\CMU-TimeSeries,0.511025,12,9.0
-520,Minnesota,US-Flu\LUcompUncertLab-humanjudgment,0.6925875,8,9.0
-404,Louisiana,US-Flu\JHU_IDD-CovidSP,0.5469666666666666,9,9.0
-192,District of Columbia,US-Flu\MOBS-GLEAM_FLUH,0.25758333333333333,12,9.0
-1094,Washington,US-Flu\CMU-TimeSeries,0.8259363636363637,11,9.0
-1012,United States,US-Flu\UVAFluX-Ensemble,0.6642416666666666,12,9.0
-585,Montana,US-Flu\LUcompUncertLab-KalmanFilter,0.48662727272727274,11,9.0
-1177,Wyoming,US-Flu\UGA_flucast-OKeeffe,0.31594545454545453,11,9.0
-11,Alabama,US-Flu\LUcompUncertLab-humanjudgment,0.3390375,8,9.0
-704,New Mexico,US-Flu\SigSci-TSENS,0.6944333333333333,12,9.0
-26,Alaska,US-Flu\Flusight-ensemble,0.358425,12,9.0
-958,Tennessee,US-Flu\LUcompUncertLab-humanjudgment,0.77175,8,9.0
-752,North Carolina,US-Flu\UVAFluX-Ensemble,0.7706666666666666,12,9.0
-45,Arizona,US-Flu\CMU-TimeSeries,0.8227545454545454,11,9.0
-670,New Jersey,US-Flu\ISU_NiemiLab-Flu,0.7400777777777778,9,9.0
-1143,Wisconsin,US-Flu\ISU_NiemiLab-Flu,0.7784222222222222,9,9.0
-658,New Hampshire,US-Flu\SigSci-CREG,0.7142583333333333,12,9.0
-336,Iowa,US-Flu\GT-FluFNP,0.71119,10,9.0
-769,North Dakota,US-Flu\SGroup-RandomForest,0.6221818181818182,11,9.0
-371,Kansas,US-Flu\UGA_flucast-OKeeffe,0.5705818181818182,11,9.0
-86,Arkansas,US-Flu\UVAFluX-Ensemble,0.6317416666666666,12,9.0
-974,Texas,US-Flu\Flusight-ensemble,0.4602583333333334,12,9.0
-626,Nevada,US-Flu\ISU_NiemiLab-Flu,0.6704111111111111,9,9.0
-1117,West Virginia,US-Flu\CU-ensemble,0.5699181818181818,11,9.0
-613,Nebraska,US-Flu\SGroup-RandomForest,0.5573272727272728,11,9.0
-105,California,US-Flu\SigSci-CREG,0.7010571428571428,7,9.0
-797,Ohio,US-Flu\UVAFluX-Ensemble,0.68935,12,9.0
-112,Colorado,US-Flu\CMU-TimeSeries,0.6642416666666667,12,9.0
-816,Oklahoma,US-Flu\SigSci-TSENS,0.656309090909091,11,9.0
-227,Georgia,US-Flu\ISU_NiemiLab-Flu,0.4643666666666666,9,9.0
-1091,Virginia,US-Flu\UVAFluX-Ensemble,0.6483416666666667,12,9.0
-721,New York,US-Flu\MIGHTE-Nsemble,0.7059090909090909,11,9.0
-285,Idaho,US-Flu\UVAFluX-Ensemble,0.7538083333333333,12,9.0
-443,Maryland,US-Flu\CU-ensemble,0.7001545454545455,11,9.0
-256,Hawaii,US-Flu\MOBS-GLEAM_FLUH,0.40986,10,9.0
-885,Rhode Island,US-Flu\Flusight-ensemble,0.5712083333333333,12,9.0
-1032,Utah,US-Flu\UGA_flucast-OKeeffe,0.6309545454545454,11,9.0
-905,South Carolina,US-Flu\CU-ensemble,0.4036,11,9.0
-465,Massachusetts,US-Flu\CMU-TimeSeries,0.6966666666666667,12,9.0
-425,Maine,US-Flu\ISU_NiemiLab-Flu,0.7857222222222222,9,9.0
-34,Alaska,US-Flu\MIGHTE-Nsemble,0.34858181818181816,11,10.0
-243,Georgia,US-Flu\VTSanghani-ExogModel,0.45682727272727275,11,10.0
-171,Delaware,US-Flu\PSI-DICE,0.40570833333333334,12,10.0
-954,Tennessee,US-Flu\JHU_IDD-CovidSP,0.6026777777777778,9,10.0
-680,New Jersey,US-Flu\SigSci-CREG,0.6368,8,10.0
-100,California,US-Flu\MIGHTE-Nsemble,0.6968363636363637,11,10.0
-435,Maine,US-Flu\SigSci-CREG,0.7837416666666667,12,10.0
-458,Maryland,US-Flu\SigSci-CREG,0.6913916666666666,12,10.0
-152,Connecticut,US-Flu\SigSci-TSENS,0.7013272727272727,11,10.0
-1008,United States,US-Flu\SigSci-CREG,0.5788666666666666,12,10.0
-60,Arizona,US-Flu\SigSci-CREG,0.7384,9,10.0
-538,Mississippi,US-Flu\ISU_NiemiLab-Flu,0.23696666666666666,9,10.0
-827,Oregon,US-Flu\ISU_NiemiLab-Flu,0.7162999999999999,9,10.0
-570,Missouri,US-Flu\SigSci-CREG,0.7498,11,10.0
-749,North Carolina,US-Flu\SigSci-TSENS,0.6237666666666667,12,10.0
-790,Ohio,US-Flu\NIH-Flu_ARIMA,0.6536666666666666,9,10.0
-325,Indiana,US-Flu\SigSci-CREG,0.6447272727272728,11,10.0
-1026,Utah,US-Flu\MIGHTE-Nsemble,0.6296272727272728,11,10.0
-945,South Dakota,US-Flu\UVAFluX-Ensemble,0.47515,12,10.0
-607,Nebraska,US-Flu\LUcompUncertLab-KalmanFilter,0.5572636363636364,11,10.0
-1110,Washington,US-Flu\SigSci-TSENS,0.699388888888889,9,10.0
-257,Hawaii,US-Flu\PSI-DICE,0.409275,12,10.0
-382,Kentucky,US-Flu\JHU_IDD-CovidSP,0.6402333333333333,9,10.0
-595,Montana,US-Flu\UMass-trends_ensemble,0.449475,12,10.0
-638,Nevada,US-Flu\UGA_flucast-OKeeffe,0.6221272727272728,11,10.0
-1132,West Virginia,US-Flu\SigSci-TSENS,0.5647416666666666,12,10.0
-774,North Dakota,US-Flu\UVAFluX-Ensemble,0.601375,12,10.0
-68,Arkansas,US-Flu\CU-ensemble,0.6258,11,10.0
-648,New Hampshire,US-Flu\ISU_NiemiLab-Flu,0.7056,9,10.0
-815,Oklahoma,US-Flu\SigSci-CREG,0.59155,12,10.0
-1138,Wisconsin,US-Flu\CMU-TimeSeries,0.7686833333333333,12,10.0
-128,Colorado,US-Flu\SigSci-CREG,0.6166181818181818,11,10.0
-1088,Virginia,US-Flu\SigSci-TSENS,0.6309166666666667,12,10.0
-187,District of Columbia,US-Flu\LUcompUncertLab-HWAR2,0.2574416666666667,12,10.0
-283,Idaho,US-Flu\UGA_flucast-OKeeffe,0.6555363636363637,11,10.0
-413,Louisiana,US-Flu\SigSci-CREG,0.5379,11,10.0
-1045,Vermont,US-Flu\LUcompUncertLab-KalmanFilter,0.5435,11,10.0
-703,New Mexico,US-Flu\SigSci-CREG,0.5823666666666666,12,10.0
-501,Michigan,US-Flu\PSI-DICE,0.6082833333333334,12,10.0
-199,Florida,US-Flu\CEPH-Rtrend_fluH,0.22002222222222223,9,10.0
-19,Alabama,US-Flu\UMass-trends_ensemble,0.26260833333333333,12,10.0
-882,Rhode Island,US-Flu\CMU-TimeSeries,0.5694166666666667,12,10.0
-471,Massachusetts,US-Flu\JHU_IDD-CovidSP,0.6644666666666666,9,10.0
-867,Puerto Rico,US-Flu\CMU-TimeSeries,0.10408333333333335,12,10.0
-1172,Wyoming,US-Flu\MOBS-GLEAM_FLUH,0.3041833333333333,12,10.0
-515,Minnesota,US-Flu\ISU_NiemiLab-Flu,0.6872666666666666,9,10.0
-346,Iowa,US-Flu\SGroup-RandomForest,0.6554090909090909,11,10.0
-856,Pennsylvania,US-Flu\MIGHTE-Nsemble,0.6531727272727272,11,10.0
-355,Kansas,US-Flu\CU-ensemble,0.5461090909090909,11,10.0
-990,Texas,US-Flu\UVAFluX-Ensemble,0.4548666666666667,12,10.0
-923,South Carolina,US-Flu\UVAFluX-Ensemble,0.3720583333333334,12,10.0
-303,Illinois,US-Flu\SigSci-CREG,0.6318818181818182,11,10.0
-715,New York,US-Flu\ISU_NiemiLab-Flu,0.6836222222222221,9,10.0
-251,Hawaii,US-Flu\LUcompUncertLab-HWAR2,0.4090416666666667,12,11.0
-714,New York,US-Flu\GT-FluFNP,0.62486,10,11.0
-934,South Dakota,US-Flu\LUcompUncertLab-KalmanFilter,0.45140909090909087,11,11.0
-851,Pennsylvania,US-Flu\JHU_IDD-CovidSP,0.5386888888888889,9,11.0
-763,North Dakota,US-Flu\LUcompUncertLab-KalmanFilter,0.5911727272727273,11,11.0
-439,Maine,US-Flu\UVAFluX-Ensemble,0.7692749999999999,12,11.0
-914,South Carolina,US-Flu\LUcompUncertLab-humanjudgment,0.3344,8,11.0
-636,Nevada,US-Flu\SigSci-CREG,0.57999,10,11.0
-972,Texas,US-Flu\CU-ensemble,0.45474545454545456,11,11.0
-596,Montana,US-Flu\UVAFluX-Ensemble,0.43978333333333336,12,11.0
-210,Florida,US-Flu\LUcompUncertLab-humanjudgment,0.19061250000000002,8,11.0
-999,United States,US-Flu\JHU_IDD-CovidSP,0.5490888888888888,9,11.0
-83,Arkansas,US-Flu\SigSci-TSENS,0.6063083333333333,12,11.0
-316,Indiana,US-Flu\JHU_IDD-CovidSP,0.5602777777777778,9,11.0
-876,Puerto Rico,US-Flu\MIGHTE-Nsemble,0.07712000000000001,10,11.0
-605,Nebraska,US-Flu\JHU_IDD-CovidSP,0.5438111111111111,9,11.0
-1033,Utah,US-Flu\UMass-trends_ensemble,0.622625,12,11.0
-1133,West Virginia,US-Flu\UGA_flucast-OKeeffe,0.5083727272727273,11,11.0
-487,Michigan,US-Flu\CMU-TimeSeries,0.6081083333333334,12,11.0
-810,Oklahoma,US-Flu\LUcompUncertLab-humanjudgment,0.5859625,8,11.0
-1038,Vermont,US-Flu\CU-ensemble,0.5400636363636363,11,11.0
-129,Colorado,US-Flu\SigSci-TSENS,0.613425,12,11.0
-571,Missouri,US-Flu\SigSci-TSENS,0.68343,10,11.0
-662,New Hampshire,US-Flu\UVAFluX-Ensemble,0.69495,12,11.0
-1087,Virginia,US-Flu\SigSci-CREG,0.6208363636363636,11,11.0
-184,District of Columbia,US-Flu\GT-FluFNP,0.25731666666666664,12,11.0
-693,New Mexico,US-Flu\JHU_IDD-CovidSP,0.4963666666666666,9,11.0
-793,Ohio,US-Flu\SigSci-CREG,0.5759555555555556,9,11.0
-304,Illinois,US-Flu\SigSci-TSENS,0.6249818181818182,11,11.0
-530,Minnesota,US-Flu\UVAFluX-Ensemble,0.6725083333333334,12,11.0
-359,Kansas,US-Flu\ISU_NiemiLab-Flu,0.4645777777777778,9,11.0
-240,Georgia,US-Flu\UGA_flucast-OKeeffe,0.45493636363636364,11,11.0
-884,Rhode Island,US-Flu\Flusight-baseline,0.5588307692307692,13,11.0
-968,Tennessee,US-Flu\UVAFluX-Ensemble,0.5725,12,11.0
-35,Alaska,US-Flu\MOBS-GLEAM_FLUH,0.34755,12,11.0
-739,North Carolina,US-Flu\JHU_IDD-CovidSP,0.5744555555555555,9,11.0
-20,Alabama,US-Flu\UVAFluX-Ensemble,0.22740000000000002,12,11.0
-392,Kentucky,US-Flu\SigSci-TSENS,0.6234909090909091,11,11.0
-165,Delaware,US-Flu\LUcompUncertLab-HWAR2,0.40513333333333335,12,11.0
-61,Arizona,US-Flu\SigSci-TSENS,0.6942499999999999,12,11.0
-547,Mississippi,US-Flu\SGroup-RandomForest,0.2272090909090909,11,11.0
-838,Oregon,US-Flu\SigSci-CREG,0.7057636363636364,11,11.0
-338,Iowa,US-Flu\JHU_IDD-CovidSP,0.6531,9,11.0
-270,Idaho,US-Flu\GT-FluFNP,0.6364888888888889,9,11.0
-408,Louisiana,US-Flu\LUcompUncertLab-humanjudgment,0.44308749999999997,8,11.0
-1144,Wisconsin,US-Flu\JHU_IDD-CovidSP,0.7325333333333334,9,11.0
-151,Connecticut,US-Flu\SigSci-CREG,0.6734666666666667,9,11.0
-1109,Washington,US-Flu\SigSci-CREG,0.6176666666666667,12,11.0
-96,California,US-Flu\LUcompUncertLab-HWAR2,0.6959583333333333,12,11.0
-459,Maryland,US-Flu\SigSci-TSENS,0.6375166666666666,12,11.0
-671,New Jersey,US-Flu\JHU_IDD-CovidSP,0.5891555555555557,9,11.0
-479,Massachusetts,US-Flu\SGroup-RandomForest,0.6549818181818182,11,11.0
-1164,Wyoming,US-Flu\GT-FluFNP,0.30406666666666665,12,11.0
-326,Indiana,US-Flu\SigSci-TSENS,0.5149454545454545,11,12.0
-1173,Wyoming,US-Flu\PSI-DICE,0.30391666666666667,12,12.0
-84,Arkansas,US-Flu\UGA_flucast-OKeeffe,0.47584545454545457,11,12.0
-92,California,US-Flu\Flusight-ensemble,0.6265333333333333,12,12.0
-1009,United States,US-Flu\SigSci-TSENS,0.5460166666666667,12,12.0
-748,North Carolina,US-Flu\SigSci-CREG,0.5593199999999999,10,12.0
-637,Nevada,US-Flu\SigSci-TSENS,0.4661166666666667,12,12.0
-695,New Mexico,US-Flu\LUcompUncertLab-KalmanFilter,0.48623636363636363,11,12.0
-681,New Jersey,US-Flu\SigSci-TSENS,0.5560090909090909,11,12.0
-1153,Wisconsin,US-Flu\SigSci-CREG,0.6688090909090909,11,12.0
-436,Maine,US-Flu\SigSci-TSENS,0.7333166666666666,12,12.0
-51,Arizona,US-Flu\JHU_IDD-CovidSP,0.5754,9,12.0
-918,South Carolina,US-Flu\SGroup-RandomForest,0.29865454545454545,11,12.0
-965,Tennessee,US-Flu\SigSci-TSENS,0.468,12,12.0
-348,Iowa,US-Flu\SigSci-TSENS,0.65165,12,12.0
-280,Idaho,US-Flu\SGroup-RandomForest,0.6364090909090909,11,12.0
-368,Kansas,US-Flu\SGroup-RandomForest,0.4395090909090909,11,12.0
-647,New Hampshire,US-Flu\GT-FluFNP,0.67889,10,12.0
-710,New York,US-Flu\CMU-TimeSeries,0.6206583333333334,12,12.0
-1131,West Virginia,US-Flu\SigSci-CREG,0.4659181818181818,11,12.0
-9,Alabama,US-Flu\LUcompUncertLab-KalmanFilter,0.10697272727272726,11,12.0
-768,North Dakota,US-Flu\PSI-DICE,0.52455,12,12.0
-42,Alaska,US-Flu\UVAFluX-Ensemble,0.34754166666666664,12,12.0
-878,Puerto Rico,US-Flu\SGroup-RandomForest,0.07313636363636364,11,12.0
-1078,Virginia,US-Flu\JHU_IDD-CovidSP,0.5975555555555556,9,12.0
-193,District of Columbia,US-Flu\PSI-DICE,0.25728333333333336,12,12.0
-415,Louisiana,US-Flu\UGA_flucast-OKeeffe,0.3961636363636364,11,12.0
-1028,Utah,US-Flu\PSI-DICE,0.6206916666666666,12,12.0
-248,Hawaii,US-Flu\Flusight-ensemble,0.4081666666666666,12,12.0
-1100,Washington,US-Flu\JHU_IDD-CovidSP,0.6001,8,12.0
-527,Minnesota,US-Flu\SigSci-TSENS,0.6027363636363637,11,12.0
-386,Kentucky,US-Flu\LUcompUncertLab-humanjudgment,0.51675,8,12.0
-987,Texas,US-Flu\SigSci-TSENS,0.4285083333333333,12,12.0
-886,Rhode Island,US-Flu\GT-FluFNP,0.552875,12,12.0
-242,Georgia,US-Flu\UVAFluX-Ensemble,0.436675,12,12.0
-561,Missouri,US-Flu\JHU_IDD-CovidSP,0.6185666666666667,9,12.0
-832,Oregon,US-Flu\LUcompUncertLab-humanjudgment,0.6730875,8,12.0
-150,Connecticut,US-Flu\SGroup-RandomForest,0.5393181818181818,11,12.0
-794,Ohio,US-Flu\SigSci-TSENS,0.5603583333333334,12,12.0
-552,Mississippi,US-Flu\UVAFluX-Ensemble,0.199425,12,12.0
-592,Montana,US-Flu\SigSci-CREG,0.43344166666666667,12,12.0
-806,Oklahoma,US-Flu\JHU_IDD-CovidSP,0.5829111111111112,9,12.0
-852,Pennsylvania,US-Flu\LUcompUncertLab-HWAR2,0.5071916666666666,12,12.0
-1046,Vermont,US-Flu\LUcompUncertLab-hier_mech_model,0.5015777777777778,9,12.0
-448,Maryland,US-Flu\JHU_IDD-CovidSP,0.6178333333333333,9,12.0
-492,Michigan,US-Flu\ISU_NiemiLab-Flu,0.5976111111111111,9,12.0
-120,Colorado,US-Flu\LUcompUncertLab-KalmanFilter,0.5955272727272727,11,12.0
-218,Florida,US-Flu\UMass-trends_ensemble,0.17395833333333335,12,12.0
-294,Illinois,US-Flu\JHU_IDD-CovidSP,0.5856888888888889,9,12.0
-604,Nebraska,US-Flu\ISU_NiemiLab-Flu,0.539,9,12.0
-161,Delaware,US-Flu\Flusight-ensemble,0.40210000000000007,12,12.0
-943,South Dakota,US-Flu\UGA_flucast-OKeeffe,0.43361818181818185,11,12.0
-480,Massachusetts,US-Flu\SigSci-CREG,0.6537499999999999,10,12.0
-362,Kansas,US-Flu\LUcompUncertLab-KalmanFilter,0.4230181818181818,11,13.0
-1000,United States,US-Flu\LUcompUncertLab-HWAR2,0.48094166666666666,12,13.0
-206,Florida,US-Flu\JHU_IDD-CovidSP,0.17206666666666667,9,13.0
-224,Georgia,US-Flu\Flusight-baseline,0.2893230769230769,13,13.0
-6,Alabama,US-Flu\ISU_NiemiLab-Flu,0.08542222222222223,9,13.0
-434,Maine,US-Flu\SGroup-RandomForest,0.6196090909090909,11,13.0
-839,Oregon,US-Flu\SigSci-TSENS,0.6482111111111111,9,13.0
-1154,Wisconsin,US-Flu\SigSci-TSENS,0.6440818181818182,11,13.0
-1040,Vermont,US-Flu\Flusight-ensemble,0.4973,12,13.0
-393,Kentucky,US-Flu\UGA_flucast-OKeeffe,0.4122818181818182,11,13.0
-197,District of Columbia,US-Flu\UVAFluX-Ensemble,0.25605833333333333,12,13.0
-176,Delaware,US-Flu\UMass-trends_ensemble,0.4000916666666667,12,13.0
-730,New York,US-Flu\UVAFluX-Ensemble,0.6027,12,13.0
-853,Pennsylvania,US-Flu\LUcompUncertLab-KalmanFilter,0.4584818181818182,11,13.0
-535,Mississippi,US-Flu\Flusight-baseline,0.1926923076923077,13,13.0
-305,Illinois,US-Flu\UGA_flucast-OKeeffe,0.43965454545454546,11,13.0
-689,New Mexico,US-Flu\Flusight-baseline,0.47890769230769226,13,13.0
-868,Puerto Rico,US-Flu\CU-ensemble,0.06914545454545455,11,13.0
-528,Minnesota,US-Flu\UGA_flucast-OKeeffe,0.5817,11,13.0
-27,Alaska,US-Flu\GT-FluFNP,0.34745833333333337,12,13.0
-497,Michigan,US-Flu\LUcompUncertLab-humanjudgment,0.594825,8,13.0
-966,Tennessee,US-Flu\UGA_flucast-OKeeffe,0.44283636363636364,11,13.0
-400,Louisiana,US-Flu\Flusight-baseline,0.3494846153846154,13,13.0
-1167,Wyoming,US-Flu\LUcompUncertLab-HWAR2,0.30373333333333336,12,13.0
-750,North Carolina,US-Flu\UGA_flucast-OKeeffe,0.43595454545454543,11,13.0
-472,Massachusetts,US-Flu\LUcompUncertLab-HWAR2,0.6443666666666666,12,13.0
-614,Nebraska,US-Flu\SigSci-CREG,0.5184166666666666,12,13.0
-262,Hawaii,US-Flu\UMass-trends_ensemble,0.40795833333333337,12,13.0
-1118,West Virginia,US-Flu\Flusight-baseline,0.3833384615384615,13,13.0
-895,Rhode Island,US-Flu\PSI-DICE,0.5528416666666667,12,13.0
-87,Arkansas,US-Flu\VTSanghani-ExogModel,0.4016818181818182,11,13.0
-281,Idaho,US-Flu\SigSci-CREG,0.6336363636363637,11,13.0
-109,California,US-Flu\UVAFluX-Ensemble,0.5278083333333333,12,13.0
-629,Nevada,US-Flu\LUcompUncertLab-KalmanFilter,0.4072272727272727,11,13.0
-783,Ohio,US-Flu\JHU_IDD-CovidSP,0.5474777777777777,9,13.0
-318,Indiana,US-Flu\LUcompUncertLab-KalmanFilter,0.45299090909090906,11,13.0
-118,Colorado,US-Flu\JHU_IDD-CovidSP,0.5800555555555555,9,13.0
-807,Oklahoma,US-Flu\LUcompUncertLab-HWAR2,0.5367916666666667,12,13.0
-1019,Utah,US-Flu\GT-FluFNP,0.6206583333333333,12,13.0
-460,Maryland,US-Flu\UGA_flucast-OKeeffe,0.46151818181818177,11,13.0
-1102,Washington,US-Flu\LUcompUncertLab-KalmanFilter,0.4877545454545454,11,13.0
-939,South Dakota,US-Flu\PSI-DICE,0.4021166666666667,12,13.0
-581,Montana,US-Flu\GT-FluFNP,0.43226666666666663,12,13.0
-920,South Carolina,US-Flu\SigSci-TSENS,0.16405,12,13.0
-988,Texas,US-Flu\UGA_flucast-OKeeffe,0.4262727272727273,11,13.0
-340,Iowa,US-Flu\LUcompUncertLab-KalmanFilter,0.6126818181818181,11,13.0
-657,New Hampshire,US-Flu\SGroup-RandomForest,0.6246545454545455,11,13.0
-1089,Virginia,US-Flu\UGA_flucast-OKeeffe,0.4623545454545454,11,13.0
-762,North Dakota,US-Flu\LUcompUncertLab-HWAR2,0.5231333333333333,12,13.0
-145,Connecticut,US-Flu\LUcompUncertLab-humanjudgment,0.47986249999999997,8,13.0
-563,Missouri,US-Flu\LUcompUncertLab-KalmanFilter,0.45779090909090914,11,13.0
-52,Arizona,US-Flu\LUcompUncertLab-HWAR2,0.3982333333333334,12,13.0
-667,New Jersey,US-Flu\Flusight-baseline,0.40616153846153846,13,13.0
-1178,Wyoming,US-Flu\UMass-trends_ensemble,0.3031333333333333,12,14.0
-1111,Washington,US-Flu\UGA_flucast-OKeeffe,0.48693636363636367,11,14.0
-1041,Vermont,US-Flu\GT-FluFNP,0.48690833333333333,12,14.0
-874,Puerto Rico,US-Flu\LUcompUncertLab-hier_mech_model,0.015466666666666677,9,14.0
-753,North Carolina,US-Flu\VTSanghani-ExogModel,0.38944545454545454,11,14.0
-840,Oregon,US-Flu\UGA_flucast-OKeeffe,0.5794727272727273,11,14.0
-784,Ohio,US-Flu\LUcompUncertLab-HWAR2,0.5217166666666667,12,14.0
-764,North Dakota,US-Flu\LUcompUncertLab-hier_mech_model,0.46839000000000003,10,14.0
-906,South Carolina,US-Flu\Flusight-baseline,0.12040769230769231,13,14.0
-1092,Virginia,US-Flu\VTSanghani-ExogModel,0.3931818181818182,11,14.0
-933,South Dakota,US-Flu\LUcompUncertLab-HWAR2,0.40123333333333333,12,14.0
-1027,Utah,US-Flu\MOBS-GLEAM_FLUH,0.6205083333333333,12,14.0
-995,United States,US-Flu\Flusight-baseline,0.4150538461538461,13,14.0
-1124,West Virginia,US-Flu\LUcompUncertLab-KalmanFilter,0.3746272727272727,11,14.0
-985,Texas,US-Flu\SGroup-RandomForest,0.3650272727272727,11,14.0
-808,Oklahoma,US-Flu\LUcompUncertLab-KalmanFilter,0.4714272727272727,11,14.0
-847,Pennsylvania,US-Flu\Flusight-baseline,0.4449153846153846,13,14.0
-889,Rhode Island,US-Flu\LUcompUncertLab-HWAR2,0.5511333333333334,12,14.0
-1146,Wisconsin,US-Flu\LUcompUncertLab-KalmanFilter,0.5312545454545454,11,14.0
-969,Tennessee,US-Flu\VTSanghani-ExogModel,0.3677000000000001,11,14.0
-590,Montana,US-Flu\PSI-DICE,0.432,12,14.0
-612,Nebraska,US-Flu\PSI-DICE,0.4978666666666667,12,14.0
-557,Missouri,US-Flu\Flusight-baseline,0.44548461538461537,13,14.0
-489,Michigan,US-Flu\Flusight-baseline,0.5850076923076923,13,14.0
-378,Kentucky,US-Flu\Flusight-baseline,0.3878538461538461,13,14.0
-541,Mississippi,US-Flu\LUcompUncertLab-KalmanFilter,0.1856909090909091,11,14.0
-525,Minnesota,US-Flu\SGroup-RandomForest,0.4972,11,14.0
-406,Louisiana,US-Flu\LUcompUncertLab-KalmanFilter,0.3470181818181818,11,14.0
-153,Connecticut,US-Flu\UGA_flucast-OKeeffe,0.4664,11,14.0
-95,California,US-Flu\JHU_IDD-CovidSP,0.4882,8,14.0
-635,Nevada,US-Flu\SGroup-RandomForest,0.38384545454545455,11,14.0
-673,New Jersey,US-Flu\LUcompUncertLab-KalmanFilter,0.39871818181818186,11,14.0
-428,Maine,US-Flu\LUcompUncertLab-KalmanFilter,0.6116727272727273,11,14.0
-444,Maryland,US-Flu\Flusight-baseline,0.3662384615384615,13,14.0
-125,Colorado,US-Flu\NIH-Flu_ARIMA,0.5635888888888889,9,14.0
-36,Alaska,US-Flu\PSI-DICE,0.3472583333333333,12,14.0
-481,Massachusetts,US-Flu\SigSci-TSENS,0.6425636363636363,11,14.0
-356,Kansas,US-Flu\Flusight-baseline,0.4184307692307693,13,14.0
-347,Iowa,US-Flu\SigSci-CREG,0.6018363636363637,11,14.0
-169,Delaware,US-Flu\MIGHTE-Nsemble,0.3631,11,14.0
-651,New Hampshire,US-Flu\LUcompUncertLab-KalmanFilter,0.5943454545454545,11,14.0
-263,Hawaii,US-Flu\UVAFluX-Ensemble,0.4036666666666667,12,14.0
-716,New York,US-Flu\JHU_IDD-CovidSP,0.5226555555555555,9,14.0
-296,Illinois,US-Flu\LUcompUncertLab-KalmanFilter,0.41761818181818183,11,14.0
-62,Arizona,US-Flu\UGA_flucast-OKeeffe,0.39794545454545455,11,14.0
-282,Idaho,US-Flu\SigSci-TSENS,0.6190363636363636,11,14.0
-312,Indiana,US-Flu\Flusight-baseline,0.45005384615384614,13,14.0
-3,Alabama,US-Flu\Flusight-baseline,0.07025384615384614,13,14.0
-69,Arkansas,US-Flu\Flusight-baseline,0.3324384615384615,13,14.0
-205,Florida,US-Flu\ISU_NiemiLab-Flu,0.16006666666666666,9,14.0
-196,District of Columbia,US-Flu\UMass-trends_ensemble,0.2557916666666667,12,14.0
-699,New Mexico,US-Flu\MOBS-GLEAM_FLUH,0.440425,12,14.0
-230,Georgia,US-Flu\LUcompUncertLab-KalmanFilter,0.2891363636363637,11,14.0
-255,Hawaii,US-Flu\MIGHTE-Nsemble,0.36225454545454544,11,15.0
-499,Michigan,US-Flu\MOBS-GLEAM_FLUH,0.5454600000000001,10,15.0
-1108,Washington,US-Flu\SGroup-RandomForest,0.4865727272727272,11,15.0
-802,Oklahoma,US-Flu\Flusight-baseline,0.4609384615384616,13,15.0
-512,Minnesota,US-Flu\Flusight-baseline,0.3322,13,15.0
-562,Missouri,US-Flu\LUcompUncertLab-HWAR2,0.4422833333333333,12,15.0
-104,California,US-Flu\SGroup-RandomForest,0.4229636363636363,11,15.0
-75,Arkansas,US-Flu\LUcompUncertLab-KalmanFilter,0.3161909090909091,11,15.0
-1179,Wyoming,US-Flu\UVAFluX-Ensemble,0.30039166666666667,12,15.0
-549,Mississippi,US-Flu\SigSci-TSENS,0.15355,12,15.0
-1128,West Virginia,US-Flu\MOBS-GLEAM_FLUH,0.3355666666666666,12,15.0
-584,Montana,US-Flu\LUcompUncertLab-HWAR2,0.4305083333333333,12,15.0
-830,Oregon,US-Flu\LUcompUncertLab-KalmanFilter,0.5132272727272728,11,15.0
-857,Pennsylvania,US-Flu\MOBS-GLEAM_FLUH,0.4098583333333334,12,15.0
-1140,Wisconsin,US-Flu\Flusight-baseline,0.4869076923076924,13,15.0
-237,Georgia,US-Flu\SGroup-RandomForest,0.2720181818181818,11,15.0
-473,Massachusetts,US-Flu\LUcompUncertLab-KalmanFilter,0.6169090909090909,11,15.0
-274,Idaho,US-Flu\LUcompUncertLab-KalmanFilter,0.5757181818181818,11,15.0
-219,Florida,US-Flu\UVAFluX-Ensemble,0.15839166666666665,12,15.0
-1001,United States,US-Flu\LUcompUncertLab-KalmanFilter,0.4140272727272727,11,15.0
-1050,Vermont,US-Flu\PSI-DICE,0.4868166666666667,12,15.0
-302,Illinois,US-Flu\SGroup-RandomForest,0.3912636363636363,11,15.0
-317,Indiana,US-Flu\LUcompUncertLab-HWAR2,0.43774166666666664,12,15.0
-973,Texas,US-Flu\Flusight-baseline,0.34867692307692305,13,15.0
-344,Iowa,US-Flu\MOBS-GLEAM_FLUH,0.5578666666666666,12,15.0
-191,District of Columbia,US-Flu\MIGHTE-Nsemble,0.20881818181818182,11,15.0
-358,Kansas,US-Flu\GT-FluFNP,0.3791583333333333,12,15.0
-871,Puerto Rico,US-Flu\ISU_NiemiLab-Flu,-0.1756,9,15.0
-950,Tennessee,US-Flu\Flusight-baseline,0.3403923076923077,13,15.0
-384,Kentucky,US-Flu\LUcompUncertLab-KalmanFilter,0.37586363636363634,11,15.0
-1074,Virginia,US-Flu\Flusight-baseline,0.32090769230769234,13,15.0
-160,Delaware,US-Flu\Flusight-baseline,0.3628692307692308,13,15.0
-418,Louisiana,US-Flu\VTSanghani-ExogModel,0.3164818181818182,11,15.0
-919,South Carolina,US-Flu\SigSci-CREG,0.11432500000000001,12,15.0
-424,Maine,US-Flu\GT-FluFNP,0.55375,12,15.0
-606,Nebraska,US-Flu\LUcompUncertLab-HWAR2,0.495175,12,15.0
-143,Connecticut,US-Flu\LUcompUncertLab-KalmanFilter,0.44250909090909096,11,15.0
-898,Rhode Island,US-Flu\SigSci-TSENS,0.5497083333333334,12,15.0
-463,Maryland,US-Flu\VTSanghani-ExogModel,0.35917272727272725,11,15.0
-941,South Dakota,US-Flu\SigSci-CREG,0.3876,12,15.0
-1022,Utah,US-Flu\LUcompUncertLab-HWAR2,0.6202083333333334,12,15.0
-116,Colorado,US-Flu\GT-FluFNP,0.534725,12,15.0
-669,New Jersey,US-Flu\GT-FluFNP,0.36333333333333334,12,15.0
-30,Alaska,US-Flu\LUcompUncertLab-HWAR2,0.34639166666666665,12,15.0
-691,New Mexico,US-Flu\GT-FluFNP,0.43925,12,15.0
-53,Arizona,US-Flu\LUcompUncertLab-KalmanFilter,0.39158181818181814,11,15.0
-2,Alabama,US-Flu\CU-ensemble,0.0417090909090909,11,15.0
-785,Ohio,US-Flu\LUcompUncertLab-KalmanFilter,0.4733454545454545,11,15.0
-712,New York,US-Flu\Flusight-baseline,0.5088230769230769,13,15.0
-770,North Dakota,US-Flu\SigSci-CREG,0.45824545454545457,11,15.0
-735,North Carolina,US-Flu\Flusight-baseline,0.3159076923076923,13,15.0
-652,New Hampshire,US-Flu\LUcompUncertLab-hier_mech_model,0.53526,10,15.0
-625,Nevada,US-Flu\GT-FluFNP,0.36710833333333337,12,15.0
-912,South Carolina,US-Flu\LUcompUncertLab-KalmanFilter,0.07940909090909089,11,16.0
-433,Maine,US-Flu\PSI-DICE,0.5532666666666667,12,16.0
-900,Rhode Island,US-Flu\UMass-trends_ensemble,0.5479916666666667,12,16.0
-450,Maryland,US-Flu\LUcompUncertLab-KalmanFilter,0.35913636363636364,11,16.0
-137,Connecticut,US-Flu\Flusight-baseline,0.4425076923076923,13,16.0
-469,Massachusetts,US-Flu\GT-FluFNP,0.558275,12,16.0
-656,New Hampshire,US-Flu\PSI-DICE,0.5315666666666666,12,16.0
-1080,Virginia,US-Flu\LUcompUncertLab-KalmanFilter,0.3156181818181818,11,16.0
-1101,Washington,US-Flu\LUcompUncertLab-HWAR2,0.415025,12,16.0
-767,North Dakota,US-Flu\MOBS-GLEAM_FLUH,0.45571,10,16.0
-496,Michigan,US-Flu\LUcompUncertLab-hier_mech_model,0.51458,10,16.0
-41,Alaska,US-Flu\UMass-trends_ensemble,0.34600000000000003,12,16.0
-518,Minnesota,US-Flu\LUcompUncertLab-KalmanFilter,0.3310909090909091,11,16.0
-98,California,US-Flu\LUcompUncertLab-hier_mech_model,0.40854,10,16.0
-634,Nevada,US-Flu\PSI-DICE,0.3667833333333333,12,16.0
-126,Colorado,US-Flu\PSI-DICE,0.5342833333333333,12,16.0
-678,New Jersey,US-Flu\PSI-DICE,0.3627833333333333,12,16.0
-935,South Dakota,US-Flu\LUcompUncertLab-hier_mech_model,0.35894,10,16.0
-390,Kentucky,US-Flu\SGroup-RandomForest,0.37079090909090906,11,16.0
-724,New York,US-Flu\PSI-DICE,0.48877499999999996,12,16.0
-1010,United States,US-Flu\UGA_flucast-OKeeffe,0.37922727272727275,11,16.0
-1044,Vermont,US-Flu\LUcompUncertLab-HWAR2,0.485725,12,16.0
-279,Idaho,US-Flu\PSI-DICE,0.5142916666666667,12,16.0
-290,Illinois,US-Flu\Flusight-baseline,0.39120000000000005,13,16.0
-983,Texas,US-Flu\MOBS-GLEAM_FLUH,0.31255,12,16.0
-322,Indiana,US-Flu\MOBS-GLEAM_FLUH,0.4147083333333333,12,16.0
-701,New Mexico,US-Flu\PSI-DICE,0.439025,12,16.0
-203,Florida,US-Flu\Flusight-ensemble,0.13305,12,16.0
-8,Alabama,US-Flu\LUcompUncertLab-HWAR2,0.0038416666666666755,12,16.0
-195,District of Columbia,US-Flu\UGA_flucast-OKeeffe,0.1896727272727273,11,16.0
-741,North Carolina,US-Flu\LUcompUncertLab-KalmanFilter,0.30764545454545456,11,16.0
-349,Iowa,US-Flu\UGA_flucast-OKeeffe,0.5576090909090909,11,16.0
-1034,Utah,US-Flu\UVAFluX-Ensemble,0.6201916666666666,12,16.0
-1171,Wyoming,US-Flu\MIGHTE-Nsemble,0.2676181818181818,11,16.0
-956,Tennessee,US-Flu\LUcompUncertLab-KalmanFilter,0.32981818181818184,11,16.0
-367,Kansas,US-Flu\PSI-DICE,0.37856666666666666,12,16.0
-167,Delaware,US-Flu\LUcompUncertLab-hier_mech_model,0.29929,10,16.0
-849,Pennsylvania,US-Flu\GT-FluFNP,0.40548333333333336,12,16.0
-405,Louisiana,US-Flu\LUcompUncertLab-HWAR2,0.3022916666666667,12,16.0
-779,Ohio,US-Flu\Flusight-baseline,0.4686923076923077,13,16.0
-229,Georgia,US-Flu\LUcompUncertLab-HWAR2,0.23899166666666669,12,16.0
-79,Arkansas,US-Flu\MOBS-GLEAM_FLUH,0.2836916666666667,12,16.0
-49,Arizona,US-Flu\GT-FluFNP,0.36167499999999997,12,16.0
-540,Mississippi,US-Flu\LUcompUncertLab-HWAR2,0.13765000000000002,12,16.0
-616,Nebraska,US-Flu\UGA_flucast-OKeeffe,0.4786363636363636,11,16.0
-812,Oklahoma,US-Flu\MOBS-GLEAM_FLUH,0.4351583333333333,12,16.0
-1120,West Virginia,US-Flu\GT-FluFNP,0.3344416666666667,12,16.0
-835,Oregon,US-Flu\NIH-Flu_ARIMA,0.4723111111111111,9,16.0
-254,Hawaii,US-Flu\LUcompUncertLab-humanjudgment,0.3569625,8,16.0
-572,Missouri,US-Flu\UGA_flucast-OKeeffe,0.4183818181818182,11,16.0
-1145,Wisconsin,US-Flu\LUcompUncertLab-HWAR2,0.48573333333333335,12,16.0
-579,Montana,US-Flu\Flusight-baseline,0.37362307692307695,13,16.0
-28,Alaska,US-Flu\ISU_NiemiLab-Flu,0.14041111111111113,9,17.0
-757,North Dakota,US-Flu\Flusight-baseline,0.45305384615384614,13,17.0
-427,Maine,US-Flu\LUcompUncertLab-HWAR2,0.5453333333333333,12,17.0
-672,New Jersey,US-Flu\LUcompUncertLab-HWAR2,0.361475,12,17.0
-911,South Carolina,US-Flu\LUcompUncertLab-HWAR2,0.055291666666666676,12,17.0
-628,Nevada,US-Flu\LUcompUncertLab-HWAR2,0.355875,12,17.0
-1079,Virginia,US-Flu\LUcompUncertLab-HWAR2,0.26934166666666665,12,17.0
-1129,West Virginia,US-Flu\PSI-DICE,0.3342333333333333,12,17.0
-139,Connecticut,US-Flu\GT-FluFNP,0.40693333333333337,12,17.0
-726,New York,US-Flu\SigSci-CREG,0.4338,8,17.0
-559,Missouri,US-Flu\GT-FluFNP,0.4101916666666667,12,17.0
-804,Oklahoma,US-Flu\GT-FluFNP,0.43369166666666664,12,17.0
-410,Louisiana,US-Flu\MOBS-GLEAM_FLUH,0.3015833333333333,12,17.0
-991,Texas,US-Flu\VTSanghani-ExogModel,0.3059,11,17.0
-1176,Wyoming,US-Flu\SigSci-TSENS,0.2642,12,17.0
-740,North Carolina,US-Flu\LUcompUncertLab-HWAR2,0.26330000000000003,12,17.0
-345,Iowa,US-Flu\PSI-DICE,0.5564916666666667,12,17.0
-71,Arkansas,US-Flu\GT-FluFNP,0.2813083333333333,12,17.0
-960,Tennessee,US-Flu\MOBS-GLEAM_FLUH,0.2918,12,17.0
-201,Florida,US-Flu\CU-ensemble,0.04697272727272727,11,17.0
-589,Montana,US-Flu\MOBS-GLEAM_FLUH,0.2790888888888889,9,17.0
-361,Kansas,US-Flu\LUcompUncertLab-HWAR2,0.37743333333333334,12,17.0
-295,Illinois,US-Flu\LUcompUncertLab-HWAR2,0.37754166666666666,12,17.0
-170,Delaware,US-Flu\MOBS-GLEAM_FLUH,0.29321,10,17.0
-314,Indiana,US-Flu\GT-FluFNP,0.4117166666666667,12,17.0
-13,Alabama,US-Flu\MOBS-GLEAM_FLUH,0.0011083333333333344,12,17.0
-694,New Mexico,US-Flu\LUcompUncertLab-HWAR2,0.43768333333333337,12,17.0
-383,Kentucky,US-Flu\LUcompUncertLab-HWAR2,0.34853333333333336,12,17.0
-938,South Dakota,US-Flu\MOBS-GLEAM_FLUH,0.35027272727272724,11,17.0
-253,Hawaii,US-Flu\LUcompUncertLab-hier_mech_model,0.34700000000000003,9,17.0
-824,Oregon,US-Flu\Flusight-baseline,0.4633846153846154,13,17.0
-1018,Utah,US-Flu\Flusight-ensemble,0.6143583333333333,12,17.0
-1096,Washington,US-Flu\Flusight-baseline,0.4106153846153846,13,17.0
-198,District of Columbia,US-Flu\VTSanghani-ExogModel,0.08961818181818182,11,17.0
-478,Massachusetts,US-Flu\PSI-DICE,0.5568916666666667,12,17.0
-119,Colorado,US-Flu\LUcompUncertLab-HWAR2,0.5184083333333334,12,17.0
-273,Idaho,US-Flu\LUcompUncertLab-HWAR2,0.5091166666666667,12,17.0
-893,Rhode Island,US-Flu\MIGHTE-Nsemble,0.5463636363636364,11,17.0
-107,California,US-Flu\UGA_flucast-OKeeffe,0.3763272727272728,11,17.0
-858,Pennsylvania,US-Flu\PSI-DICE,0.40420833333333334,12,17.0
-781,Ohio,US-Flu\GT-FluFNP,0.430825,12,17.0
-608,Nebraska,US-Flu\LUcompUncertLab-hier_mech_model,0.43621999999999994,10,17.0
-517,Minnesota,US-Flu\LUcompUncertLab-HWAR2,0.2993416666666667,12,17.0
-58,Arizona,US-Flu\PSI-DICE,0.3605,12,17.0
-1042,Vermont,US-Flu\ISU_NiemiLab-Flu,0.4832555555555556,9,17.0
-1142,Wisconsin,US-Flu\GT-FluFNP,0.46890000000000004,12,17.0
-504,Michigan,US-Flu\SigSci-TSENS,0.49767272727272727,11,17.0
-234,Georgia,US-Flu\MOBS-GLEAM_FLUH,0.23488333333333333,12,17.0
-650,New Hampshire,US-Flu\LUcompUncertLab-HWAR2,0.5288166666666667,12,17.0
-1005,United States,US-Flu\MOBS-GLEAM_FLUH,0.3756333333333333,12,17.0
-454,Maryland,US-Flu\MOBS-GLEAM_FLUH,0.3174333333333333,12,17.0
-545,Mississippi,US-Flu\MOBS-GLEAM_FLUH,0.12931666666666666,12,17.0
-5,Alabama,US-Flu\GT-FluFNP,-0.0027333333333333337,12,18.0
-370,Kansas,US-Flu\SigSci-TSENS,0.33265,12,18.0
-1053,Vermont,US-Flu\SigSci-TSENS,0.4818,12,18.0
-746,North Carolina,US-Flu\PSI-DICE,0.2622,12,18.0
-163,Delaware,US-Flu\ISU_NiemiLab-Flu,0.2161888888888889,9,18.0
-705,New Mexico,US-Flu\UGA_flucast-OKeeffe,0.3572181818181818,11,18.0
-114,Colorado,US-Flu\Flusight-baseline,0.5010230769230769,13,18.0
-1151,Wisconsin,US-Flu\PSI-DICE,0.46824166666666667,12,18.0
-791,Ohio,US-Flu\PSI-DICE,0.430575,12,18.0
-323,Indiana,US-Flu\PSI-DICE,0.41125833333333334,12,18.0
-91,California,US-Flu\Flusight-baseline,0.3487076923076923,13,18.0
-189,District of Columbia,US-Flu\LUcompUncertLab-hier_mech_model,0.034922222222222216,9,18.0
-962,Tennessee,US-Flu\PSI-DICE,0.28905,12,18.0
-260,Hawaii,US-Flu\SigSci-TSENS,0.2707,12,18.0
-47,Arizona,US-Flu\Flusight-baseline,0.3261538461538462,13,18.0
-813,Oklahoma,US-Flu\PSI-DICE,0.4315333333333333,12,18.0
-1024,Utah,US-Flu\LUcompUncertLab-hier_mech_model,0.57943,10,18.0
-633,Nevada,US-Flu\MOBS-GLEAM_FLUH,0.3124636363636364,11,18.0
-524,Minnesota,US-Flu\PSI-DICE,0.288725,12,18.0
-586,Montana,US-Flu\LUcompUncertLab-hier_mech_model,0.27303333333333335,9,18.0
-975,Texas,US-Flu\GT-FluFNP,0.30439166666666667,12,18.0
-861,Pennsylvania,US-Flu\SigSci-TSENS,0.3503909090909091,11,18.0
-268,Idaho,US-Flu\Flusight-baseline,0.4754923076923077,13,18.0
-389,Kentucky,US-Flu\PSI-DICE,0.3414916666666667,12,18.0
-292,Illinois,US-Flu\GT-FluFNP,0.3469583333333333,12,18.0
-1098,Washington,US-Flu\GT-FluFNP,0.38695833333333335,12,18.0
-897,Rhode Island,US-Flu\SigSci-CREG,0.44954999999999995,12,18.0
-446,Maryland,US-Flu\GT-FluFNP,0.316025,12,18.0
-32,Alaska,US-Flu\LUcompUncertLab-hier_mech_model,0.1401888888888889,9,18.0
-727,New York,US-Flu\SigSci-TSENS,0.40848000000000007,10,18.0
-653,New Hampshire,US-Flu\LUcompUncertLab-humanjudgment,0.5109625,8,18.0
-760,North Dakota,US-Flu\ISU_NiemiLab-Flu,0.43204444444444445,9,18.0
-601,Nebraska,US-Flu\Flusight-baseline,0.42846923076923077,13,18.0
-474,Massachusetts,US-Flu\LUcompUncertLab-hier_mech_model,0.48059,10,18.0
-1085,Virginia,US-Flu\PSI-DICE,0.2674916666666667,12,18.0
-334,Iowa,US-Flu\Flusight-baseline,0.5546923076923077,13,18.0
-829,Oregon,US-Flu\LUcompUncertLab-HWAR2,0.46130000000000004,12,18.0
-682,New Jersey,US-Flu\UGA_flucast-OKeeffe,0.29377272727272724,11,18.0
-80,Arkansas,US-Flu\PSI-DICE,0.2811916666666667,12,18.0
-568,Missouri,US-Flu\PSI-DICE,0.40834166666666666,12,18.0
-546,Mississippi,US-Flu\PSI-DICE,0.12789999999999999,12,18.0
-916,South Carolina,US-Flu\MOBS-GLEAM_FLUH,0.050883333333333336,12,18.0
-149,Connecticut,US-Flu\PSI-DICE,0.4060166666666667,12,18.0
-422,Maine,US-Flu\Flusight-baseline,0.4802923076923077,13,18.0
-236,Georgia,US-Flu\PSI-DICE,0.2335583333333333,12,18.0
-997,United States,US-Flu\GT-FluFNP,0.3717166666666667,12,18.0
-411,Louisiana,US-Flu\PSI-DICE,0.3005583333333333,12,18.0
-216,Florida,US-Flu\SigSci-TSENS,-0.12419999999999998,12,18.0
-493,Michigan,US-Flu\JHU_IDD-CovidSP,0.49092222222222226,9,18.0
-1123,West Virginia,US-Flu\LUcompUncertLab-HWAR2,0.33108333333333334,12,18.0
-1175,Wyoming,US-Flu\SigSci-CREG,0.17561666666666664,12,18.0
-928,South Dakota,US-Flu\Flusight-baseline,0.3480384615384615,13,18.0
-301,Illinois,US-Flu\PSI-DICE,0.34625833333333333,12,19.0
-327,Indiana,US-Flu\UGA_flucast-OKeeffe,0.31332727272727273,11,19.0
-1006,United States,US-Flu\PSI-DICE,0.3707583333333333,12,19.0
-1055,Vermont,US-Flu\UMass-trends_ensemble,0.480475,12,19.0
-984,Texas,US-Flu\PSI-DICE,0.30305,12,19.0
-217,Florida,US-Flu\UGA_flucast-OKeeffe,-0.15613636363636363,11,19.0
-623,Nevada,US-Flu\Flusight-baseline,0.2669153846153846,13,19.0
-789,Ohio,US-Flu\MOBS-GLEAM_FLUH,0.38874545454545456,11,19.0
-275,Idaho,US-Flu\LUcompUncertLab-hier_mech_model,0.41989,10,19.0
-226,Georgia,US-Flu\GT-FluFNP,0.23270833333333332,12,19.0
-537,Mississippi,US-Flu\GT-FluFNP,0.12725,12,19.0
-339,Iowa,US-Flu\LUcompUncertLab-HWAR2,0.5462916666666667,12,19.0
-259,Hawaii,US-Flu\SigSci-CREG,0.2657333333333333,12,19.0
-908,South Carolina,US-Flu\GT-FluFNP,0.049749999999999996,12,19.0
-429,Maine,US-Flu\LUcompUncertLab-hier_mech_model,0.44414444444444445,9,19.0
-57,Arizona,US-Flu\MOBS-GLEAM_FLUH,0.2426,10,19.0
-142,Connecticut,US-Flu\LUcompUncertLab-HWAR2,0.39539166666666664,12,19.0
-659,New Hampshire,US-Flu\SigSci-TSENS,0.5035583333333333,12,19.0
-891,Rhode Island,US-Flu\LUcompUncertLab-hier_mech_model,0.4356111111111111,9,19.0
-456,Maryland,US-Flu\PSI-DICE,0.31599166666666667,12,19.0
-124,Colorado,US-Flu\MOBS-GLEAM_FLUH,0.47866,10,19.0
-467,Massachusetts,US-Flu\Flusight-baseline,0.4758769230769231,13,19.0
-488,Michigan,US-Flu\CU-ensemble,0.48179090909090905,11,19.0
-39,Alaska,US-Flu\SigSci-TSENS,0.12987777777777776,9,19.0
-1107,Washington,US-Flu\PSI-DICE,0.38611666666666666,12,19.0
-773,North Dakota,US-Flu\UMass-trends_ensemble,0.4306083333333333,12,19.0
-1155,Wisconsin,US-Flu\UGA_flucast-OKeeffe,0.4650727272727273,11,19.0
-862,Pennsylvania,US-Flu\UGA_flucast-OKeeffe,0.3006272727272727,11,19.0
-514,Minnesota,US-Flu\GT-FluFNP,0.2884166666666667,12,19.0
-826,Oregon,US-Flu\GT-FluFNP,0.444475,12,19.0
-567,Missouri,US-Flu\MOBS-GLEAM_FLUH,0.36308181818181817,11,19.0
-679,New Jersey,US-Flu\SGroup-RandomForest,0.2544272727272727,11,19.0
-402,Louisiana,US-Flu\GT-FluFNP,0.3003,12,19.0
-1136,West Virginia,US-Flu\VTSanghani-ExogModel,0.2849818181818182,11,19.0
-582,Montana,US-Flu\ISU_NiemiLab-Flu,0.27003333333333335,9,19.0
-696,New Mexico,US-Flu\LUcompUncertLab-hier_mech_model,0.32755999999999996,10,19.0
-185,District of Columbia,US-Flu\ISU_NiemiLab-Flu,0.03332222222222221,9,19.0
-817,Oklahoma,US-Flu\UGA_flucast-OKeeffe,0.4182272727272727,11,19.0
-173,Delaware,US-Flu\SigSci-CREG,0.20083636363636365,11,19.0
-952,Tennessee,US-Flu\GT-FluFNP,0.2886916666666667,12,19.0
-737,North Carolina,US-Flu\GT-FluFNP,0.26206666666666667,12,19.0
-722,New York,US-Flu\MOBS-GLEAM_FLUH,0.40728,10,19.0
-366,Kansas,US-Flu\MOBS-GLEAM_FLUH,0.26528,10,19.0
-1020,Utah,US-Flu\ISU_NiemiLab-Flu,0.5417777777777778,9,19.0
-380,Kentucky,US-Flu\GT-FluFNP,0.3412916666666667,12,19.0
-74,Arkansas,US-Flu\LUcompUncertLab-HWAR2,0.27721666666666667,12,19.0
-14,Alabama,US-Flu\PSI-DICE,-0.002791666666666677,12,19.0
-93,California,US-Flu\GT-FluFNP,0.311475,12,19.0
-931,South Dakota,US-Flu\ISU_NiemiLab-Flu,0.2712,9,19.0
-1076,Virginia,US-Flu\GT-FluFNP,0.266525,12,19.0
-1169,Wyoming,US-Flu\LUcompUncertLab-hier_mech_model,0.17425000000000002,10,19.0
-611,Nebraska,US-Flu\MOBS-GLEAM_FLUH,0.41367000000000004,10,19.0
-231,Georgia,US-Flu\LUcompUncertLab-hier_mech_model,0.10657000000000001,10,20.0
-719,New York,US-Flu\LUcompUncertLab-hier_mech_model,0.38475000000000004,10,20.0
-214,Florida,US-Flu\SGroup-RandomForest,-0.16261818181818183,11,20.0
-190,District of Columbia,US-Flu\LUcompUncertLab-humanjudgment,-0.0374875,8,20.0
-168,Delaware,US-Flu\LUcompUncertLab-humanjudgment,0.1534875,8,20.0
-1084,Virginia,US-Flu\MOBS-GLEAM_FLUH,0.20949090909090912,11,20.0
-147,Connecticut,US-Flu\MOBS-GLEAM_FLUH,0.29906,10,20.0
-1106,Washington,US-Flu\MOBS-GLEAM_FLUH,0.19086666666666666,9,20.0
-103,California,US-Flu\PSI-DICE,0.3098166666666667,12,20.0
-1130,West Virginia,US-Flu\SGroup-RandomForest,0.24457272727272725,11,20.0
-76,Arkansas,US-Flu\LUcompUncertLab-hier_mech_model,0.14273,10,20.0
-54,Arizona,US-Flu\LUcompUncertLab-hier_mech_model,0.22109,10,20.0
-1147,Wisconsin,US-Flu\LUcompUncertLab-hier_mech_model,0.36469000000000007,10,20.0
-38,Alaska,US-Flu\SigSci-CREG,0.09672499999999999,12,20.0
-10,Alabama,US-Flu\LUcompUncertLab-hier_mech_model,-0.09061,10,20.0
-1047,Vermont,US-Flu\LUcompUncertLab-humanjudgment,0.45445,8,20.0
-121,Colorado,US-Flu\LUcompUncertLab-hier_mech_model,0.47587999999999997,10,20.0
-1180,Wyoming,US-Flu\VTSanghani-ExogModel,0.16985454545454545,11,20.0
-1030,Utah,US-Flu\SigSci-CREG,0.51845,12,20.0
-342,Iowa,US-Flu\LUcompUncertLab-humanjudgment,0.510025,8,20.0
-609,Nebraska,US-Flu\LUcompUncertLab-humanjudgment,0.3633125,8,20.0
-887,Rhode Island,US-Flu\ISU_NiemiLab-Flu,0.43318888888888885,9,20.0
-809,Oklahoma,US-Flu\LUcompUncertLab-hier_mech_model,0.31171000000000004,10,20.0
-955,Tennessee,US-Flu\LUcompUncertLab-HWAR2,0.28428333333333333,12,20.0
-363,Kansas,US-Flu\LUcompUncertLab-hier_mech_model,0.2598,10,20.0
-569,Missouri,US-Flu\SGroup-RandomForest,0.3411181818181818,11,20.0
-936,South Dakota,US-Flu\LUcompUncertLab-humanjudgment,0.222125,8,20.0
-388,Kentucky,US-Flu\MOBS-GLEAM_FLUH,0.28926363636363633,11,20.0
-836,Oregon,US-Flu\PSI-DICE,0.4436333333333333,12,20.0
-548,Mississippi,US-Flu\SigSci-CREG,0.10587272727272729,11,20.0
-414,Louisiana,US-Flu\SigSci-TSENS,0.2661833333333333,12,20.0
-531,Minnesota,US-Flu\VTSanghani-ExogModel,0.27637272727272727,11,20.0
-917,South Carolina,US-Flu\PSI-DICE,0.049658333333333325,12,20.0
-854,Pennsylvania,US-Flu\LUcompUncertLab-hier_mech_model,0.26408,10,20.0
-503,Michigan,US-Flu\SigSci-CREG,0.369975,8,20.0
-440,Maine,US-Flu\VTSanghani-ExogModel,0.4201272727272727,11,20.0
-449,Maryland,US-Flu\LUcompUncertLab-HWAR2,0.31570000000000004,12,20.0
-477,Massachusetts,US-Flu\MOBS-GLEAM_FLUH,0.4518888888888889,9,20.0
-330,Indiana,US-Flu\VTSanghani-ExogModel,0.2846818181818182,11,20.0
-786,Ohio,US-Flu\LUcompUncertLab-hier_mech_model,0.30605,10,20.0
-593,Montana,US-Flu\SigSci-TSENS,0.2664166666666667,12,20.0
-278,Idaho,US-Flu\MOBS-GLEAM_FLUH,0.36084444444444447,9,20.0
-249,Hawaii,US-Flu\ISU_NiemiLab-Flu,0.2561111111111111,9,20.0
-1007,United States,US-Flu\SGroup-RandomForest,0.29392727272727276,11,20.0
-747,North Carolina,US-Flu\SGroup-RandomForest,0.2518909090909091,11,20.0
-663,New Hampshire,US-Flu\VTSanghani-ExogModel,0.4778909090909091,11,20.0
-771,North Dakota,US-Flu\SigSci-TSENS,0.3830833333333333,12,20.0
-300,Illinois,US-Flu\MOBS-GLEAM_FLUH,0.29454545454545455,11,20.0
-677,New Jersey,US-Flu\MOBS-GLEAM_FLUH,0.25015,10,20.0
-700,New Mexico,US-Flu\NIH-Flu_ARIMA,0.30987777777777775,9,20.0
-631,Nevada,US-Flu\LUcompUncertLab-humanjudgment,0.24348750000000002,8,20.0
-986,Texas,US-Flu\SigSci-CREG,0.2371333333333333,9,20.0
-745,North Carolina,US-Flu\MOBS-GLEAM_FLUH,0.20503636363636363,11,21.0
-1165,Wyoming,US-Flu\ISU_NiemiLab-Flu,0.07345555555555555,9,21.0
-110,California,US-Flu\VTSanghani-ExogModel,0.28276363636363633,11,21.0
-859,Pennsylvania,US-Flu\SGroup-RandomForest,0.2353181818181818,11,21.0
-482,Massachusetts,US-Flu\UGA_flucast-OKeeffe,0.21757272727272728,11,21.0
-1114,Washington,US-Flu\VTSanghani-ExogModel,0.1779272727272727,11,21.0
-522,Minnesota,US-Flu\MOBS-GLEAM_FLUH,0.15439,10,21.0
-725,New York,US-Flu\SGroup-RandomForest,0.1325909090909091,11,21.0
-16,Alabama,US-Flu\SigSci-CREG,-0.14546,10,21.0
-697,New Mexico,US-Flu\LUcompUncertLab-humanjudgment,0.2308375,8,21.0
-1031,Utah,US-Flu\SigSci-TSENS,0.4546666666666667,12,21.0
-1150,Wisconsin,US-Flu\MOBS-GLEAM_FLUH,0.30652222222222225,9,21.0
-1125,West Virginia,US-Flu\LUcompUncertLab-hier_mech_model,0.20442999999999997,10,21.0
-630,Nevada,US-Flu\LUcompUncertLab-hier_mech_model,0.23584,10,21.0
-674,New Jersey,US-Flu\LUcompUncertLab-hier_mech_model,0.2259,10,21.0
-831,Oregon,US-Flu\LUcompUncertLab-hier_mech_model,0.31785,10,21.0
-564,Missouri,US-Flu\LUcompUncertLab-hier_mech_model,0.27835,10,21.0
-77,Arkansas,US-Flu\LUcompUncertLab-humanjudgment,0.06459999999999999,8,21.0
-33,Alaska,US-Flu\LUcompUncertLab-humanjudgment,0.0586125,8,21.0
-765,North Dakota,US-Flu\LUcompUncertLab-humanjudgment,0.3810375,8,21.0
-814,Oklahoma,US-Flu\SGroup-RandomForest,0.2222090909090909,11,21.0
-587,Montana,US-Flu\LUcompUncertLab-humanjudgment,0.21332500000000001,8,21.0
-59,Arizona,US-Flu\SGroup-RandomForest,0.2047090909090909,11,21.0
-645,New Hampshire,US-Flu\Flusight-baseline,0.4445,13,21.0
-795,Ohio,US-Flu\UGA_flucast-OKeeffe,0.24578181818181816,11,21.0
-615,Nebraska,US-Flu\SigSci-TSENS,0.24183333333333334,12,21.0
-542,Mississippi,US-Flu\LUcompUncertLab-hier_mech_model,0.013119999999999988,10,21.0
-892,Rhode Island,US-Flu\LUcompUncertLab-humanjudgment,0.39208750000000003,8,21.0
-505,Michigan,US-Flu\UGA_flucast-OKeeffe,0.13770000000000002,11,21.0
-127,Colorado,US-Flu\SGroup-RandomForest,0.3981818181818182,11,21.0
-396,Kentucky,US-Flu\VTSanghani-ExogModel,0.2796,11,21.0
-942,South Dakota,US-Flu\SigSci-TSENS,0.12810833333333335,12,21.0
-174,Delaware,US-Flu\SigSci-TSENS,0.09802500000000001,12,21.0
-963,Tennessee,US-Flu\SGroup-RandomForest,0.2150090909090909,11,21.0
-341,Iowa,US-Flu\LUcompUncertLab-hier_mech_model,0.48122,10,21.0
-980,Texas,US-Flu\LUcompUncertLab-hier_mech_model,0.14248,10,21.0
-407,Louisiana,US-Flu\LUcompUncertLab-hier_mech_model,0.17599,10,21.0
-319,Indiana,US-Flu\LUcompUncertLab-hier_mech_model,0.28369,10,21.0
-220,Florida,US-Flu\VTSanghani-ExogModel,-0.18033636363636363,11,21.0
-276,Idaho,US-Flu\LUcompUncertLab-humanjudgment,0.3367875,8,21.0
-1013,United States,US-Flu\VTSanghani-ExogModel,0.27402727272727273,11,21.0
-264,Hawaii,US-Flu\VTSanghani-ExogModel,0.2396727272727273,11,21.0
-1039,Vermont,US-Flu\Flusight-baseline,0.41003076923076925,13,21.0
-238,Georgia,US-Flu\SigSci-CREG,0.0991818181818182,11,21.0
-308,Illinois,US-Flu\VTSanghani-ExogModel,0.29201818181818184,11,21.0
-913,South Carolina,US-Flu\LUcompUncertLab-hier_mech_model,-0.012070000000000003,10,21.0
-364,Kansas,US-Flu\LUcompUncertLab-humanjudgment,0.197075,8,21.0
-430,Maine,US-Flu\LUcompUncertLab-humanjudgment,0.41752500000000003,8,21.0
-451,Maryland,US-Flu\LUcompUncertLab-hier_mech_model,0.18721000000000002,10,21.0
-1086,Virginia,US-Flu\SGroup-RandomForest,0.20359999999999998,11,21.0
-144,Connecticut,US-Flu\LUcompUncertLab-hier_mech_model,0.27888999999999997,10,21.0
-979,Texas,US-Flu\LUcompUncertLab-KalmanFilter,-0.29196363636363637,11,22.0
-432,Maine,US-Flu\MOBS-GLEAM_FLUH,0.39311250000000003,8,22.0
-502,Michigan,US-Flu\SGroup-RandomForest,0.10135454545454546,11,22.0
-485,Massachusetts,US-Flu\VTSanghani-ExogModel,0.17232727272727272,11,22.0
-641,Nevada,US-Flu\VTSanghani-ExogModel,0.1446909090909091,11,22.0
-43,Alaska,US-Flu\VTSanghani-ExogModel,-0.16948181818181818,11,22.0
-775,North Dakota,US-Flu\VTSanghani-ExogModel,0.19175454545454548,11,22.0
-215,Florida,US-Flu\SigSci-CREG,-0.3426,5,22.0
-297,Illinois,US-Flu\LUcompUncertLab-hier_mech_model,0.19279,10,22.0
-1049,Vermont,US-Flu\MOBS-GLEAM_FLUH,0.323975,8,22.0
-1158,Wisconsin,US-Flu\VTSanghani-ExogModel,0.16457272727272726,11,22.0
-655,New Hampshire,US-Flu\MOBS-GLEAM_FLUH,0.4217571428571429,7,22.0
-519,Minnesota,US-Flu\LUcompUncertLab-hier_mech_model,0.15118,10,22.0
-1002,United States,US-Flu\LUcompUncertLab-hier_mech_model,0.23676,10,22.0
-1103,Washington,US-Flu\LUcompUncertLab-hier_mech_model,0.1550777777777778,9,22.0
-17,Alabama,US-Flu\SigSci-TSENS,-0.38881,10,22.0
-685,New Jersey,US-Flu\VTSanghani-ExogModel,0.2127363636363637,11,22.0
-130,Colorado,US-Flu\UGA_flucast-OKeeffe,0.11672727272727274,11,22.0
-1170,Wyoming,US-Flu\LUcompUncertLab-humanjudgment,-0.007375000000000003,8,22.0
-455,Maryland,US-Flu\NIH-Flu_ARIMA,0.1487777777777778,9,22.0
-742,North Carolina,US-Flu\LUcompUncertLab-hier_mech_model,0.12457,10,22.0
-235,Georgia,US-Flu\NIH-Flu_ARIMA,0.005811111111111112,9,22.0
-708,New Mexico,US-Flu\VTSanghani-ExogModel,0.16725454545454546,11,22.0
-728,New York,US-Flu\UGA_flucast-OKeeffe,0.12661818181818182,11,22.0
-1035,Utah,US-Flu\VTSanghani-ExogModel,0.020418181818181832,11,22.0
-286,Idaho,US-Flu\VTSanghani-ExogModel,0.16112727272727273,11,22.0
-909,South Carolina,US-Flu\ISU_NiemiLab-Flu,-0.11131111111111111,9,22.0
-619,Nebraska,US-Flu\VTSanghani-ExogModel,0.0662,11,22.0
-324,Indiana,US-Flu\SGroup-RandomForest,0.19121818181818184,11,22.0
-148,Connecticut,US-Flu\NIH-Flu_ARIMA,0.24784444444444442,9,22.0
-1081,Virginia,US-Flu\LUcompUncertLab-hier_mech_model,0.12811999999999998,10,22.0
-412,Louisiana,US-Flu\SGroup-RandomForest,0.06975454545454546,11,22.0
-81,Arkansas,US-Flu\SGroup-RandomForest,-0.007299999999999998,11,22.0
-543,Mississippi,US-Flu\LUcompUncertLab-humanjudgment,-0.06191250000000001,8,22.0
-106,California,US-Flu\SigSci-TSENS,0.27613333333333334,9,22.0
-792,Ohio,US-Flu\SGroup-RandomForest,0.2073,11,22.0
-834,Oregon,US-Flu\MOBS-GLEAM_FLUH,0.2696111111111111,9,22.0
-385,Kentucky,US-Flu\LUcompUncertLab-hier_mech_model,0.12083333333333332,9,22.0
-374,Kansas,US-Flu\VTSanghani-ExogModel,0.08598181818181817,11,22.0
-946,South Dakota,US-Flu\VTSanghani-ExogModel,-0.09788181818181818,11,22.0
-1126,West Virginia,US-Flu\LUcompUncertLab-humanjudgment,0.05817499999999999,8,22.0
-575,Missouri,US-Flu\VTSanghani-ExogModel,0.13419999999999999,11,22.0
-352,Iowa,US-Flu\VTSanghani-ExogModel,0.01779090909090909,11,22.0
-865,Pennsylvania,US-Flu\VTSanghani-ExogModel,0.21083636363636363,11,22.0
-820,Oklahoma,US-Flu\VTSanghani-ExogModel,0.1562,11,22.0
-894,Rhode Island,US-Flu\MOBS-GLEAM_FLUH,0.3696875,8,22.0
-597,Montana,US-Flu\VTSanghani-ExogModel,0.12105454545454547,11,22.0
-957,Tennessee,US-Flu\LUcompUncertLab-hier_mech_model,0.15091000000000002,10,22.0
-178,Delaware,US-Flu\VTSanghani-ExogModel,-0.05016363636363638,11,22.0
-65,Arizona,US-Flu\VTSanghani-ExogModel,0.18805454545454545,11,22.0
-457,Maryland,US-Flu\SGroup-RandomForest,0.11625454545454544,11,23.0
-156,Connecticut,US-Flu\VTSanghani-ExogModel,0.1333181818181818,11,23.0
-961,Tennessee,US-Flu\NIH-Flu_ARIMA,0.11773333333333334,9,23.0
-239,Georgia,US-Flu\SigSci-TSENS,-0.025925000000000014,12,23.0
-843,Oregon,US-Flu\VTSanghani-ExogModel,0.15125454545454545,11,23.0
-508,Michigan,US-Flu\VTSanghani-ExogModel,-0.013136363636363634,11,23.0
-702,New Mexico,US-Flu\SGroup-RandomForest,-0.06082727272727273,11,23.0
-523,Minnesota,US-Flu\NIH-Flu_ARIMA,0.07119999999999999,9,23.0
-731,New York,US-Flu\VTSanghani-ExogModel,0.11400909090909091,11,23.0
-798,Ohio,US-Flu\VTSanghani-ExogModel,0.08298181818181818,11,23.0
-101,California,US-Flu\MOBS-GLEAM_FLUH,0.19026,10,23.0
-133,Colorado,US-Flu\VTSanghani-ExogModel,0.03328181818181819,11,23.0
+599,Maryland,US-Flu\LosAlamos_NAU-CModel_Flu,0.9515800000000001,5,1.0
+688,Minnesota,US-Flu\LosAlamos_NAU-CModel_Flu,0.9922000000000001,5,1.0
+338,Hawaii,US-Flu\LosAlamos_NAU-CModel_Flu,0.59204,5,1.0
+1080,Oklahoma,US-Flu\UNC_IDD-InfluPaint,0.9620714285714286,7,1.0
+769,Montana,US-Flu\JHU_IDD-CovidSP,0.8985777777777777,9,1.0
+1474,West Virginia,US-Flu\CEPH-Rtrend_fluH,0.9528888888888889,9,1.0
+1294,Texas,US-Flu\LUcompUncertLab-experthuman,0.932125,4,1.0
+527,Louisiana,US-Flu\CEPH-Rtrend_fluH,0.945911111111111,9,1.0
+360,Idaho,US-Flu\JHU_IDD-CovidSP,0.948211111111111,9,1.0
+153,Colorado,US-Flu\Flusight-ensemble,0.9201583333333333,12,1.0
+747,Missouri,US-Flu\LosAlamos_NAU-CModel_Flu,0.9357800000000001,5,1.0
+1268,Tennessee,US-Flu\MIGHTE-Nsemble,0.9281272727272728,11,1.0
+512,Kentucky,US-Flu\LosAlamos_NAU-CModel_Flu,0.94208,5,1.0
+1004,North Dakota,US-Flu\JHU_IDD-CovidSP,0.9691333333333334,9,1.0
+404,Illinois,US-Flu\UMass-gbq,0.9485250000000001,4,1.0
+657,Michigan,US-Flu\LUcompUncertLab-stacked_ili,0.8633875,8,1.0
+1173,Rhode Island,US-Flu\JHU_IDD-CovidSP,0.9361,8,1.0
+433,Indiana,US-Flu\UMass-gbq,0.931125,4,1.0
+718,Mississippi,US-Flu\LosAlamos_NAU-CModel_Flu,0.9959,5,1.0
+1224,South Dakota,US-Flu\CEPH-Rtrend_fluH,0.7482111111111112,9,1.0
+129,California,US-Flu\LUcompUncertLab-experthuman,0.93355,4,1.0
+1459,Washington,US-Flu\LosAlamos_NAU-CModel_Flu,0.95724,5,1.0
+455,Iowa,US-Flu\MIGHTE-Nsemble,0.9609181818181818,11,1.0
+1517,Wisconsin,US-Flu\LosAlamos_NAU-CModel_Flu,0.9820399999999999,5,1.0
+469,Kansas,US-Flu\CEPH-Rtrend_fluH,0.9293666666666667,9,1.0
+1209,South Carolina,US-Flu\LosAlamos_NAU-CModel_Flu,0.96702,5,1.0
+967,North Carolina,US-Flu\CEID-Walk,0.9553,4,1.0
+1430,Virginia,US-Flu\LosAlamos_NAU-CModel_Flu,0.9817199999999999,5,1.0
+30,Alaska,US-Flu\CEPH-Rtrend_fluH,0.7738555555555555,9,1.0
+74,Arizona,US-Flu\LosAlamos_NAU-CModel_Flu,0.96296,5,1.0
+578,Maine,US-Flu\UMass-gbq,0.9390499999999999,4,1.0
+892,New Jersey,US-Flu\LosAlamos_NAU-CModel_Flu,0.9341200000000001,5,1.0
+223,Delaware,US-Flu\LosAlamos_NAU-CModel_Flu,0.6213599999999999,5,1.0
+614,Massachusetts,US-Flu\CEID-Walk,0.919825,4,1.0
+245,District of Columbia,US-Flu\JHU_IDD-CovidSP,0.7114444444444444,9,1.0
+856,New Hampshire,US-Flu\JHU_IDD-CovidSP,0.9276777777777778,9,1.0
+1414,Virgin Islands,US-Flu\VTSanghani-Transformer,0.69902,5,1.0
+1099,Oregon,US-Flu\LosAlamos_NAU-CModel_Flu,0.9779199999999999,5,1.0
+1138,Pennsylvania,US-Flu\UMass-gbq,0.926775,4,1.0
+183,Connecticut,US-Flu\Flusight-ensemble,0.93555,12,1.0
+104,Arkansas,US-Flu\MIGHTE-Nsemble,0.9479636363636363,11,1.0
+921,New Mexico,US-Flu\LosAlamos_NAU-CModel_Flu,0.9585000000000001,5,1.0
+842,Nevada,US-Flu\UMass-gbq,0.942925,4,1.0
+1049,Ohio,US-Flu\UMass-gbq,0.9579,4,1.0
+15,Alabama,US-Flu\LosAlamos_NAU-CModel_Flu,0.98776,5,1.0
+1371,Vermont,US-Flu\CEPH-Rtrend_fluH,0.9403555555555556,9,1.0
+952,New York,US-Flu\LosAlamos_NAU-CModel_Flu,0.94428,5,1.0
+1539,Wyoming,US-Flu\JHU_IDD-CovidSP,0.6416888888888889,9,1.0
+1157,Puerto Rico,US-Flu\LosAlamos_NAU-CModel_Flu,0.6272800000000001,5,1.0
+279,Florida,US-Flu\LUcompUncertLab-stacked_ili,0.7563624999999999,8,1.0
+1335,United States,US-Flu\UMass-gbq,0.934375,4,1.0
+813,Nebraska,US-Flu\UMass-gbq,0.9242250000000001,4,1.0
+1349,Utah,US-Flu\JHU_IDD-CovidSP,0.9280555555555554,9,1.0
+294,Georgia,US-Flu\CEID-Walk,0.8704000000000001,4,1.0
+1163,Puerto Rico,US-Flu\VTSanghani-ExogModel,0.2888363636363636,11,2.0
+1130,Pennsylvania,US-Flu\LosAlamos_NAU-CModel_Flu,0.91934,5,2.0
+520,Kentucky,US-Flu\UMass-gbq,0.92795,4,2.0
+93,Arkansas,US-Flu\Flusight-ensemble,0.9396333333333334,12,2.0
+483,Kansas,US-Flu\LosAlamos_NAU-CModel_Flu,0.8954000000000001,5,2.0
+541,Louisiana,US-Flu\LosAlamos_NAU-CModel_Flu,0.91982,5,2.0
+1166,Rhode Island,US-Flu\CEPH-Rtrend_fluH,0.8817222222222223,9,2.0
+1194,South Carolina,US-Flu\CEID-Walk,0.753775,4,2.0
+0,Alabama,US-Flu\CEID-Walk,0.9600500000000001,4,2.0
+133,California,US-Flu\LosAlamos_NAU-CModel_Flu,0.9277599999999999,5,2.0
+216,Delaware,US-Flu\JHU_IDD-CovidSP,0.5864444444444445,9,2.0
+194,Connecticut,US-Flu\MIGHTE-Nsemble,0.9331909090909091,11,2.0
+238,District of Columbia,US-Flu\CEPH-Rtrend_fluH,0.4982,9,2.0
+1413,Virgin Islands,US-Flu\VTSanghani-ExogModel,-0.5901818181818181,11,2.0
+1415,Virginia,US-Flu\CEID-Walk,0.944575,4,2.0
+1378,Vermont,US-Flu\JHU_IDD-CovidSP,0.8948222222222222,9,2.0
+1356,Utah,US-Flu\LosAlamos_NAU-CModel_Flu,0.91116,5,2.0
+273,Florida,US-Flu\LUcompUncertLab-HWAR2,0.7170666666666667,12,2.0
+309,Georgia,US-Flu\LosAlamos_NAU-CModel_Flu,0.80442,5,2.0
+1327,United States,US-Flu\LosAlamos_NAU-CModel_Flu,0.91572,5,2.0
+161,Colorado,US-Flu\LUcompUncertLab-humanjudgment,0.917025,8,2.0
+345,Hawaii,US-Flu\UGA_flucast-OKeeffe,0.5892727272727273,11,2.0
+1298,Texas,US-Flu\LosAlamos_NAU-CModel_Flu,0.921,5,2.0
+353,Idaho,US-Flu\CEPH-Rtrend_fluH,0.8888222222222222,9,2.0
+585,Maryland,US-Flu\CEPH-Rtrend_fluH,0.9426888888888888,9,2.0
+1445,Washington,US-Flu\CEPH-Rtrend_fluH,0.9267555555555556,9,2.0
+396,Illinois,US-Flu\LosAlamos_NAU-CModel_Flu,0.9450200000000001,5,2.0
+1238,South Dakota,US-Flu\LosAlamos_NAU-CModel_Flu,0.74748,5,2.0
+425,Indiana,US-Flu\LosAlamos_NAU-CModel_Flu,0.8613799999999999,5,2.0
+444,Iowa,US-Flu\Flusight-ensemble,0.951825,12,2.0
+1267,Tennessee,US-Flu\LosAlamos_NAU-CModel_Flu,0.92544,5,2.0
+556,Maine,US-Flu\CEPH-Rtrend_fluH,0.9298444444444445,9,2.0
+704,Mississippi,US-Flu\CEPH-Rtrend_fluH,0.8145888888888889,9,2.0
+755,Missouri,US-Flu\UMass-gbq,0.924825,4,2.0
+72,Arizona,US-Flu\LUcompUncertLab-humanjudgment,0.9055875,8,2.0
+639,Massachusetts,US-Flu\UNC_IDD-InfluPaint,0.9089999999999999,7,2.0
+820,Nevada,US-Flu\CEPH-Rtrend_fluH,0.926888888888889,9,2.0
+1040,Ohio,US-Flu\LosAlamos_NAU-CModel_Flu,0.9519,5,2.0
+762,Montana,US-Flu\CEPH-Rtrend_fluH,0.8711555555555556,9,2.0
+930,New Mexico,US-Flu\UMass-gbq,0.941625,4,2.0
+982,North Carolina,US-Flu\LosAlamos_NAU-CModel_Flu,0.9415800000000001,5,2.0
+1532,Wyoming,US-Flu\CEPH-Rtrend_fluH,0.5557777777777777,9,2.0
+1078,Oklahoma,US-Flu\UMass-gbq,0.937775,4,2.0
+37,Alaska,US-Flu\JHU_IDD-CovidSP,0.7432777777777777,9,2.0
+678,Minnesota,US-Flu\Flusight-ensemble,0.955775,12,2.0
+653,Michigan,US-Flu\LUcompUncertLab-KalmanFilter,0.8023727272727273,11,2.0
+900,New Jersey,US-Flu\UMass-gbq,0.93145,4,2.0
+1496,West Virginia,US-Flu\UMass-gbq,0.9117999999999999,4,2.0
+871,New Hampshire,US-Flu\UMass-gbq,0.92375,4,2.0
+1111,Oregon,US-Flu\UVAFluX-Ensemble,0.9171666666666667,12,2.0
+1525,Wisconsin,US-Flu\UMass-gbq,0.9798,4,2.0
+961,New York,US-Flu\UMass-gbq,0.9238999999999999,4,2.0
+791,Nebraska,US-Flu\CEPH-Rtrend_fluH,0.9237555555555557,9,2.0
+997,North Dakota,US-Flu\CEPH-Rtrend_fluH,0.9203111111111111,9,2.0
+608,Maryland,US-Flu\UMass-gbq,0.935125,4,3.0
+990,North Carolina,US-Flu\UMass-gbq,0.9299499999999999,4,3.0
+375,Idaho,US-Flu\UMass-gbq,0.84775,4,3.0
+1527,Wisconsin,US-Flu\UNC_IDD-InfluPaint,0.9755857142857144,7,3.0
+44,Alaska,US-Flu\LosAlamos_NAU-CModel_Flu,0.5574399999999999,5,3.0
+142,California,US-Flu\UMass-gbq,0.9194249999999999,4,3.0
+405,Illinois,US-Flu\UMass-trends_ensemble,0.9004916666666666,12,3.0
+1306,Texas,US-Flu\UMass-gbq,0.90035,4,3.0
+783,Montana,US-Flu\UGA_flucast-OKeeffe,0.8350727272727273,11,3.0
+1342,Utah,US-Flu\CEPH-Rtrend_fluH,0.7871777777777778,9,3.0
+324,Hawaii,US-Flu\CEID-Walk,0.5678,4,3.0
+890,New Jersey,US-Flu\LUcompUncertLab-humanjudgment,0.8787125,8,3.0
+230,Delaware,US-Flu\UGA_flucast-OKeeffe,0.5163636363636364,11,3.0
+1408,Virgin Islands,US-Flu\LosAlamos_NAU-CModel_Flu,-0.61896,5,3.0
+1385,Vermont,US-Flu\LosAlamos_NAU-CModel_Flu,0.81842,5,3.0
+8,Alabama,US-Flu\JHU_IDD-CovidSP,0.7456,9,3.0
+848,New Hampshire,US-Flu\CEID-Walk,0.9022749999999999,4,3.0
+1546,Wyoming,US-Flu\LosAlamos_NAU-CModel_Flu,0.47614,5,3.0
+252,District of Columbia,US-Flu\LosAlamos_NAU-CModel_Flu,0.46962000000000004,5,3.0
+1416,Virginia,US-Flu\CEPH-Rtrend_fluH,0.9408777777777778,9,3.0
+834,Nevada,US-Flu\LosAlamos_NAU-CModel_Flu,0.8782399999999999,5,3.0
+931,New Mexico,US-Flu\UMass-trends_ensemble,0.9266083333333334,12,3.0
+274,Florida,US-Flu\LUcompUncertLab-KalmanFilter,0.6719454545454545,11,3.0
+946,New York,US-Flu\LUcompUncertLab-KalmanFilter,0.7921363636363636,11,3.0
+806,Nebraska,US-Flu\MIGHTE-Nsemble,0.8740909090909091,11,3.0
+295,Georgia,US-Flu\CEPH-Rtrend_fluH,0.7458111111111111,9,3.0
+172,Colorado,US-Flu\UMass-gbq,0.9058,4,3.0
+1253,Tennessee,US-Flu\CEPH-Rtrend_fluH,0.9219555555555554,9,3.0
+1313,United States,US-Flu\CEPH-Rtrend_fluH,0.8482555555555555,9,3.0
+411,Indiana,US-Flu\CEPH-Rtrend_fluH,0.8596888888888888,9,3.0
+735,Missouri,US-Flu\CU-ensemble,0.9036636363636364,11,3.0
+1011,North Dakota,US-Flu\LosAlamos_NAU-CModel_Flu,0.88582,5,3.0
+89,Arkansas,US-Flu\CEPH-Rtrend_fluH,0.9358444444444444,9,3.0
+1126,Pennsylvania,US-Flu\LUcompUncertLab-experthuman,0.8604,4,3.0
+82,Arizona,US-Flu\UMass-gbq,0.9037999999999999,4,3.0
+1489,West Virginia,US-Flu\MIGHTE-Nsemble,0.8980999999999999,11,3.0
+1144,Puerto Rico,US-Flu\CEID-Walk,0.270275,4,3.0
+563,Maine,US-Flu\JHU_IDD-CovidSP,0.919975,8,3.0
+542,Louisiana,US-Flu\MIGHTE-Nsemble,0.8580000000000001,11,3.0
+1087,Oregon,US-Flu\CU-ensemble,0.9160454545454545,11,3.0
+638,Massachusetts,US-Flu\UMass-trends_ensemble,0.8501,12,3.0
+1070,Oklahoma,US-Flu\LosAlamos_NAU-CModel_Flu,0.91494,5,3.0
+521,Kentucky,US-Flu\UMass-trends_ensemble,0.91215,12,3.0
+661,Michigan,US-Flu\NIH-Flu_ARIMA,0.7817444444444445,9,3.0
+1180,Rhode Island,US-Flu\LosAlamos_NAU-CModel_Flu,0.8511,5,3.0
+484,Kansas,US-Flu\MIGHTE-Nsemble,0.8944181818181818,11,3.0
+1467,Washington,US-Flu\UMass-gbq,0.906425,4,3.0
+203,Connecticut,US-Flu\UMass-trends_ensemble,0.9316083333333333,12,3.0
+711,Mississippi,US-Flu\JHU_IDD-CovidSP,0.7260333333333333,9,3.0
+689,Minnesota,US-Flu\MIGHTE-Nsemble,0.9372,11,3.0
+464,Iowa,US-Flu\UNC_IDD-InfluPaint,0.9316285714285714,7,3.0
+1219,South Carolina,US-Flu\UNC_IDD-InfluPaint,0.683657142857143,7,3.0
+1231,South Dakota,US-Flu\JHU_IDD-CovidSP,0.704175,8,3.0
+1028,Ohio,US-Flu\CU-ensemble,0.8238727272727272,11,3.0
+209,Delaware,US-Flu\CEPH-Rtrend_fluH,0.4749666666666667,9,4.0
+1145,Puerto Rico,US-Flu\CEPH-Rtrend_fluH,0.22358888888888886,9,4.0
+845,Nevada,US-Flu\UVAFluX-Ensemble,0.844275,12,4.0
+1018,North Dakota,US-Flu\UGA_flucast-OKeeffe,0.8200636363636363,11,4.0
+1255,Tennessee,US-Flu\CU-ensemble,0.9144909090909091,11,4.0
+1089,Oregon,US-Flu\Flusight-ensemble,0.9155000000000001,12,4.0
+571,Maine,US-Flu\MIGHTE-Nsemble,0.9080454545454546,11,4.0
+1195,South Carolina,US-Flu\CEPH-Rtrend_fluH,0.6769000000000001,9,4.0
+864,New Hampshire,US-Flu\MIGHTE-Nsemble,0.9008818181818182,11,4.0
+240,District of Columbia,US-Flu\CU-ensemble,0.3004818181818182,11,4.0
+617,Massachusetts,US-Flu\CU-ensemble,0.8491272727272728,11,4.0
+1384,Vermont,US-Flu\LUcompUncertLab-stacked_ili,0.7375875,8,4.0
+434,Indiana,US-Flu\UMass-trends_ensemble,0.855375,12,4.0
+719,Mississippi,US-Flu\MIGHTE-Nsemble,0.6570999999999999,11,4.0
+609,Maryland,US-Flu\UMass-trends_ensemble,0.9054583333333334,12,4.0
+878,New Jersey,US-Flu\CEPH-Rtrend_fluH,0.8609666666666667,9,4.0
+1115,Pennsylvania,US-Flu\CEPH-Rtrend_fluH,0.7779777777777778,9,4.0
+911,New Mexico,US-Flu\Flusight-ensemble,0.8833666666666667,12,4.0
+441,Iowa,US-Flu\CMU-TimeSeries,0.9127,12,4.0
+275,Florida,US-Flu\LUcompUncertLab-ensemble_rclp,0.6278777777777778,9,4.0
+1079,Oklahoma,US-Flu\UMass-trends_ensemble,0.8955166666666666,12,4.0
+1050,Ohio,US-Flu\UMass-trends_ensemble,0.8101416666666666,12,4.0
+776,Montana,US-Flu\LosAlamos_NAU-CModel_Flu,0.7811999999999999,5,4.0
+1187,Rhode Island,US-Flu\UGA_flucast-OKeeffe,0.7275181818181818,11,4.0
+968,North Carolina,US-Flu\CEPH-Rtrend_fluH,0.9161777777777778,9,4.0
+491,Kansas,US-Flu\UMass-gbq,0.874425,4,4.0
+331,Hawaii,US-Flu\JHU_IDD-CovidSP,0.5106777777777778,9,4.0
+368,Idaho,US-Flu\MIGHTE-Nsemble,0.8442818181818182,11,4.0
+1317,United States,US-Flu\Flusight-ensemble,0.8210666666666667,12,4.0
+502,Kentucky,US-Flu\Flusight-ensemble,0.9112166666666667,12,4.0
+319,Georgia,US-Flu\UMass-trends_ensemble,0.6764749999999999,12,4.0
+1282,Texas,US-Flu\CEID-Walk,0.8685,4,4.0
+795,Nebraska,US-Flu\Flusight-ensemble,0.7886166666666666,12,4.0
+733,Missouri,US-Flu\CEPH-Rtrend_fluH,0.8856777777777778,9,4.0
+652,Michigan,US-Flu\LUcompUncertLab-HWAR2,0.73795,12,4.0
+698,Minnesota,US-Flu\UMass-trends_ensemble,0.9338083333333334,12,4.0
+384,Illinois,US-Flu\CU-ensemble,0.8877454545454545,11,4.0
+526,Louisiana,US-Flu\CEID-Walk,0.7874749999999999,4,4.0
+1355,Utah,US-Flu\LUcompUncertLab-stacked_ili,0.773775,8,4.0
+951,New York,US-Flu\LUcompUncertLab-stacked_ili,0.7903,8,4.0
+1226,South Dakota,US-Flu\CU-ensemble,0.5676636363636364,11,4.0
+1406,Virgin Islands,US-Flu\LUcompUncertLab-hier_mech_model,-0.6225666666666666,3,4.0
+181,Connecticut,US-Flu\CU-ensemble,0.9201727272727273,11,4.0
+70,Arizona,US-Flu\LUcompUncertLab-experthuman,0.90355,4,4.0
+118,California,US-Flu\CEPH-Rtrend_fluH,0.902811111111111,9,4.0
+1515,Wisconsin,US-Flu\LUcompUncertLab-humanjudgment,0.9434375,8,4.0
+1457,Washington,US-Flu\LUcompUncertLab-humanjudgment,0.903925,8,4.0
+111,Arkansas,US-Flu\UMass-gbq,0.9298,4,4.0
+1533,Wyoming,US-Flu\CMU-TimeSeries,0.3842666666666667,12,4.0
+32,Alaska,US-Flu\CU-ensemble,0.40563636363636363,11,4.0
+1488,West Virginia,US-Flu\LosAlamos_NAU-CModel_Flu,0.85746,5,4.0
+22,Alabama,US-Flu\UGA_flucast-OKeeffe,0.7359909090909091,11,4.0
+173,Colorado,US-Flu\UMass-trends_ensemble,0.9021750000000001,12,4.0
+1431,Virginia,US-Flu\MIGHTE-Nsemble,0.9391454545454546,11,4.0
+1343,Utah,US-Flu\CMU-TimeSeries,0.7325166666666667,12,5.0
+112,Arkansas,US-Flu\UMass-trends_ensemble,0.9236833333333334,12,5.0
+1470,Washington,US-Flu\UVAFluX-Ensemble,0.8941833333333333,12,5.0
+498,Kentucky,US-Flu\CEPH-Rtrend_fluH,0.9040333333333334,9,5.0
+117,California,US-Flu\CEID-Walk,0.89805,4,5.0
+174,Colorado,US-Flu\UNC_IDD-InfluPaint,0.8267857142857142,7,5.0
+1192,Rhode Island,US-Flu\VTSanghani-ExogModel,0.7137363636363637,11,5.0
+1202,South Carolina,US-Flu\JHU_IDD-CovidSP,0.6752111111111111,9,5.0
+470,Kansas,US-Flu\CMU-TimeSeries,0.7818166666666667,12,5.0
+307,Georgia,US-Flu\LUcompUncertLab-humanjudgment,0.6523,8,5.0
+446,Iowa,US-Flu\ISU_NiemiLab-Flu,0.9123333333333333,9,5.0
+426,Indiana,US-Flu\MIGHTE-Nsemble,0.8313818181818181,11,5.0
+325,Hawaii,US-Flu\CEPH-Rtrend_fluH,0.47781111111111113,9,5.0
+382,Illinois,US-Flu\CEPH-Rtrend_fluH,0.8869222222222223,9,5.0
+1314,United States,US-Flu\CMU-TimeSeries,0.8137,12,5.0
+1276,Tennessee,US-Flu\UMass-gbq,0.906325,4,5.0
+357,Idaho,US-Flu\Flusight-ensemble,0.823725,12,5.0
+1438,Virginia,US-Flu\UMass-gbq,0.937925,4,5.0
+1296,Texas,US-Flu\LUcompUncertLab-humanjudgment,0.7717875,8,5.0
+1239,South Dakota,US-Flu\MIGHTE-Nsemble,0.5652636363636364,11,5.0
+570,Maine,US-Flu\LosAlamos_NAU-CModel_Flu,0.8976200000000001,5,5.0
+1139,Pennsylvania,US-Flu\UMass-trends_ensemble,0.7580333333333332,12,5.0
+880,New Jersey,US-Flu\CU-ensemble,0.8380727272727273,11,5.0
+909,New Mexico,US-Flu\CU-ensemble,0.8344999999999999,11,5.0
+1550,Wyoming,US-Flu\SGroup-RandomForest,0.3669363636363636,11,5.0
+849,New Hampshire,US-Flu\CEPH-Rtrend_fluH,0.8984222222222223,9,5.0
+835,Nevada,US-Flu\MIGHTE-Nsemble,0.8220727272727273,11,5.0
+939,New York,US-Flu\CU-ensemble,0.7609545454545454,11,5.0
+814,Nebraska,US-Flu\UMass-trends_ensemble,0.7826166666666667,12,5.0
+27,Alabama,US-Flu\VTSanghani-ExogModel,0.7344272727272727,11,5.0
+970,North Carolina,US-Flu\CU-ensemble,0.8753454545454545,11,5.0
+777,Montana,US-Flu\MIGHTE-Nsemble,0.6910818181818181,11,5.0
+756,Missouri,US-Flu\UMass-trends_ensemble,0.8848250000000001,12,5.0
+531,Louisiana,US-Flu\Flusight-ensemble,0.7539666666666666,12,5.0
+1528,Wisconsin,US-Flu\UVAFluX-Ensemble,0.9113083333333334,12,5.0
+725,Mississippi,US-Flu\UGA_flucast-OKeeffe,0.6266363636363637,11,5.0
+48,Alaska,US-Flu\SGroup-RandomForest,0.3973909090909091,11,5.0
+1041,Ohio,US-Flu\MIGHTE-Nsemble,0.7957545454545454,11,5.0
+63,Arizona,US-Flu\Flusight-ensemble,0.8980583333333333,12,5.0
+674,Minnesota,US-Flu\CEPH-Rtrend_fluH,0.9317333333333333,9,5.0
+1060,Oklahoma,US-Flu\Flusight-ensemble,0.8588833333333333,12,5.0
+658,Michigan,US-Flu\LosAlamos_NAU-CModel_Flu,0.7376799999999999,5,5.0
+1498,West Virginia,US-Flu\UNC_IDD-InfluPaint,0.7910571428571428,7,5.0
+619,Massachusetts,US-Flu\Flusight-ensemble,0.8477166666666666,12,5.0
+1110,Oregon,US-Flu\UNC_IDD-InfluPaint,0.9049428571428572,7,5.0
+589,Maryland,US-Flu\Flusight-ensemble,0.8987083333333333,12,5.0
+1002,North Dakota,US-Flu\GT-FluFNP,0.6830999999999999,10,5.0
+270,Florida,US-Flu\GT-FluFNP,0.6032416666666667,12,5.0
+1152,Puerto Rico,US-Flu\LUcompUncertLab-KalmanFilter,0.1121181818181818,11,5.0
+227,Delaware,US-Flu\SGroup-RandomForest,0.47245454545454546,11,5.0
+1381,Vermont,US-Flu\LUcompUncertLab-ensemble_rclp,0.6908444444444445,9,5.0
+1409,Virgin Islands,US-Flu\MIGHTE-Nsemble,-0.6279636363636364,11,5.0
+256,District of Columbia,US-Flu\SGroup-RandomForest,0.29051818181818184,11,5.0
+193,Connecticut,US-Flu\LosAlamos_NAU-CModel_Flu,0.9172800000000001,5,5.0
+354,Idaho,US-Flu\CMU-TimeSeries,0.8021,11,6.0
+1336,United States,US-Flu\UMass-trends_ensemble,0.8128500000000001,12,6.0
+1128,Pennsylvania,US-Flu\LUcompUncertLab-humanjudgment,0.754675,8,6.0
+821,Nevada,US-Flu\CMU-TimeSeries,0.8167545454545454,11,6.0
+1417,Virginia,US-Flu\CMU-TimeSeries,0.9357272727272726,11,6.0
+560,Maine,US-Flu\Flusight-ensemble,0.8533,12,6.0
+247,District of Columbia,US-Flu\LUcompUncertLab-KalmanFilter,0.28705454545454545,11,6.0
+1221,South Carolina,US-Flu\VTSanghani-ExogModel,0.6701454545454545,11,6.0
+550,Louisiana,US-Flu\UMass-trends_ensemble,0.7447166666666667,12,6.0
+816,Nebraska,US-Flu\UVAFluX-Ensemble,0.7713333333333333,12,6.0
+462,Iowa,US-Flu\UMass-gbq,0.87005,4,6.0
+492,Kansas,US-Flu\UMass-trends_ensemble,0.7646999999999999,12,6.0
+299,Georgia,US-Flu\Flusight-ensemble,0.6384500000000001,12,6.0
+1162,Puerto Rico,US-Flu\UMass-trends_ensemble,0.111025,12,6.0
+863,New Hampshire,US-Flu\LosAlamos_NAU-CModel_Flu,0.89258,5,6.0
+1372,Vermont,US-Flu\CMU-TimeSeries,0.6241416666666667,12,6.0
+164,Colorado,US-Flu\MIGHTE-Nsemble,0.8013454545454546,11,6.0
+1475,West Virginia,US-Flu\CMU-TimeSeries,0.7496166666666667,12,6.0
+1308,Texas,US-Flu\UNC_IDD-InfluPaint,0.7329428571428572,7,6.0
+342,Hawaii,US-Flu\SGroup-RandomForest,0.4743363636363637,11,6.0
+211,Delaware,US-Flu\CU-ensemble,0.46683636363636366,11,6.0
+124,California,US-Flu\ISU_NiemiLab-Flu,0.8087333333333333,9,6.0
+955,New York,US-Flu\NIH-Flu_ARIMA,0.7562111111111112,9,6.0
+1179,Rhode Island,US-Flu\LUcompUncertLab-stacked_ili,0.6621375,8,6.0
+500,Kentucky,US-Flu\CU-ensemble,0.9029727272727274,11,6.0
+103,Arkansas,US-Flu\LosAlamos_NAU-CModel_Flu,0.91834,5,6.0
+600,Maryland,US-Flu\MIGHTE-Nsemble,0.8840272727272727,11,6.0
+763,Montana,US-Flu\CMU-TimeSeries,0.577975,12,6.0
+1108,Oregon,US-Flu\UMass-gbq,0.9048,4,6.0
+703,Mississippi,US-Flu\CEID-Walk,0.6132,4,6.0
+1,Alabama,US-Flu\CEPH-Rtrend_fluH,0.6891,9,6.0
+1030,Ohio,US-Flu\Flusight-ensemble,0.7955,12,6.0
+697,Minnesota,US-Flu\UMass-gbq,0.9174,4,6.0
+59,Arizona,US-Flu\CEPH-Rtrend_fluH,0.8933777777777778,9,6.0
+386,Illinois,US-Flu\Flusight-ensemble,0.884675,12,6.0
+179,Connecticut,US-Flu\CEPH-Rtrend_fluH,0.9048,9,6.0
+1056,Oklahoma,US-Flu\CEPH-Rtrend_fluH,0.8572888888888889,9,6.0
+668,Michigan,US-Flu\UMass-trends_ensemble,0.7119416666666667,12,6.0
+882,New Jersey,US-Flu\Flusight-ensemble,0.8372,12,6.0
+1001,North Dakota,US-Flu\Flusight-ensemble,0.6813416666666666,12,6.0
+1242,South Dakota,US-Flu\SGroup-RandomForest,0.5262636363636364,11,6.0
+283,Florida,US-Flu\PSI-DICE,0.6001916666666667,12,6.0
+745,Missouri,US-Flu\LUcompUncertLab-humanjudgment,0.881425,8,6.0
+1507,Wisconsin,US-Flu\Flusight-ensemble,0.9086833333333333,12,6.0
+991,North Carolina,US-Flu\UMass-trends_ensemble,0.8711333333333333,12,6.0
+1252,Tennessee,US-Flu\CEID-Walk,0.903675,4,6.0
+415,Indiana,US-Flu\Flusight-ensemble,0.7960583333333333,12,6.0
+1534,Wyoming,US-Flu\CU-ensemble,0.35283636363636367,11,6.0
+933,New Mexico,US-Flu\UVAFluX-Ensemble,0.8277,12,6.0
+627,Massachusetts,US-Flu\LUcompUncertLab-humanjudgment,0.8300624999999999,8,6.0
+1407,Virgin Islands,US-Flu\LUcompUncertLab-humanjudgment,-0.62815,8,6.0
+1449,Washington,US-Flu\Flusight-ensemble,0.8873333333333333,12,6.0
+1344,Utah,US-Flu\CU-ensemble,0.7308454545454546,11,6.0
+39,Alaska,US-Flu\LUcompUncertLab-KalmanFilter,0.3919181818181818,11,6.0
+1541,Wyoming,US-Flu\LUcompUncertLab-KalmanFilter,0.3482454545454546,11,7.0
+473,Kansas,US-Flu\Flusight-ensemble,0.7586833333333334,12,7.0
+922,New Mexico,US-Flu\MIGHTE-Nsemble,0.8122363636363636,11,7.0
+423,Indiana,US-Flu\LUcompUncertLab-humanjudgment,0.7946124999999999,8,7.0
+1257,Tennessee,US-Flu\Flusight-ensemble,0.8719,12,7.0
+1403,Virgin Islands,US-Flu\Flusight-ensemble,-0.62825,12,7.0
+1229,South Dakota,US-Flu\GT-FluFNP,0.52361,10,7.0
+397,Illinois,US-Flu\MIGHTE-Nsemble,0.8752545454545455,11,7.0
+463,Iowa,US-Flu\UMass-trends_ensemble,0.8602249999999999,12,7.0
+1216,South Carolina,US-Flu\UGA_flucast-OKeeffe,0.6680272727272727,11,7.0
+131,California,US-Flu\LUcompUncertLab-humanjudgment,0.7926625,8,7.0
+824,Nevada,US-Flu\Flusight-ensemble,0.8067333333333333,12,7.0
+1468,Washington,US-Flu\UMass-trends_ensemble,0.8807333333333333,12,7.0
+202,Connecticut,US-Flu\UMass-gbq,0.878,4,7.0
+25,Alabama,US-Flu\UNC_IDD-InfluPaint,0.6300428571428572,7,7.0
+1026,Ohio,US-Flu\CEPH-Rtrend_fluH,0.7707555555555555,9,7.0
+705,Mississippi,US-Flu\CMU-TimeSeries,0.59095,10,7.0
+675,Minnesota,US-Flu\CMU-TimeSeries,0.9099600000000001,10,7.0
+670,Michigan,US-Flu\UVAFluX-Ensemble,0.6993083333333333,12,7.0
+737,Missouri,US-Flu\Flusight-ensemble,0.8761666666666666,12,7.0
+998,North Dakota,US-Flu\CMU-TimeSeries,0.676675,12,7.0
+1392,Vermont,US-Flu\UGA_flucast-OKeeffe,0.5998,11,7.0
+1081,Oklahoma,US-Flu\UVAFluX-Ensemble,0.8535833333333334,12,7.0
+629,Massachusetts,US-Flu\LosAlamos_NAU-CModel_Flu,0.8285600000000001,5,7.0
+83,Arizona,US-Flu\UMass-trends_ensemble,0.884125,12,7.0
+1109,Oregon,US-Flu\UMass-trends_ensemble,0.9047333333333333,12,7.0
+764,Montana,US-Flu\CU-ensemble,0.5766545454545454,11,7.0
+1121,Pennsylvania,US-Flu\ISU_NiemiLab-Flu,0.7095333333333333,9,7.0
+1184,Rhode Island,US-Flu\SGroup-RandomForest,0.6249545454545454,11,7.0
+586,Maryland,US-Flu\CMU-TimeSeries,0.84077,10,7.0
+95,Arkansas,US-Flu\ISU_NiemiLab-Flu,0.8964444444444444,9,7.0
+557,Maine,US-Flu\CMU-TimeSeries,0.8490454545454544,11,7.0
+972,North Carolina,US-Flu\Flusight-ensemble,0.8699333333333333,12,7.0
+214,Delaware,US-Flu\GT-FluFNP,0.4625727272727273,11,7.0
+1149,Puerto Rico,US-Flu\Flusight-ensemble,0.07988333333333335,12,7.0
+376,Idaho,US-Flu\UMass-trends_ensemble,0.8019333333333334,12,7.0
+1478,West Virginia,US-Flu\Flusight-ensemble,0.7098916666666667,12,7.0
+31,Alaska,US-Flu\CMU-TimeSeries,0.3909833333333333,12,7.0
+528,Louisiana,US-Flu\CMU-TimeSeries,0.74395,10,7.0
+962,New York,US-Flu\UMass-trends_ensemble,0.7434,12,7.0
+523,Kentucky,US-Flu\UVAFluX-Ensemble,0.8782833333333334,12,7.0
+793,Nebraska,US-Flu\CU-ensemble,0.7681818181818181,11,7.0
+239,District of Columbia,US-Flu\CMU-TimeSeries,0.2668416666666667,12,7.0
+1360,Utah,US-Flu\SGroup-RandomForest,0.7096363636363636,11,7.0
+151,Colorado,US-Flu\CU-ensemble,0.7981363636363636,11,7.0
+1526,Wisconsin,US-Flu\UMass-trends_ensemble,0.9031833333333333,12,7.0
+327,Hawaii,US-Flu\CU-ensemble,0.4622636363636364,11,7.0
+853,New Hampshire,US-Flu\Flusight-ensemble,0.8343333333333334,12,7.0
+1315,United States,US-Flu\CU-ensemble,0.8077636363636365,11,7.0
+1418,Virginia,US-Flu\CU-ensemble,0.9059181818181817,11,7.0
+1299,Texas,US-Flu\MIGHTE-Nsemble,0.6674181818181818,11,7.0
+879,New Jersey,US-Flu\CMU-TimeSeries,0.8312833333333334,12,7.0
+302,Georgia,US-Flu\JHU_IDD-CovidSP,0.6202000000000001,9,7.0
+268,Florida,US-Flu\Flusight-baseline,0.599475,12,7.0
+1354,Utah,US-Flu\LUcompUncertLab-humanjudgment,0.7012,8,8.0
+355,Idaho,US-Flu\CU-ensemble,0.7915545454545455,11,8.0
+792,Nebraska,US-Flu\CMU-TimeSeries,0.7390500000000001,12,8.0
+417,Indiana,US-Flu\ISU_NiemiLab-Flu,0.7824777777777778,9,8.0
+950,New York,US-Flu\LUcompUncertLab-humanjudgment,0.7277375,8,8.0
+850,New Hampshire,US-Flu\CMU-TimeSeries,0.8247272727272726,11,8.0
+1502,Wisconsin,US-Flu\CEID-Walk,0.882325,4,8.0
+577,Maine,US-Flu\UGA_flucast-OKeeffe,0.8445181818181818,11,8.0
+219,Delaware,US-Flu\LUcompUncertLab-ensemble_rclp,0.4620666666666666,9,8.0
+1168,Rhode Island,US-Flu\CU-ensemble,0.6178909090909092,11,8.0
+676,Minnesota,US-Flu\CU-ensemble,0.8950636363636364,11,8.0
+1210,South Carolina,US-Flu\MIGHTE-Nsemble,0.664,11,8.0
+758,Missouri,US-Flu\UVAFluX-Ensemble,0.8651583333333334,12,8.0
+88,Arkansas,US-Flu\CEID-Walk,0.8932,4,8.0
+1536,Wyoming,US-Flu\Flusight-ensemble,0.31783333333333336,12,8.0
+1092,Oregon,US-Flu\JHU_IDD-CovidSP,0.8951875,8,8.0
+1228,South Dakota,US-Flu\Flusight-ensemble,0.52115,12,8.0
+766,Montana,US-Flu\Flusight-ensemble,0.556925,12,8.0
+440,Iowa,US-Flu\CEPH-Rtrend_fluH,0.8480777777777777,9,8.0
+1058,Oklahoma,US-Flu\CU-ensemble,0.8158727272727273,11,8.0
+320,Georgia,US-Flu\UNC_IDD-InfluPaint,0.6055571428571429,7,8.0
+591,Maryland,US-Flu\ISU_NiemiLab-Flu,0.799188888888889,9,8.0
+1420,Virginia,US-Flu\Flusight-ensemble,0.88795,12,8.0
+282,Florida,US-Flu\MOBS-GLEAM_FLUH,0.5722909090909091,11,8.0
+1117,Pennsylvania,US-Flu\CU-ensemble,0.7086545454545455,11,8.0
+648,Michigan,US-Flu\Flusight-ensemble,0.6908500000000001,12,8.0
+730,Mississippi,US-Flu\VTSanghani-ExogModel,0.5690181818181818,11,8.0
+61,Arizona,US-Flu\CU-ensemble,0.869890909090909,11,8.0
+1038,Ohio,US-Flu\LUcompUncertLab-humanjudgment,0.7635375,8,8.0
+1325,United States,US-Flu\LUcompUncertLab-humanjudgment,0.7797499999999999,8,8.0
+2,Alabama,US-Flu\CMU-TimeSeries,0.5897818181818182,11,8.0
+901,New Jersey,US-Flu\UMass-trends_ensemble,0.8156083333333334,12,8.0
+494,Kansas,US-Flu\UVAFluX-Ensemble,0.7529916666666666,12,8.0
+383,Illinois,US-Flu\CMU-TimeSeries,0.8468083333333333,12,8.0
+204,Connecticut,US-Flu\UNC_IDD-InfluPaint,0.8567571428571429,7,8.0
+1146,Puerto Rico,US-Flu\CMU-TimeSeries,0.07203333333333332,12,8.0
+1277,Tennessee,US-Flu\UMass-trends_ensemble,0.8713416666666666,12,8.0
+499,Kentucky,US-Flu\CMU-TimeSeries,0.862625,12,8.0
+1481,West Virginia,US-Flu\JHU_IDD-CovidSP,0.7079,9,8.0
+1010,North Dakota,US-Flu\LUcompUncertLab-stacked_ili,0.6712375,8,8.0
+333,Hawaii,US-Flu\LUcompUncertLab-KalmanFilter,0.455290909090909,11,8.0
+907,New Mexico,US-Flu\CEPH-Rtrend_fluH,0.8023777777777777,9,8.0
+1386,Vermont,US-Flu\MIGHTE-Nsemble,0.5859272727272727,11,8.0
+843,Nevada,US-Flu\UMass-trends_ensemble,0.8010416666666668,12,8.0
+175,Colorado,US-Flu\UVAFluX-Ensemble,0.7975500000000001,12,8.0
+1444,Washington,US-Flu\CEID-Walk,0.877675,4,8.0
+51,Alaska,US-Flu\UGA_flucast-OKeeffe,0.35843636363636366,11,8.0
+1401,Virgin Islands,US-Flu\CU-ensemble,-0.6282727272727272,11,8.0
+242,District of Columbia,US-Flu\Flusight-ensemble,0.26185833333333336,12,8.0
+969,North Carolina,US-Flu\CMU-TimeSeries,0.8676,10,8.0
+630,Massachusetts,US-Flu\MIGHTE-Nsemble,0.8126636363636363,11,8.0
+144,California,US-Flu\UNC_IDD-InfluPaint,0.7765571428571428,7,8.0
+549,Louisiana,US-Flu\UMass-gbq,0.6984,4,8.0
+1289,Texas,US-Flu\ISU_NiemiLab-Flu,0.6608333333333333,9,8.0
+1412,Virgin Islands,US-Flu\UMass-trends_ensemble,-0.6283,12,9.0
+637,Massachusetts,US-Flu\UMass-gbq,0.804775,4,9.0
+75,Arizona,US-Flu\MIGHTE-Nsemble,0.8574999999999999,11,9.0
+757,Missouri,US-Flu\UNC_IDD-InfluPaint,0.850642857142857,7,9.0
+1405,Virgin Islands,US-Flu\LUcompUncertLab-HWAR2,-0.6283,1,9.0
+1411,Virgin Islands,US-Flu\SGroup-RandomForest,-0.6283,11,9.0
+1199,South Carolina,US-Flu\Flusight-ensemble,0.54955,12,9.0
+513,Kentucky,US-Flu\MIGHTE-Nsemble,0.8173454545454546,11,9.0
+611,Maryland,US-Flu\UVAFluX-Ensemble,0.7941666666666666,12,9.0
+218,Delaware,US-Flu\LUcompUncertLab-KalmanFilter,0.46199999999999997,11,9.0
+476,Kansas,US-Flu\JHU_IDD-CovidSP,0.7519111111111111,9,9.0
+1085,Oregon,US-Flu\CEPH-Rtrend_fluH,0.8669222222222223,9,9.0
+205,Connecticut,US-Flu\UVAFluX-Ensemble,0.8556,12,9.0
+999,North Dakota,US-Flu\CU-ensemble,0.6472181818181818,11,9.0
+1499,West Virginia,US-Flu\UVAFluX-Ensemble,0.6852416666666666,12,9.0
+465,Iowa,US-Flu\UVAFluX-Ensemble,0.8374083333333333,12,9.0
+1351,Utah,US-Flu\LUcompUncertLab-KalmanFilter,0.6930272727272727,11,9.0
+1140,Pennsylvania,US-Flu\UNC_IDD-InfluPaint,0.7011714285714286,7,9.0
+1410,Virgin Islands,US-Flu\PSI-DICE,-0.6283,12,9.0
+796,Nebraska,US-Flu\GT-FluFNP,0.64154,10,9.0
+254,District of Columbia,US-Flu\MOBS-GLEAM_FLUH,0.25758333333333333,12,9.0
+1175,Rhode Island,US-Flu\LUcompUncertLab-KalmanFilter,0.6154181818181818,11,9.0
+529,Louisiana,US-Flu\CU-ensemble,0.6160363636363637,11,9.0
+1155,Puerto Rico,US-Flu\LUcompUncertLab-humanjudgment,0.05171250000000002,8,9.0
+1247,South Dakota,US-Flu\UMass-trends_ensemble,0.5155500000000001,12,9.0
+1397,Vermont,US-Flu\VTSanghani-ExogModel,0.5676454545454546,11,9.0
+983,North Carolina,US-Flu\MIGHTE-Nsemble,0.8519727272727273,11,9.0
+903,New Jersey,US-Flu\UVAFluX-Ensemble,0.8095916666666666,12,9.0
+359,Idaho,US-Flu\ISU_NiemiLab-Flu,0.7627444444444444,9,9.0
+1439,Virginia,US-Flu\UMass-trends_ensemble,0.864125,12,9.0
+1399,Virgin Islands,US-Flu\CEID-Walk,-0.6283,4,9.0
+1447,Washington,US-Flu\CU-ensemble,0.8775272727272726,11,9.0
+1254,Tennessee,US-Flu\CMU-TimeSeries,0.8335999999999999,11,9.0
+727,Mississippi,US-Flu\UMass-trends_ensemble,0.5472333333333333,12,9.0
+558,Maine,US-Flu\CU-ensemble,0.8344,11,9.0
+1518,Wisconsin,US-Flu\MIGHTE-Nsemble,0.8811636363636364,11,9.0
+780,Montana,US-Flu\SGroup-RandomForest,0.5083727272727273,11,9.0
+394,Illinois,US-Flu\LUcompUncertLab-humanjudgment,0.836575,8,9.0
+1283,Texas,US-Flu\CEPH-Rtrend_fluH,0.6607555555555555,9,9.0
+870,New Hampshire,US-Flu\UGA_flucast-OKeeffe,0.8149000000000001,11,9.0
+1553,Wyoming,US-Flu\UGA_flucast-OKeeffe,0.31594545454545453,11,9.0
+1404,Virgin Islands,US-Flu\ISU_NiemiLab-Flu,-0.6283,9,9.0
+318,Georgia,US-Flu\UMass-gbq,0.552775,4,9.0
+90,Arkansas,US-Flu\CMU-TimeSeries,0.8812000000000001,12,9.0
+326,Hawaii,US-Flu\CMU-TimeSeries,0.4518111111111111,9,9.0
+5,Alabama,US-Flu\Flusight-ensemble,0.5416416666666667,12,9.0
+913,New Mexico,US-Flu\ISU_NiemiLab-Flu,0.7664111111111112,9,9.0
+1402,Virgin Islands,US-Flu\Flusight-baseline,-0.6283,12,9.0
+436,Indiana,US-Flu\UVAFluX-Ensemble,0.7802000000000001,12,9.0
+34,Alaska,US-Flu\Flusight-ensemble,0.358425,12,9.0
+136,California,US-Flu\NIH-Flu_ARIMA,0.7453333333333334,9,9.0
+822,Nevada,US-Flu\CU-ensemble,0.7841363636363637,11,9.0
+155,Colorado,US-Flu\ISU_NiemiLab-Flu,0.7824,9,9.0
+937,New York,US-Flu\CEPH-Rtrend_fluH,0.7276333333333334,9,9.0
+669,Michigan,US-Flu\UNC_IDD-InfluPaint,0.6692714285714285,7,9.0
+1057,Oklahoma,US-Flu\CMU-TimeSeries,0.767,12,9.0
+673,Minnesota,US-Flu\CEID-Walk,0.88215,4,9.0
+1027,Ohio,US-Flu\CMU-TimeSeries,0.7553333333333333,12,9.0
+277,Florida,US-Flu\LUcompUncertLab-hier_mech_model,0.5375300000000001,10,9.0
+1328,United States,US-Flu\MIGHTE-Nsemble,0.7739272727272727,11,9.0
+974,North Carolina,US-Flu\ISU_NiemiLab-Flu,0.8208444444444445,9,10.0
+113,Arkansas,US-Flu\UNC_IDD-InfluPaint,0.6773142857142858,7,10.0
+163,Colorado,US-Flu\LosAlamos_NAU-CModel_Flu,0.78106,5,10.0
+579,Maine,US-Flu\UMass-trends_ensemble,0.8335499999999999,12,10.0
+552,Louisiana,US-Flu\UVAFluX-Ensemble,0.6104416666666667,12,10.0
+771,Montana,US-Flu\LUcompUncertLab-KalmanFilter,0.4866,11,10.0
+893,New Jersey,US-Flu\MIGHTE-Nsemble,0.7899999999999999,11,10.0
+1159,Puerto Rico,US-Flu\PSI-DICE,0.03800833333333333,12,10.0
+296,Georgia,US-Flu\CMU-TimeSeries,0.5456888888888889,9,10.0
+1422,Virginia,US-Flu\ISU_NiemiLab-Flu,0.8420111111111112,9,10.0
+597,Maryland,US-Flu\LUcompUncertLab-humanjudgment,0.7621875,8,10.0
+1116,Pennsylvania,US-Flu\CMU-TimeSeries,0.6804833333333334,12,10.0
+1480,West Virginia,US-Flu\ISU_NiemiLab-Flu,0.6716222222222222,9,10.0
+1319,United States,US-Flu\ISU_NiemiLab-Flu,0.7578,9,10.0
+468,Kansas,US-Flu\CEID-Walk,0.68955,4,10.0
+234,Delaware,US-Flu\UVAFluX-Ensemble,0.40962499999999996,12,10.0
+1259,Tennessee,US-Flu\ISU_NiemiLab-Flu,0.8072222222222222,9,10.0
+1225,South Dakota,US-Flu\CMU-TimeSeries,0.511025,12,10.0
+45,Alaska,US-Flu\MIGHTE-Nsemble,0.34858181818181816,11,10.0
+1062,Oklahoma,US-Flu\ISU_NiemiLab-Flu,0.7650222222222223,9,10.0
+442,Iowa,US-Flu\CU-ensemble,0.8143454545454546,11,10.0
+435,Indiana,US-Flu\UNC_IDD-InfluPaint,0.7372,7,10.0
+851,New Hampshire,US-Flu\CU-ensemble,0.7791818181818182,11,10.0
+708,Mississippi,US-Flu\Flusight-ensemble,0.5241416666666666,12,10.0
+1396,Vermont,US-Flu\UVAFluX-Ensemble,0.5550416666666667,12,10.0
+381,Illinois,US-Flu\CEID-Walk,0.769775,4,10.0
+827,Nevada,US-Flu\JHU_IDD-CovidSP,0.7206888888888889,9,10.0
+185,Connecticut,US-Flu\ISU_NiemiLab-Flu,0.83,9,10.0
+932,New Mexico,US-Flu\UNC_IDD-InfluPaint,0.7538571428571429,7,10.0
+1548,Wyoming,US-Flu\MOBS-GLEAM_FLUH,0.3041833333333333,12,10.0
+16,Alabama,US-Flu\MIGHTE-Nsemble,0.4768727272727272,11,10.0
+1032,Ohio,US-Flu\ISU_NiemiLab-Flu,0.7124222222222222,9,10.0
+1290,Texas,US-Flu\JHU_IDD-CovidSP,0.5737666666666666,9,10.0
+659,Michigan,US-Flu\MIGHTE-Nsemble,0.6651363636363636,11,10.0
+280,Florida,US-Flu\LosAlamos_NAU-CModel_Flu,0.44302,5,10.0
+246,District of Columbia,US-Flu\LUcompUncertLab-HWAR2,0.2574416666666667,12,10.0
+1218,South Carolina,US-Flu\UMass-trends_ensemble,0.5231750000000001,12,10.0
+748,Missouri,US-Flu\MIGHTE-Nsemble,0.8488454545454545,11,10.0
+1012,North Dakota,US-Flu\MIGHTE-Nsemble,0.6350545454545454,11,10.0
+497,Kentucky,US-Flu\CEID-Walk,0.7965,4,10.0
+628,Massachusetts,US-Flu\LUcompUncertLab-stacked_ili,0.7889125,8,10.0
+1469,Washington,US-Flu\UNC_IDD-InfluPaint,0.8764571428571429,7,10.0
+1084,Oregon,US-Flu\CEID-Walk,0.8207500000000001,4,10.0
+1191,Rhode Island,US-Flu\UVAFluX-Ensemble,0.6017416666666667,12,10.0
+65,Arizona,US-Flu\ISU_NiemiLab-Flu,0.8378444444444444,9,10.0
+337,Hawaii,US-Flu\LUcompUncertLab-stacked_ili,0.4232125,8,10.0
+119,California,US-Flu\CMU-TimeSeries,0.7427,11,10.0
+1503,Wisconsin,US-Flu\CEPH-Rtrend_fluH,0.8738888888888889,9,10.0
+1352,Utah,US-Flu\LUcompUncertLab-ensemble_rclp,0.679811111111111,9,10.0
+945,New York,US-Flu\LUcompUncertLab-HWAR2,0.7206583333333333,12,10.0
+367,Idaho,US-Flu\LosAlamos_NAU-CModel_Flu,0.76274,5,10.0
+815,Nebraska,US-Flu\UNC_IDD-InfluPaint,0.6340285714285715,7,10.0
+1400,Virgin Islands,US-Flu\CEPH-Rtrend_fluH,-0.6321444444444445,9,10.0
+699,Minnesota,US-Flu\UNC_IDD-InfluPaint,0.8223142857142857,7,10.0
+706,Mississippi,US-Flu\CU-ensemble,0.48864545454545455,11,11.0
+266,Florida,US-Flu\CMU-TimeSeries,0.29922727272727273,11,11.0
+884,New Jersey,US-Flu\ISU_NiemiLab-Flu,0.7400777777777778,9,11.0
+1015,North Dakota,US-Flu\SGroup-RandomForest,0.6220727272727273,11,11.0
+775,Montana,US-Flu\LUcompUncertLab-stacked_ili,0.484475,8,11.0
+1363,Utah,US-Flu\UGA_flucast-OKeeffe,0.6309545454545454,11,11.0
+1497,West Virginia,US-Flu\UMass-trends_ensemble,0.611225,12,11.0
+732,Missouri,US-Flu\CEID-Walk,0.8426750000000001,4,11.0
+46,Alaska,US-Flu\MOBS-GLEAM_FLUH,0.34755,12,11.0
+980,North Carolina,US-Flu\LUcompUncertLab-humanjudgment,0.806075,8,11.0
+1051,Ohio,US-Flu\UNC_IDD-InfluPaint,0.7022571428571428,7,11.0
+580,Maine,US-Flu\UNC_IDD-InfluPaint,0.8271571428571428,7,11.0
+180,Connecticut,US-Flu\CMU-TimeSeries,0.7802272727272727,11,11.0
+1100,Oregon,US-Flu\MIGHTE-Nsemble,0.8023,11,11.0
+667,Michigan,US-Flu\UMass-gbq,0.657775,4,11.0
+1505,Wisconsin,US-Flu\CU-ensemble,0.8510090909090909,11,11.0
+85,Arizona,US-Flu\UVAFluX-Ensemble,0.8341916666666668,12,11.0
+1071,Oklahoma,US-Flu\MIGHTE-Nsemble,0.7590727272727272,11,11.0
+640,Massachusetts,US-Flu\UVAFluX-Ensemble,0.7818666666666667,12,11.0
+1390,Vermont,US-Flu\SigSci-CREG,0.5488333333333334,12,11.0
+694,Minnesota,US-Flu\SigSci-CREG,0.7574818181818181,11,11.0
+584,Maryland,US-Flu\CEID-Walk,0.740625,4,11.0
+844,Nevada,US-Flu\UNC_IDD-InfluPaint,0.6805,7,11.0
+1237,South Dakota,US-Flu\LUcompUncertLab-stacked_ili,0.493425,8,11.0
+862,New Hampshire,US-Flu\LUcompUncertLab-stacked_ili,0.7734375,8,11.0
+243,District of Columbia,US-Flu\GT-FluFNP,0.2573166666666667,12,11.0
+108,Arkansas,US-Flu\SigSci-CREG,0.6757727272727273,11,11.0
+19,Alabama,US-Flu\SGroup-RandomForest,0.4309454545454546,11,11.0
+149,Colorado,US-Flu\CEPH-Rtrend_fluH,0.7306888888888889,9,11.0
+1284,Texas,US-Flu\CMU-TimeSeries,0.5568111111111111,9,11.0
+410,Indiana,US-Flu\CEID-Walk,0.7323,4,11.0
+1273,Tennessee,US-Flu\SigSci-CREG,0.7888181818181818,11,11.0
+493,Kansas,US-Flu\UNC_IDD-InfluPaint,0.6597,7,11.0
+1312,United States,US-Flu\CEID-Walk,0.691275,4,11.0
+790,Nebraska,US-Flu\CEID-Walk,0.6143,4,11.0
+941,New York,US-Flu\Flusight-ensemble,0.7087583333333334,12,11.0
+454,Iowa,US-Flu\LosAlamos_NAU-CModel_Flu,0.7748200000000001,5,11.0
+504,Kentucky,US-Flu\ISU_NiemiLab-Flu,0.7856777777777778,9,11.0
+1460,Washington,US-Flu\MIGHTE-Nsemble,0.8611090909090909,11,11.0
+1170,Rhode Island,US-Flu\Flusight-ensemble,0.5712083333333333,12,11.0
+407,Illinois,US-Flu\UVAFluX-Ensemble,0.7636166666666666,12,11.0
+533,Louisiana,US-Flu\ISU_NiemiLab-Flu,0.6028555555555556,9,11.0
+120,California,US-Flu\CU-ensemble,0.7386636363636363,11,11.0
+1537,Wyoming,US-Flu\GT-FluFNP,0.30406666666666665,12,11.0
+1196,South Carolina,US-Flu\CMU-TimeSeries,0.509675,8,11.0
+1141,Pennsylvania,US-Flu\UVAFluX-Ensemble,0.6655333333333333,12,11.0
+210,Delaware,US-Flu\CMU-TimeSeries,0.4095416666666667,12,11.0
+310,Georgia,US-Flu\MIGHTE-Nsemble,0.5207727272727273,11,11.0
+1148,Puerto Rico,US-Flu\Flusight-baseline,0.03746666666666666,12,11.0
+378,Idaho,US-Flu\UVAFluX-Ensemble,0.7538083333333333,12,11.0
+340,Hawaii,US-Flu\MOBS-GLEAM_FLUH,0.40986,10,11.0
+1428,Virginia,US-Flu\LUcompUncertLab-humanjudgment,0.8120375,8,11.0
+908,New Mexico,US-Flu\CMU-TimeSeries,0.7038833333333333,12,11.0
+1086,Oregon,US-Flu\CMU-TimeSeries,0.779525,12,12.0
+953,New York,US-Flu\MIGHTE-Nsemble,0.7056272727272727,11,12.0
+1197,South Carolina,US-Flu\CU-ensemble,0.4036,11,12.0
+992,North Carolina,US-Flu\UNC_IDD-InfluPaint,0.7778285714285714,7,12.0
+859,New Hampshire,US-Flu\LUcompUncertLab-ensemble_rclp,0.7337,9,12.0
+1052,Ohio,US-Flu\UVAFluX-Ensemble,0.6892333333333333,12,12.0
+826,Nevada,US-Flu\ISU_NiemiLab-Flu,0.6704111111111111,9,12.0
+290,Florida,US-Flu\UNC_IDD-InfluPaint,0.29891428571428574,7,12.0
+60,Arizona,US-Flu\CMU-TimeSeries,0.8227545454545454,11,12.0
+255,District of Columbia,US-Flu\PSI-DICE,0.25728333333333336,12,12.0
+804,Nebraska,US-Flu\LUcompUncertLab-stacked_ili,0.611775,8,12.0
+413,Indiana,US-Flu\CU-ensemble,0.6962454545454545,11,12.0
+1076,Oklahoma,US-Flu\SigSci-TSENS,0.656309090909091,11,12.0
+654,Michigan,US-Flu\LUcompUncertLab-ensemble_rclp,0.6373,9,12.0
+1451,Washington,US-Flu\ISU_NiemiLab-Flu,0.8465666666666667,9,12.0
+96,Arkansas,US-Flu\JHU_IDD-CovidSP,0.6362555555555556,9,12.0
+681,Minnesota,US-Flu\JHU_IDD-CovidSP,0.7035,9,12.0
+1249,South Dakota,US-Flu\UVAFluX-Ensemble,0.47515,12,12.0
+488,Kansas,US-Flu\SigSci-CREG,0.6082454545454545,11,12.0
+517,Kentucky,US-Flu\SigSci-CREG,0.7510181818181819,11,12.0
+728,Mississippi,US-Flu\UNC_IDD-InfluPaint,0.48037142857142856,7,12.0
+13,Alabama,US-Flu\LUcompUncertLab-humanjudgment,0.3390375,8,12.0
+562,Maine,US-Flu\ISU_NiemiLab-Flu,0.7857222222222222,9,12.0
+132,California,US-Flu\LUcompUncertLab-stacked_ili,0.7205,8,12.0
+902,New Jersey,US-Flu\UNC_IDD-InfluPaint,0.7032428571428572,7,12.0
+226,Delaware,US-Flu\PSI-DICE,0.40570833333333334,12,12.0
+1151,Puerto Rico,US-Flu\LUcompUncertLab-HWAR2,0.03740000000000002,12,12.0
+1440,Virginia,US-Flu\UNC_IDD-InfluPaint,0.7633,7,12.0
+1476,West Virginia,US-Flu\CU-ensemble,0.5683636363636364,11,12.0
+785,Montana,US-Flu\UMass-trends_ensemble,0.4498166666666667,12,12.0
+150,Colorado,US-Flu\CMU-TimeSeries,0.6642416666666666,12,12.0
+377,Idaho,US-Flu\UNC_IDD-InfluPaint,0.6821571428571429,7,12.0
+1337,United States,US-Flu\UNC_IDD-InfluPaint,0.6810857142857143,7,12.0
+1007,North Dakota,US-Flu\LUcompUncertLab-ensemble_rclp,0.6053111111111111,9,12.0
+534,Louisiana,US-Flu\JHU_IDD-CovidSP,0.5469666666666666,9,12.0
+1549,Wyoming,US-Flu\PSI-DICE,0.30391666666666667,12,12.0
+445,Iowa,US-Flu\GT-FluFNP,0.71119,10,12.0
+1119,Pennsylvania,US-Flu\Flusight-ensemble,0.6584500000000001,12,12.0
+615,Massachusetts,US-Flu\CEPH-Rtrend_fluH,0.7508777777777778,9,12.0
+928,New Mexico,US-Flu\SigSci-TSENS,0.6944333333333333,12,12.0
+739,Missouri,US-Flu\ISU_NiemiLab-Flu,0.8070444444444445,9,12.0
+610,Maryland,US-Flu\UNC_IDD-InfluPaint,0.7074571428571429,7,12.0
+1167,Rhode Island,US-Flu\CMU-TimeSeries,0.5694166666666667,12,12.0
+1357,Utah,US-Flu\MIGHTE-Nsemble,0.6296272727272728,11,12.0
+178,Connecticut,US-Flu\CEID-Walk,0.7488,4,12.0
+1265,Tennessee,US-Flu\LUcompUncertLab-humanjudgment,0.772125,8,12.0
+297,Georgia,US-Flu\CU-ensemble,0.4713363636363636,11,12.0
+1389,Vermont,US-Flu\SGroup-RandomForest,0.5482181818181818,11,12.0
+388,Illinois,US-Flu\ISU_NiemiLab-Flu,0.755,9,12.0
+55,Alaska,US-Flu\UVAFluX-Ensemble,0.34754166666666664,12,12.0
+328,Hawaii,US-Flu\Flusight-baseline,0.40929166666666666,12,12.0
+1521,Wisconsin,US-Flu\SGroup-RandomForest,0.8112727272727273,11,12.0
+1291,Texas,US-Flu\LUcompUncertLab-HWAR2,0.47660833333333336,12,12.0
+1380,Vermont,US-Flu\LUcompUncertLab-KalmanFilter,0.5435,11,13.0
+186,Connecticut,US-Flu\JHU_IDD-CovidSP,0.7337555555555555,9,13.0
+1135,Pennsylvania,US-Flu\SigSci-CREG,0.65564,10,13.0
+734,Missouri,US-Flu\CMU-TimeSeries,0.7926833333333333,12,13.0
+686,Minnesota,US-Flu\LUcompUncertLab-humanjudgment,0.6925875,8,13.0
+1043,Ohio,US-Flu\NIH-Flu_ARIMA,0.654,9,13.0
+1365,Utah,US-Flu\UMass-trends_ensemble,0.622625,12,13.0
+143,California,US-Flu\UMass-trends_ensemble,0.7186333333333333,12,13.0
+726,Mississippi,US-Flu\UMass-gbq,0.343725,4,13.0
+1446,Washington,US-Flu\CMU-TimeSeries,0.8259363636363637,11,13.0
+1441,Virginia,US-Flu\UVAFluX-Ensemble,0.6483249999999999,12,13.0
+841,Nevada,US-Flu\UGA_flucast-OKeeffe,0.6221272727272728,11,13.0
+1022,North Dakota,US-Flu\UVAFluX-Ensemble,0.6015083333333333,12,13.0
+374,Idaho,US-Flu\UGA_flucast-OKeeffe,0.6555363636363637,11,13.0
+1278,Tennessee,US-Flu\UNC_IDD-InfluPaint,0.7711142857142858,7,13.0
+412,Indiana,US-Flu\CMU-TimeSeries,0.6814166666666667,12,13.0
+406,Illinois,US-Flu\UNC_IDD-InfluPaint,0.7304714285714285,7,13.0
+644,Michigan,US-Flu\CEPH-Rtrend_fluH,0.6193666666666666,9,13.0
+575,Maine,US-Flu\SigSci-CREG,0.7837416666666667,12,13.0
+621,Massachusetts,US-Flu\ISU_NiemiLab-Flu,0.7252,9,13.0
+1176,Rhode Island,US-Flu\LUcompUncertLab-ensemble_rclp,0.5529777777777778,9,13.0
+212,Delaware,US-Flu\Flusight-baseline,0.4056416666666667,12,13.0
+587,Maryland,US-Flu\CU-ensemble,0.7001545454545455,11,13.0
+1233,South Dakota,US-Flu\LUcompUncertLab-KalmanFilter,0.45140909090909087,11,13.0
+877,New Jersey,US-Flu\CEID-Walk,0.687825,4,13.0
+993,North Carolina,US-Flu\UVAFluX-Ensemble,0.77065,12,13.0
+1104,Oregon,US-Flu\SGroup-RandomForest,0.7194454545454545,11,13.0
+28,Alabama,US-Flu\VTSanghani-Transformer,0.33799999999999997,5,13.0
+35,Alaska,US-Flu\GT-FluFNP,0.34745833333333337,12,13.0
+522,Kentucky,US-Flu\UNC_IDD-InfluPaint,0.7370142857142857,7,13.0
+906,New Mexico,US-Flu\CEID-Walk,0.62885,4,13.0
+1338,United States,US-Flu\UVAFluX-Ensemble,0.6642750000000001,12,13.0
+301,Georgia,US-Flu\ISU_NiemiLab-Flu,0.4673111111111111,9,13.0
+84,Arizona,US-Flu\UNC_IDD-InfluPaint,0.8223571428571429,7,13.0
+1494,West Virginia,US-Flu\SigSci-TSENS,0.562375,12,13.0
+114,Arkansas,US-Flu\UVAFluX-Ensemble,0.6317416666666666,12,13.0
+490,Kansas,US-Flu\UGA_flucast-OKeeffe,0.5705818181818182,11,13.0
+1220,South Carolina,US-Flu\UVAFluX-Ensemble,0.3720583333333333,12,13.0
+453,Iowa,US-Flu\LUcompUncertLab-stacked_ili,0.6587375,8,13.0
+281,Florida,US-Flu\MIGHTE-Nsemble,0.28855000000000003,10,13.0
+1069,Oklahoma,US-Flu\LUcompUncertLab-stacked_ili,0.5942375,8,13.0
+1509,Wisconsin,US-Flu\ISU_NiemiLab-Flu,0.7784888888888889,9,13.0
+162,Colorado,US-Flu\LUcompUncertLab-stacked_ili,0.6437999999999999,8,13.0
+1307,Texas,US-Flu\UMass-trends_ensemble,0.4611166666666667,12,13.0
+772,Montana,US-Flu\LUcompUncertLab-ensemble_rclp,0.4451222222222222,9,13.0
+546,Louisiana,US-Flu\SigSci-CREG,0.5379,11,13.0
+805,Nebraska,US-Flu\LosAlamos_NAU-CModel_Flu,0.60022,5,13.0
+872,New Hampshire,US-Flu\UMass-trends_ensemble,0.7324916666666667,12,13.0
+1535,Wyoming,US-Flu\Flusight-baseline,0.30385833333333334,12,13.0
+1160,Puerto Rico,US-Flu\SGroup-RandomForest,0.013863636363636361,11,13.0
+241,District of Columbia,US-Flu\Flusight-baseline,0.25716666666666665,12,13.0
+341,Hawaii,US-Flu\PSI-DICE,0.409275,12,13.0
+963,New York,US-Flu\UNC_IDD-InfluPaint,0.6962714285714285,7,13.0
+1006,North Dakota,US-Flu\LUcompUncertLab-KalmanFilter,0.5911727272727273,11,14.0
+787,Montana,US-Flu\UVAFluX-Ensemble,0.43986666666666663,12,14.0
+868,New Hampshire,US-Flu\SigSci-CREG,0.7142583333333333,12,14.0
+200,Connecticut,US-Flu\SigSci-TSENS,0.7013272727272727,11,14.0
+988,North Carolina,US-Flu\SigSci-TSENS,0.6237666666666667,12,14.0
+927,New Mexico,US-Flu\SigSci-CREG,0.5823666666666666,12,14.0
+752,Missouri,US-Flu\SigSci-CREG,0.7498,11,14.0
+47,Alaska,US-Flu\PSI-DICE,0.3472583333333333,12,14.0
+217,Delaware,US-Flu\LUcompUncertLab-HWAR2,0.40513333333333335,12,14.0
+24,Alabama,US-Flu\UMass-trends_ensemble,0.26260833333333333,12,14.0
+809,Nebraska,US-Flu\SGroup-RandomForest,0.5573272727272728,11,14.0
+943,New York,US-Flu\ISU_NiemiLab-Flu,0.6833555555555555,9,14.0
+819,Nevada,US-Flu\CEID-Walk,0.5977,4,14.0
+897,New Jersey,US-Flu\SigSci-CREG,0.6368,8,14.0
+1540,Wyoming,US-Flu\LUcompUncertLab-HWAR2,0.30373333333333336,12,14.0
+265,Florida,US-Flu\CEPH-Rtrend_fluH,0.22002222222222223,9,14.0
+1473,West Virginia,US-Flu\CEID-Walk,0.510225,4,14.0
+1260,Tennessee,US-Flu\JHU_IDD-CovidSP,0.6027222222222223,9,14.0
+1504,Wisconsin,US-Flu\CMU-TimeSeries,0.7686833333333333,12,14.0
+401,Illinois,US-Flu\SigSci-CREG,0.6318545454545454,11,14.0
+1091,Oregon,US-Flu\ISU_NiemiLab-Flu,0.7163999999999999,9,14.0
+1131,Pennsylvania,US-Flu\MIGHTE-Nsemble,0.6531727272727272,11,14.0
+79,Arizona,US-Flu\SigSci-CREG,0.7384,9,14.0
+616,Massachusetts,US-Flu\CMU-TimeSeries,0.6966666666666667,12,14.0
+261,District of Columbia,US-Flu\UVAFluX-Ensemble,0.25605833333333333,12,14.0
+1245,South Dakota,US-Flu\UGA_flucast-OKeeffe,0.43361818181818185,11,14.0
+1207,South Carolina,US-Flu\LUcompUncertLab-humanjudgment,0.3344,8,14.0
+430,Indiana,US-Flu\SigSci-CREG,0.6447454545454545,11,14.0
+1465,Washington,US-Flu\SigSci-TSENS,0.699388888888889,9,14.0
+91,Arkansas,US-Flu\CU-ensemble,0.6257818181818182,11,14.0
+127,California,US-Flu\LUcompUncertLab-KalmanFilter,0.7168727272727273,11,14.0
+458,Iowa,US-Flu\SGroup-RandomForest,0.6554090909090909,11,14.0
+605,Maryland,US-Flu\SigSci-CREG,0.6913916666666666,12,14.0
+581,Maine,US-Flu\UVAFluX-Ensemble,0.769275,12,14.0
+1075,Oklahoma,US-Flu\SigSci-CREG,0.59155,12,14.0
+1332,United States,US-Flu\SigSci-CREG,0.57895,12,14.0
+649,Michigan,US-Flu\GT-FluFNP,0.611125,12,14.0
+471,Kansas,US-Flu\CU-ensemble,0.5461090909090909,11,14.0
+1436,Virginia,US-Flu\SigSci-TSENS,0.6309166666666667,12,14.0
+710,Mississippi,US-Flu\ISU_NiemiLab-Flu,0.23821111111111115,9,14.0
+505,Kentucky,US-Flu\JHU_IDD-CovidSP,0.6402777777777778,9,14.0
+358,Idaho,US-Flu\GT-FluFNP,0.6364888888888889,9,14.0
+1046,Ohio,US-Flu\SigSci-CREG,0.5756555555555556,9,14.0
+1287,Texas,US-Flu\Flusight-ensemble,0.4603,12,14.0
+1359,Utah,US-Flu\PSI-DICE,0.6206916666666666,12,14.0
+1156,Puerto Rico,US-Flu\LUcompUncertLab-stacked_ili,0.006262500000000004,8,14.0
+680,Minnesota,US-Flu\ISU_NiemiLab-Flu,0.6872666666666666,9,14.0
+169,Colorado,US-Flu\SigSci-CREG,0.6166181818181818,11,14.0
+1171,Rhode Island,US-Flu\GT-FluFNP,0.552875,12,14.0
+322,Georgia,US-Flu\VTSanghani-ExogModel,0.45242727272727273,11,14.0
+1373,Vermont,US-Flu\CU-ensemble,0.5400636363636363,11,14.0
+551,Louisiana,US-Flu\UNC_IDD-InfluPaint,0.5094714285714286,7,14.0
+332,Hawaii,US-Flu\LUcompUncertLab-HWAR2,0.4090416666666667,12,14.0
+23,Alabama,US-Flu\UMass-gbq,0.24405,4,15.0
+800,Nebraska,US-Flu\LUcompUncertLab-KalmanFilter,0.5572636363636364,11,15.0
+518,Kentucky,US-Flu\SigSci-TSENS,0.6235454545454545,11,15.0
+1014,North Dakota,US-Flu\PSI-DICE,0.5244666666666666,12,15.0
+1183,Rhode Island,US-Flu\PSI-DICE,0.5528416666666667,12,15.0
+1370,Vermont,US-Flu\CEID-Walk,0.50665,4,15.0
+948,New York,US-Flu\LUcompUncertLab-experthuman,0.6754249999999999,4,15.0
+109,Arkansas,US-Flu\SigSci-TSENS,0.6062833333333334,12,15.0
+317,Georgia,US-Flu\UGA_flucast-OKeeffe,0.44662727272727276,11,15.0
+475,Kansas,US-Flu\ISU_NiemiLab-Flu,0.46457777777777776,9,15.0
+1464,Washington,US-Flu\SigSci-CREG,0.6176666666666667,12,15.0
+329,Hawaii,US-Flu\Flusight-ensemble,0.4081666666666666,12,15.0
+1435,Virginia,US-Flu\SigSci-CREG,0.6208545454545454,11,15.0
+1309,Texas,US-Flu\UVAFluX-Ensemble,0.4549,12,15.0
+855,New Hampshire,US-Flu\ISU_NiemiLab-Flu,0.7056,9,15.0
+914,New Mexico,US-Flu\JHU_IDD-CovidSP,0.4963666666666666,9,15.0
+1279,Tennessee,US-Flu\UVAFluX-Ensemble,0.57285,12,15.0
+371,Idaho,US-Flu\SGroup-RandomForest,0.6364090909090909,11,15.0
+1213,South Carolina,US-Flu\SGroup-RandomForest,0.29865454545454545,11,15.0
+839,Nevada,US-Flu\SigSci-CREG,0.57999,10,15.0
+402,Illinois,US-Flu\SigSci-TSENS,0.6249636363636364,11,15.0
+139,California,US-Flu\SigSci-CREG,0.7010428571428572,7,15.0
+1241,South Dakota,US-Flu\PSI-DICE,0.4021166666666667,12,15.0
+170,Colorado,US-Flu\SigSci-TSENS,0.613425,12,15.0
+885,New Jersey,US-Flu\JHU_IDD-CovidSP,0.5891555555555557,9,15.0
+447,Iowa,US-Flu\JHU_IDD-CovidSP,0.6531,9,15.0
+259,District of Columbia,US-Flu\UMass-trends_ensemble,0.2557916666666667,12,15.0
+1555,Wyoming,US-Flu\UMass-trends_ensemble,0.3031333333333333,12,15.0
+418,Indiana,US-Flu\JHU_IDD-CovidSP,0.560288888888889,9,15.0
+1320,United States,US-Flu\JHU_IDD-CovidSP,0.5491,9,15.0
+539,Louisiana,US-Flu\LUcompUncertLab-humanjudgment,0.44308749999999997,8,15.0
+662,Michigan,US-Flu\PSI-DICE,0.6086083333333333,12,15.0
+1495,West Virginia,US-Flu\UGA_flucast-OKeeffe,0.5094727272727272,11,15.0
+1114,Pennsylvania,US-Flu\CEID-Walk,0.582125,4,15.0
+278,Florida,US-Flu\LUcompUncertLab-humanjudgment,0.19061250000000002,8,15.0
+1347,Utah,US-Flu\GT-FluFNP,0.6206583333333333,12,15.0
+1047,Ohio,US-Flu\SigSci-TSENS,0.5601916666666666,12,15.0
+576,Maine,US-Flu\SigSci-TSENS,0.7333166666666666,12,15.0
+1068,Oklahoma,US-Flu\LUcompUncertLab-humanjudgment,0.5859624999999999,8,15.0
+975,North Carolina,US-Flu\JHU_IDD-CovidSP,0.5744,9,15.0
+1510,Wisconsin,US-Flu\JHU_IDD-CovidSP,0.7325777777777778,9,15.0
+33,Alaska,US-Flu\Flusight-baseline,0.3471666666666667,12,15.0
+606,Maryland,US-Flu\SigSci-TSENS,0.6375166666666666,12,15.0
+199,Connecticut,US-Flu\SigSci-CREG,0.6734666666666667,9,15.0
+1158,Puerto Rico,US-Flu\MIGHTE-Nsemble,0.005660000000000004,10,15.0
+80,Arizona,US-Flu\SigSci-TSENS,0.6942499999999999,12,15.0
+700,Minnesota,US-Flu\UVAFluX-Ensemble,0.6725083333333334,12,15.0
+781,Montana,US-Flu\SigSci-CREG,0.43332499999999996,12,15.0
+753,Missouri,US-Flu\SigSci-TSENS,0.68343,10,15.0
+722,Mississippi,US-Flu\SGroup-RandomForest,0.22692727272727273,11,15.0
+622,Massachusetts,US-Flu\JHU_IDD-CovidSP,0.6644666666666666,9,15.0
+213,Delaware,US-Flu\Flusight-ensemble,0.40210000000000007,12,15.0
+1105,Oregon,US-Flu\SigSci-CREG,0.7058727272727272,11,15.0
+1333,United States,US-Flu\SigSci-TSENS,0.546025,12,16.0
+1274,Tennessee,US-Flu\SigSci-TSENS,0.46798333333333336,12,16.0
+740,Missouri,US-Flu\JHU_IDD-CovidSP,0.6185666666666667,9,16.0
+840,Nevada,US-Flu\SigSci-TSENS,0.4661166666666667,12,16.0
+1000,North Dakota,US-Flu\Flusight-baseline,0.5243916666666667,12,16.0
+1063,Oklahoma,US-Flu\JHU_IDD-CovidSP,0.5829111111111112,9,16.0
+389,Illinois,US-Flu\JHU_IDD-CovidSP,0.5856666666666667,9,16.0
+916,New Mexico,US-Flu\LUcompUncertLab-KalmanFilter,0.48623636363636363,11,16.0
+198,Connecticut,US-Flu\SGroup-RandomForest,0.5393181818181818,11,16.0
+1285,Texas,US-Flu\CU-ensemble,0.45480909090909094,11,16.0
+253,District of Columbia,US-Flu\MIGHTE-Nsemble,0.20881818181818182,11,16.0
+1423,Virginia,US-Flu\JHU_IDD-CovidSP,0.5976111111111111,9,16.0
+347,Hawaii,US-Flu\UMass-trends_ensemble,0.40795833333333337,12,16.0
+58,Arizona,US-Flu\CEID-Walk,0.58655,4,16.0
+158,Colorado,US-Flu\LUcompUncertLab-KalmanFilter,0.5955272727272727,11,16.0
+729,Mississippi,US-Flu\UVAFluX-Ensemble,0.19945833333333332,12,16.0
+695,Minnesota,US-Flu\SigSci-TSENS,0.6027363636363637,11,16.0
+1033,Ohio,US-Flu\JHU_IDD-CovidSP,0.5473666666666667,9,16.0
+1522,Wisconsin,US-Flu\SigSci-CREG,0.6688454545454546,11,16.0
+321,Georgia,US-Flu\UVAFluX-Ensemble,0.44532499999999997,12,16.0
+372,Idaho,US-Flu\SigSci-CREG,0.6336363636363637,11,16.0
+645,Michigan,US-Flu\CMU-TimeSeries,0.6078,12,16.0
+1452,Washington,US-Flu\JHU_IDD-CovidSP,0.6001,8,16.0
+1097,Oregon,US-Flu\LUcompUncertLab-humanjudgment,0.6730625,8,16.0
+110,Arkansas,US-Flu\UGA_flucast-OKeeffe,0.47580000000000006,11,16.0
+1382,Vermont,US-Flu\LUcompUncertLab-hier_mech_model,0.5015777777777778,9,16.0
+548,Louisiana,US-Flu\UGA_flucast-OKeeffe,0.3961636363636364,11,16.0
+1147,Puerto Rico,US-Flu\CU-ensemble,4.545454545454045e-05,11,16.0
+26,Alabama,US-Flu\UVAFluX-Ensemble,0.22740000000000002,12,16.0
+510,Kentucky,US-Flu\LUcompUncertLab-humanjudgment,0.5166999999999999,8,16.0
+555,Maine,US-Flu\CEID-Walk,0.711875,4,16.0
+798,Nebraska,US-Flu\JHU_IDD-CovidSP,0.5438111111111111,9,16.0
+1557,Wyoming,US-Flu\UVAFluX-Ensemble,0.30039166666666667,12,16.0
+1493,West Virginia,US-Flu\SigSci-CREG,0.46378181818181824,11,16.0
+487,Kansas,US-Flu\SGroup-RandomForest,0.4395090909090909,11,16.0
+1129,Pennsylvania,US-Flu\LUcompUncertLab-stacked_ili,0.579325,8,16.0
+633,Massachusetts,US-Flu\SGroup-RandomForest,0.6549818181818182,11,16.0
+1345,Utah,US-Flu\Flusight-baseline,0.6205333333333333,12,16.0
+947,New York,US-Flu\LUcompUncertLab-ensemble_rclp,0.6328333333333334,9,16.0
+38,Alaska,US-Flu\LUcompUncertLab-HWAR2,0.34639166666666665,12,16.0
+431,Indiana,US-Flu\SigSci-TSENS,0.5149636363636364,11,16.0
+898,New Jersey,US-Flu\SigSci-TSENS,0.5560090909090909,11,16.0
+134,California,US-Flu\MIGHTE-Nsemble,0.6968272727272727,11,16.0
+1227,South Dakota,US-Flu\Flusight-baseline,0.40192500000000003,12,16.0
+288,Florida,US-Flu\UMass-gbq,0.18375,4,16.0
+767,Montana,US-Flu\GT-FluFNP,0.43238333333333334,12,16.0
+874,New Hampshire,US-Flu\UVAFluX-Ensemble,0.69495,12,16.0
+1215,South Carolina,US-Flu\SigSci-TSENS,0.16405,12,16.0
+460,Iowa,US-Flu\SigSci-TSENS,0.65165,12,16.0
+592,Maryland,US-Flu\JHU_IDD-CovidSP,0.6178333333333333,9,16.0
+232,Delaware,US-Flu\UMass-trends_ensemble,0.4000916666666667,12,16.0
+987,North Carolina,US-Flu\SigSci-CREG,0.55933,10,16.0
+1169,Rhode Island,US-Flu\Flusight-baseline,0.5527166666666666,12,16.0
+1321,United States,US-Flu\LUcompUncertLab-HWAR2,0.48085,12,17.0
+1358,Utah,US-Flu\MOBS-GLEAM_FLUH,0.6205083333333333,12,17.0
+1523,Wisconsin,US-Flu\SigSci-TSENS,0.6441272727272728,11,17.0
+1437,Virginia,US-Flu\UGA_flucast-OKeeffe,0.46234545454545456,11,17.0
+1034,Ohio,US-Flu\LUcompUncertLab-HWAR2,0.5219416666666666,12,17.0
+1005,North Dakota,US-Flu\LUcompUncertLab-HWAR2,0.5230583333333333,12,17.0
+1064,Oklahoma,US-Flu\LUcompUncertLab-HWAR2,0.5367916666666667,12,17.0
+1106,Oregon,US-Flu\SigSci-TSENS,0.6482222222222221,9,17.0
+989,North Carolina,US-Flu\UGA_flucast-OKeeffe,0.4359,11,17.0
+1122,Pennsylvania,US-Flu\JHU_IDD-CovidSP,0.5386888888888889,9,17.0
+1483,West Virginia,US-Flu\LUcompUncertLab-KalmanFilter,0.3735090909090909,11,17.0
+1164,Puerto Rico,US-Flu\VTSanghani-Transformer,-0.030620000000000026,5,17.0
+1174,Rhode Island,US-Flu\LUcompUncertLab-HWAR2,0.5511333333333334,12,17.0
+1214,South Carolina,US-Flu\SigSci-CREG,0.11432500000000001,12,17.0
+942,New York,US-Flu\GT-FluFNP,0.6251599999999999,10,17.0
+1454,Washington,US-Flu\LUcompUncertLab-KalmanFilter,0.4877545454545454,11,17.0
+1232,South Dakota,US-Flu\LUcompUncertLab-HWAR2,0.40123333333333333,12,17.0
+1275,Tennessee,US-Flu\UGA_flucast-OKeeffe,0.44287272727272725,11,17.0
+1375,Vermont,US-Flu\Flusight-ensemble,0.4973,12,17.0
+920,New Mexico,US-Flu\LUcompUncertLab-stacked_ili,0.467525,8,17.0
+1542,Wyoming,US-Flu\LUcompUncertLab-ensemble_rclp,0.2731555555555556,9,17.0
+1304,Texas,US-Flu\SigSci-TSENS,0.4285333333333334,12,17.0
+887,New Jersey,US-Flu\LUcompUncertLab-KalmanFilter,0.39871818181818175,11,17.0
+779,Montana,US-Flu\PSI-DICE,0.4321333333333333,12,17.0
+251,District of Columbia,US-Flu\LUcompUncertLab-stacked_ili,0.19251249999999998,8,17.0
+634,Massachusetts,US-Flu\SigSci-CREG,0.6537499999999999,10,17.0
+403,Illinois,US-Flu\UGA_flucast-OKeeffe,0.43963636363636366,11,17.0
+696,Minnesota,US-Flu\UGA_flucast-OKeeffe,0.5817,11,17.0
+797,Nebraska,US-Flu\ISU_NiemiLab-Flu,0.539,9,17.0
+66,Arizona,US-Flu\JHU_IDD-CovidSP,0.5754,9,17.0
+439,Iowa,US-Flu\CEID-Walk,0.6485,4,17.0
+191,Connecticut,US-Flu\LUcompUncertLab-humanjudgment,0.47986249999999997,8,17.0
+420,Indiana,US-Flu\LUcompUncertLab-KalmanFilter,0.45299090909090906,11,17.0
+854,New Hampshire,US-Flu\GT-FluFNP,0.67889,10,17.0
+156,Colorado,US-Flu\JHU_IDD-CovidSP,0.5800555555555555,9,17.0
+647,Michigan,US-Flu\Flusight-baseline,0.60755,12,17.0
+115,Arkansas,US-Flu\VTSanghani-ExogModel,0.4016272727272728,11,17.0
+478,Kansas,US-Flu\LUcompUncertLab-KalmanFilter,0.4230181818181818,11,17.0
+742,Missouri,US-Flu\LUcompUncertLab-KalmanFilter,0.45779090909090914,11,17.0
+10,Alabama,US-Flu\LUcompUncertLab-KalmanFilter,0.10697272727272726,11,17.0
+53,Alaska,US-Flu\UMass-trends_ensemble,0.34600000000000003,12,17.0
+289,Florida,US-Flu\UMass-trends_ensemble,0.17395833333333333,12,17.0
+224,Delaware,US-Flu\MIGHTE-Nsemble,0.3631,11,17.0
+349,Hawaii,US-Flu\UVAFluX-Ensemble,0.4036666666666667,12,17.0
+352,Idaho,US-Flu\CEID-Walk,0.6214,4,17.0
+537,Louisiana,US-Flu\LUcompUncertLab-ensemble_rclp,0.374,9,17.0
+519,Kentucky,US-Flu\UGA_flucast-OKeeffe,0.4123181818181818,11,17.0
+713,Mississippi,US-Flu\LUcompUncertLab-KalmanFilter,0.18598181818181822,11,17.0
+126,California,US-Flu\LUcompUncertLab-HWAR2,0.6959666666666666,12,17.0
+607,Maryland,US-Flu\UGA_flucast-OKeeffe,0.46151818181818177,11,17.0
+829,Nevada,US-Flu\LUcompUncertLab-KalmanFilter,0.4072272727272727,11,17.0
+569,Maine,US-Flu\LUcompUncertLab-stacked_ili,0.6844125,8,17.0
+304,Georgia,US-Flu\LUcompUncertLab-KalmanFilter,0.2988727272727273,11,17.0
+272,Florida,US-Flu\JHU_IDD-CovidSP,0.17206666666666667,9,18.0
+474,Kansas,US-Flu\GT-FluFNP,0.3791583333333333,12,18.0
+1516,Wisconsin,US-Flu\LUcompUncertLab-stacked_ili,0.532075,8,18.0
+612,Maryland,US-Flu\VTSanghani-ExogModel,0.3591727272727273,11,18.0
+1107,Oregon,US-Flu\UGA_flucast-OKeeffe,0.5795727272727272,11,18.0
+810,Nebraska,US-Flu\SigSci-CREG,0.5184166666666666,12,18.0
+1305,Texas,US-Flu\UGA_flucast-OKeeffe,0.4263363636363637,11,18.0
+98,Arkansas,US-Flu\LUcompUncertLab-KalmanFilter,0.3161909090909091,11,18.0
+1153,Puerto Rico,US-Flu\LUcompUncertLab-ensemble_rclp,-0.07073333333333333,9,18.0
+222,Delaware,US-Flu\LUcompUncertLab-stacked_ili,0.356275,8,18.0
+994,North Carolina,US-Flu\VTSanghani-ExogModel,0.3894,11,18.0
+765,Montana,US-Flu\Flusight-baseline,0.43194166666666667,12,18.0
+536,Louisiana,US-Flu\LUcompUncertLab-KalmanFilter,0.3470181818181818,11,18.0
+1490,West Virginia,US-Flu\MOBS-GLEAM_FLUH,0.334575,12,18.0
+73,Arizona,US-Flu\LUcompUncertLab-stacked_ili,0.4131375,8,18.0
+746,Missouri,US-Flu\LUcompUncertLab-stacked_ili,0.448675,8,18.0
+248,District of Columbia,US-Flu\LUcompUncertLab-ensemble_rclp,0.19193333333333332,9,18.0
+507,Kentucky,US-Flu\LUcompUncertLab-KalmanFilter,0.37586363636363634,11,18.0
+201,Connecticut,US-Flu\UGA_flucast-OKeeffe,0.4664,11,18.0
+1376,Vermont,US-Flu\GT-FluFNP,0.48690833333333333,12,18.0
+1186,Rhode Island,US-Flu\SigSci-TSENS,0.5497083333333334,12,18.0
+724,Mississippi,US-Flu\SigSci-TSENS,0.15346666666666667,12,18.0
+1008,North Dakota,US-Flu\LUcompUncertLab-hier_mech_model,0.4683,10,18.0
+1123,Pennsylvania,US-Flu\LUcompUncertLab-HWAR2,0.5071916666666667,12,18.0
+1350,Utah,US-Flu\LUcompUncertLab-HWAR2,0.6202083333333334,12,18.0
+938,New York,US-Flu\CMU-TimeSeries,0.620425,12,18.0
+449,Iowa,US-Flu\LUcompUncertLab-KalmanFilter,0.6126818181818181,11,18.0
+122,California,US-Flu\Flusight-ensemble,0.6265333333333333,12,18.0
+1222,South Carolina,US-Flu\VTSanghani-Transformer,0.10695999999999999,5,18.0
+391,Illinois,US-Flu\LUcompUncertLab-KalmanFilter,0.4176272727272727,11,18.0
+159,Colorado,US-Flu\LUcompUncertLab-ensemble_rclp,0.5747,9,18.0
+1322,United States,US-Flu\LUcompUncertLab-KalmanFilter,0.4139,11,18.0
+1547,Wyoming,US-Flu\MIGHTE-Nsemble,0.2676181818181818,11,18.0
+7,Alabama,US-Flu\ISU_NiemiLab-Flu,0.08542222222222223,9,18.0
+373,Idaho,US-Flu\SigSci-TSENS,0.6190363636363636,11,18.0
+867,New Hampshire,US-Flu\SGroup-RandomForest,0.6246545454545455,11,18.0
+1280,Tennessee,US-Flu\VTSanghani-ExogModel,0.36760909090909094,11,18.0
+650,Michigan,US-Flu\ISU_NiemiLab-Flu,0.5972777777777778,9,18.0
+1442,Virginia,US-Flu\VTSanghani-ExogModel,0.39320909090909095,11,18.0
+339,Hawaii,US-Flu\MIGHTE-Nsemble,0.36225454545454544,11,18.0
+883,New Jersey,US-Flu\GT-FluFNP,0.36333333333333334,12,18.0
+1065,Oklahoma,US-Flu\LUcompUncertLab-KalmanFilter,0.4714272727272727,11,18.0
+693,Minnesota,US-Flu\SGroup-RandomForest,0.4972,11,18.0
+838,Nevada,US-Flu\SGroup-RandomForest,0.38384545454545455,11,18.0
+1466,Washington,US-Flu\UGA_flucast-OKeeffe,0.48693636363636367,11,18.0
+40,Alaska,US-Flu\LUcompUncertLab-ensemble_rclp,0.32899999999999996,9,18.0
+623,Massachusetts,US-Flu\LUcompUncertLab-HWAR2,0.6443666666666666,12,18.0
+1025,Ohio,US-Flu\CEID-Walk,0.508275,4,18.0
+424,Indiana,US-Flu\LUcompUncertLab-stacked_ili,0.448525,8,18.0
+305,Georgia,US-Flu\LUcompUncertLab-ensemble_rclp,0.2926888888888889,9,18.0
+1243,South Dakota,US-Flu\SigSci-CREG,0.3876,12,18.0
+566,Maine,US-Flu\LUcompUncertLab-ensemble_rclp,0.6299,9,18.0
+923,New Mexico,US-Flu\MOBS-GLEAM_FLUH,0.440425,12,18.0
+574,Maine,US-Flu\SGroup-RandomForest,0.6196090909090909,11,19.0
+1425,Virginia,US-Flu\LUcompUncertLab-KalmanFilter,0.31563636363636366,11,19.0
+1124,Pennsylvania,US-Flu\LUcompUncertLab-KalmanFilter,0.4584818181818182,11,19.0
+635,Massachusetts,US-Flu\SigSci-TSENS,0.6425636363636363,11,19.0
+145,California,US-Flu\UVAFluX-Ensemble,0.5278083333333333,12,19.0
+683,Minnesota,US-Flu\LUcompUncertLab-KalmanFilter,0.3310909090909091,11,19.0
+1302,Texas,US-Flu\SGroup-RandomForest,0.36500909090909095,11,19.0
+656,Michigan,US-Flu\LUcompUncertLab-humanjudgment,0.59425,8,19.0
+220,Delaware,US-Flu\LUcompUncertLab-hier_mech_model,0.29929,10,19.0
+1094,Oregon,US-Flu\LUcompUncertLab-KalmanFilter,0.5131909090909091,11,19.0
+714,Mississippi,US-Flu\LUcompUncertLab-ensemble_rclp,0.1436111111111111,9,19.0
+1016,North Dakota,US-Flu\SigSci-CREG,0.4580727272727273,11,19.0
+188,Connecticut,US-Flu\LUcompUncertLab-KalmanFilter,0.44250909090909096,11,19.0
+1463,Washington,US-Flu\SGroup-RandomForest,0.4865727272727272,11,19.0
+741,Missouri,US-Flu\LUcompUncertLab-HWAR2,0.4422833333333333,12,19.0
+1479,West Virginia,US-Flu\GT-FluFNP,0.33345,12,19.0
+99,Arkansas,US-Flu\LUcompUncertLab-ensemble_rclp,0.3076777777777778,9,19.0
+1039,Ohio,US-Flu\LUcompUncertLab-stacked_ili,0.4885,8,19.0
+166,Colorado,US-Flu\NIH-Flu_ARIMA,0.5635888888888889,9,19.0
+594,Maryland,US-Flu\LUcompUncertLab-KalmanFilter,0.35913636363636364,11,19.0
+1055,Oklahoma,US-Flu\CEID-Walk,0.46155,4,19.0
+1367,Utah,US-Flu\UVAFluX-Ensemble,0.6201916666666666,12,19.0
+419,Indiana,US-Flu\LUcompUncertLab-HWAR2,0.437725,12,19.0
+366,Idaho,US-Flu\LUcompUncertLab-stacked_ili,0.5765625,8,19.0
+314,Georgia,US-Flu\SGroup-RandomForest,0.28041818181818184,11,19.0
+1204,South Carolina,US-Flu\LUcompUncertLab-KalmanFilter,0.0794090909090909,11,19.0
+858,New Hampshire,US-Flu\LUcompUncertLab-KalmanFilter,0.5943454545454545,11,19.0
+271,Florida,US-Flu\ISU_NiemiLab-Flu,0.16006666666666666,9,19.0
+459,Iowa,US-Flu\SigSci-CREG,0.6018363636363637,11,19.0
+808,Nebraska,US-Flu\PSI-DICE,0.4978666666666667,12,19.0
+825,Nevada,US-Flu\GT-FluFNP,0.36710833333333337,12,19.0
+1323,United States,US-Flu\LUcompUncertLab-ensemble_rclp,0.39765555555555554,9,19.0
+43,Alaska,US-Flu\LUcompUncertLab-stacked_ili,0.3278625,8,19.0
+912,New Mexico,US-Flu\GT-FluFNP,0.43925,12,19.0
+11,Alabama,US-Flu\LUcompUncertLab-ensemble_rclp,0.04376666666666667,9,19.0
+1235,South Dakota,US-Flu\LUcompUncertLab-hier_mech_model,0.35894,10,19.0
+1262,Tennessee,US-Flu\LUcompUncertLab-KalmanFilter,0.32983636363636365,11,19.0
+1512,Wisconsin,US-Flu\LUcompUncertLab-KalmanFilter,0.531209090909091,11,19.0
+486,Kansas,US-Flu\PSI-DICE,0.37856666666666666,12,19.0
+400,Illinois,US-Flu\SGroup-RandomForest,0.39125454545454547,11,19.0
+1189,Rhode Island,US-Flu\UMass-trends_ensemble,0.5479916666666667,12,19.0
+553,Louisiana,US-Flu\VTSanghani-ExogModel,0.3164818181818182,11,19.0
+1154,Puerto Rico,US-Flu\LUcompUncertLab-hier_mech_model,-0.07905555555555553,9,19.0
+1388,Vermont,US-Flu\PSI-DICE,0.4868166666666667,12,19.0
+770,Montana,US-Flu\LUcompUncertLab-HWAR2,0.43063333333333337,12,19.0
+257,District of Columbia,US-Flu\UGA_flucast-OKeeffe,0.1896727272727273,11,19.0
+336,Hawaii,US-Flu\LUcompUncertLab-humanjudgment,0.3569625,8,19.0
+516,Kentucky,US-Flu\SGroup-RandomForest,0.37073636363636364,11,19.0
+977,North Carolina,US-Flu\LUcompUncertLab-KalmanFilter,0.3075636363636364,11,19.0
+1552,Wyoming,US-Flu\SigSci-TSENS,0.2642,12,19.0
+67,Arizona,US-Flu\LUcompUncertLab-HWAR2,0.3982333333333334,12,19.0
+964,New York,US-Flu\UVAFluX-Ensemble,0.602525,12,19.0
+895,New Jersey,US-Flu\PSI-DICE,0.3627833333333333,12,19.0
+335,Hawaii,US-Flu\LUcompUncertLab-hier_mech_model,0.34700000000000003,9,20.0
+154,Colorado,US-Flu\GT-FluFNP,0.534725,12,20.0
+1300,Texas,US-Flu\MOBS-GLEAM_FLUH,0.3126083333333333,12,20.0
+1326,United States,US-Flu\LUcompUncertLab-stacked_ili,0.3872,8,20.0
+362,Idaho,US-Flu\LUcompUncertLab-KalmanFilter,0.5757181818181818,11,20.0
+660,Michigan,US-Flu\MOBS-GLEAM_FLUH,0.54585,10,20.0
+1072,Oklahoma,US-Flu\MOBS-GLEAM_FLUH,0.4351583333333333,12,20.0
+392,Illinois,US-Flu\LUcompUncertLab-ensemble_rclp,0.38251111111111114,9,20.0
+1263,Tennessee,US-Flu\LUcompUncertLab-ensemble_rclp,0.3240777777777778,9,20.0
+225,Delaware,US-Flu\MOBS-GLEAM_FLUH,0.29321,10,20.0
+1346,Utah,US-Flu\Flusight-ensemble,0.6143583333333333,12,20.0
+427,Indiana,US-Flu\MOBS-GLEAM_FLUH,0.41468333333333335,12,20.0
+535,Louisiana,US-Flu\LUcompUncertLab-HWAR2,0.3022916666666667,12,20.0
+1161,Puerto Rico,US-Flu\UMass-gbq,-0.15502500000000002,4,20.0
+1132,Pennsylvania,US-Flu\MOBS-GLEAM_FLUH,0.4098583333333334,12,20.0
+508,Kentucky,US-Flu\LUcompUncertLab-ensemble_rclp,0.36441111111111113,9,20.0
+1453,Washington,US-Flu\LUcompUncertLab-HWAR2,0.415025,12,20.0
+1374,Vermont,US-Flu\Flusight-baseline,0.48675,12,20.0
+192,Connecticut,US-Flu\LUcompUncertLab-stacked_ili,0.4079875,8,20.0
+595,Maryland,US-Flu\LUcompUncertLab-ensemble_rclp,0.3489555555555556,9,20.0
+303,Georgia,US-Flu\LUcompUncertLab-HWAR2,0.24790833333333331,12,20.0
+262,District of Columbia,US-Flu\VTSanghani-ExogModel,0.08961818181818183,11,20.0
+472,Kansas,US-Flu\Flusight-baseline,0.37805833333333333,12,20.0
+456,Iowa,US-Flu\MOBS-GLEAM_FLUH,0.5578666666666666,12,20.0
+565,Maine,US-Flu\LUcompUncertLab-KalmanFilter,0.6116727272727273,11,20.0
+1098,Oregon,US-Flu\LUcompUncertLab-stacked_ili,0.4781625,8,20.0
+1234,South Dakota,US-Flu\LUcompUncertLab-ensemble_rclp,0.3585111111111111,9,20.0
+1426,Virginia,US-Flu\LUcompUncertLab-ensemble_rclp,0.30381111111111114,9,20.0
+291,Florida,US-Flu\UVAFluX-Ensemble,0.15839166666666665,12,20.0
+624,Massachusetts,US-Flu\LUcompUncertLab-KalmanFilter,0.6169090909090909,11,20.0
+1203,South Carolina,US-Flu\LUcompUncertLab-HWAR2,0.055291666666666676,12,20.0
+1181,Rhode Island,US-Flu\MIGHTE-Nsemble,0.5463636363636364,11,20.0
+888,New Jersey,US-Flu\LUcompUncertLab-ensemble_rclp,0.362,9,20.0
+81,Arizona,US-Flu\UGA_flucast-OKeeffe,0.39794545454545455,11,20.0
+105,Arkansas,US-Flu\MOBS-GLEAM_FLUH,0.28373333333333334,12,20.0
+712,Mississippi,US-Flu\LUcompUncertLab-HWAR2,0.13745833333333332,12,20.0
+860,New Hampshire,US-Flu\LUcompUncertLab-hier_mech_model,0.53526,10,20.0
+1545,Wyoming,US-Flu\LUcompUncertLab-stacked_ili,0.26349999999999996,8,20.0
+1013,North Dakota,US-Flu\MOBS-GLEAM_FLUH,0.45560999999999996,10,20.0
+976,North Carolina,US-Flu\LUcompUncertLab-HWAR2,0.2632583333333333,12,20.0
+1035,Ohio,US-Flu\LUcompUncertLab-KalmanFilter,0.47360909090909087,11,20.0
+944,New York,US-Flu\JHU_IDD-CovidSP,0.5225111111111111,9,20.0
+125,California,US-Flu\JHU_IDD-CovidSP,0.4881875,8,20.0
+784,Montana,US-Flu\UMass-gbq,0.34504999999999997,4,20.0
+1511,Wisconsin,US-Flu\LUcompUncertLab-HWAR2,0.48564999999999997,12,20.0
+837,Nevada,US-Flu\PSI-DICE,0.3667833333333333,12,20.0
+754,Missouri,US-Flu\UGA_flucast-OKeeffe,0.4183818181818182,11,20.0
+1491,West Virginia,US-Flu\PSI-DICE,0.33324166666666666,12,20.0
+36,Alaska,US-Flu\ISU_NiemiLab-Flu,0.14041111111111113,9,20.0
+682,Minnesota,US-Flu\LUcompUncertLab-HWAR2,0.2993416666666667,12,20.0
+794,Nebraska,US-Flu\Flusight-baseline,0.49761666666666665,12,20.0
+925,New Mexico,US-Flu\PSI-DICE,0.439025,12,20.0
+3,Alabama,US-Flu\CU-ensemble,0.0417090909090909,11,20.0
+1341,Utah,US-Flu\CEID-Walk,0.591025,4,21.0
+184,Connecticut,US-Flu\GT-FluFNP,0.40693333333333337,12,21.0
+601,Maryland,US-Flu\MOBS-GLEAM_FLUH,0.3174333333333333,12,21.0
+231,Delaware,US-Flu\UMass-gbq,0.232925,4,21.0
+1477,West Virginia,US-Flu\Flusight-baseline,0.33255,12,21.0
+41,Alaska,US-Flu\LUcompUncertLab-hier_mech_model,0.1401888888888889,9,21.0
+1379,Vermont,US-Flu\LUcompUncertLab-HWAR2,0.485725,12,21.0
+561,Maine,US-Flu\GT-FluFNP,0.55375,12,21.0
+1269,Tennessee,US-Flu\MOBS-GLEAM_FLUH,0.29183333333333333,12,21.0
+68,Arizona,US-Flu\LUcompUncertLab-KalmanFilter,0.3915818181818182,11,21.0
+311,Georgia,US-Flu\MOBS-GLEAM_FLUH,0.24375,12,21.0
+1120,Pennsylvania,US-Flu\GT-FluFNP,0.40548333333333336,12,21.0
+1150,Puerto Rico,US-Flu\ISU_NiemiLab-Flu,-0.2554444444444444,9,21.0
+886,New Jersey,US-Flu\LUcompUncertLab-HWAR2,0.361475,12,21.0
+1334,United States,US-Flu\UGA_flucast-OKeeffe,0.3792454545454545,11,21.0
+823,Nevada,US-Flu\Flusight-baseline,0.365875,12,21.0
+1424,Virginia,US-Flu\LUcompUncertLab-HWAR2,0.269325,12,21.0
+985,North Carolina,US-Flu\PSI-DICE,0.26216666666666666,12,21.0
+1003,North Dakota,US-Flu\ISU_NiemiLab-Flu,0.43192222222222226,9,21.0
+543,Louisiana,US-Flu\MOBS-GLEAM_FLUH,0.3015833333333333,12,21.0
+738,Missouri,US-Flu\GT-FluFNP,0.4101916666666667,12,21.0
+761,Montana,US-Flu\CEID-Walk,0.30935,4,21.0
+94,Arkansas,US-Flu\GT-FluFNP,0.28134166666666666,12,21.0
+416,Indiana,US-Flu\GT-FluFNP,0.4116916666666666,12,21.0
+720,Mississippi,US-Flu\MOBS-GLEAM_FLUH,0.1291,12,21.0
+910,New Mexico,US-Flu\Flusight-baseline,0.43812500000000004,12,21.0
+167,Colorado,US-Flu\PSI-DICE,0.5342833333333333,12,21.0
+1240,South Dakota,US-Flu\MOBS-GLEAM_FLUH,0.35027272727272724,11,21.0
+1102,Oregon,US-Flu\NIH-Flu_ARIMA,0.4722222222222222,9,21.0
+461,Iowa,US-Flu\UGA_flucast-OKeeffe,0.5576090909090909,11,21.0
+1185,Rhode Island,US-Flu\SigSci-CREG,0.44954999999999995,12,21.0
+1211,South Carolina,US-Flu\MOBS-GLEAM_FLUH,0.050883333333333336,12,21.0
+1508,Wisconsin,US-Flu\GT-FluFNP,0.46881666666666666,12,21.0
+1310,Texas,US-Flu\VTSanghani-ExogModel,0.30600909090909095,11,21.0
+334,Hawaii,US-Flu\LUcompUncertLab-ensemble_rclp,0.31089999999999995,9,21.0
+655,Michigan,US-Flu\LUcompUncertLab-hier_mech_model,0.51505,10,21.0
+269,Florida,US-Flu\Flusight-ensemble,0.13305000000000003,12,21.0
+482,Kansas,US-Flu\LUcompUncertLab-stacked_ili,0.3777375,8,21.0
+1061,Oklahoma,US-Flu\GT-FluFNP,0.43369166666666664,12,21.0
+799,Nebraska,US-Flu\LUcompUncertLab-HWAR2,0.495175,12,21.0
+956,New York,US-Flu\PSI-DICE,0.48905,12,21.0
+138,California,US-Flu\SGroup-RandomForest,0.4229545454545454,11,21.0
+1458,Washington,US-Flu\LUcompUncertLab-stacked_ili,0.39721249999999997,8,21.0
+692,Minnesota,US-Flu\PSI-DICE,0.288725,12,21.0
+249,District of Columbia,US-Flu\LUcompUncertLab-hier_mech_model,0.034922222222222216,9,21.0
+1551,Wyoming,US-Flu\SigSci-CREG,0.17561666666666667,12,21.0
+390,Illinois,US-Flu\LUcompUncertLab-HWAR2,0.37756666666666666,12,21.0
+370,Idaho,US-Flu\PSI-DICE,0.5142916666666667,12,21.0
+1031,Ohio,US-Flu\GT-FluFNP,0.431025,12,21.0
+866,New Hampshire,US-Flu\PSI-DICE,0.5315666666666666,12,21.0
+9,Alabama,US-Flu\LUcompUncertLab-HWAR2,0.0038416666666666755,12,21.0
+506,Kentucky,US-Flu\LUcompUncertLab-HWAR2,0.3484833333333333,12,21.0
+625,Massachusetts,US-Flu\LUcompUncertLab-ensemble_rclp,0.6058888888888889,9,21.0
+50,Alaska,US-Flu\SigSci-TSENS,0.1298777777777778,9,22.0
+1353,Utah,US-Flu\LUcompUncertLab-hier_mech_model,0.57943,10,22.0
+1377,Vermont,US-Flu\ISU_NiemiLab-Flu,0.4832555555555556,9,22.0
+973,North Carolina,US-Flu\GT-FluFNP,0.26200833333333334,12,22.0
+515,Kentucky,US-Flu\PSI-DICE,0.34144166666666664,12,22.0
+267,Florida,US-Flu\CU-ensemble,0.04697272727272727,11,22.0
+778,Montana,US-Flu\MOBS-GLEAM_FLUH,0.2792444444444444,9,22.0
+544,Louisiana,US-Flu\PSI-DICE,0.3005583333333333,12,22.0
+812,Nebraska,US-Flu\UGA_flucast-OKeeffe,0.4786363636363636,11,22.0
+1177,Rhode Island,US-Flu\LUcompUncertLab-hier_mech_model,0.4356111111111111,9,22.0
+828,Nevada,US-Flu\LUcompUncertLab-HWAR2,0.355875,12,22.0
+1520,Wisconsin,US-Flu\PSI-DICE,0.4681583333333333,12,22.0
+457,Iowa,US-Flu\PSI-DICE,0.5564916666666667,12,22.0
+428,Indiana,US-Flu\PSI-DICE,0.41124166666666667,12,22.0
+1230,South Dakota,US-Flu\ISU_NiemiLab-Flu,0.2712,9,22.0
+940,New York,US-Flu\Flusight-baseline,0.4847083333333333,12,22.0
+244,District of Columbia,US-Flu\ISU_NiemiLab-Flu,0.03332222222222222,9,22.0
+64,Arizona,US-Flu\GT-FluFNP,0.36167499999999997,12,22.0
+1455,Washington,US-Flu\LUcompUncertLab-ensemble_rclp,0.3927333333333334,9,22.0
+197,Connecticut,US-Flu\PSI-DICE,0.4060166666666667,12,22.0
+106,Arkansas,US-Flu\PSI-DICE,0.281225,12,22.0
+1019,North Dakota,US-Flu\UMass-gbq,0.43069999999999997,4,22.0
+1271,Tennessee,US-Flu\PSI-DICE,0.2890833333333333,12,22.0
+313,Georgia,US-Flu\PSI-DICE,0.24244166666666667,12,22.0
+620,Massachusetts,US-Flu\GT-FluFNP,0.558275,12,22.0
+1093,Oregon,US-Flu\LUcompUncertLab-HWAR2,0.4612,12,22.0
+1433,Virginia,US-Flu\PSI-DICE,0.26747499999999996,12,22.0
+1288,Texas,US-Flu\GT-FluFNP,0.30444166666666667,12,22.0
+852,New Hampshire,US-Flu\Flusight-baseline,0.5313,12,22.0
+152,Colorado,US-Flu\Flusight-baseline,0.5332083333333334,12,22.0
+1073,Oklahoma,US-Flu\PSI-DICE,0.4315333333333333,12,22.0
+1044,Ohio,US-Flu\PSI-DICE,0.43074999999999997,12,22.0
+881,New Jersey,US-Flu\Flusight-baseline,0.36083333333333334,12,22.0
+128,California,US-Flu\LUcompUncertLab-ensemble_rclp,0.41206666666666664,9,22.0
+679,Minnesota,US-Flu\GT-FluFNP,0.28841666666666665,12,22.0
+344,Hawaii,US-Flu\SigSci-TSENS,0.2707,12,22.0
+665,Michigan,US-Flu\SigSci-TSENS,0.49733636363636363,11,22.0
+356,Idaho,US-Flu\Flusight-baseline,0.5139416666666666,12,22.0
+915,New Mexico,US-Flu\LUcompUncertLab-HWAR2,0.43768333333333337,12,22.0
+1200,South Carolina,US-Flu\GT-FluFNP,0.04975000000000001,12,22.0
+1482,West Virginia,US-Flu\LUcompUncertLab-HWAR2,0.3300666666666667,12,22.0
+17,Alabama,US-Flu\MOBS-GLEAM_FLUH,0.0011083333333333344,12,22.0
+1329,United States,US-Flu\MOBS-GLEAM_FLUH,0.37555,12,22.0
+1133,Pennsylvania,US-Flu\PSI-DICE,0.40420833333333334,12,22.0
+215,Delaware,US-Flu\ISU_NiemiLab-Flu,0.21618888888888887,9,22.0
+1543,Wyoming,US-Flu\LUcompUncertLab-hier_mech_model,0.17425000000000002,10,22.0
+573,Maine,US-Flu\PSI-DICE,0.5532666666666667,12,22.0
+477,Kansas,US-Flu\LUcompUncertLab-HWAR2,0.37743333333333334,12,22.0
+750,Missouri,US-Flu\PSI-DICE,0.40834166666666666,12,22.0
+590,Maryland,US-Flu\GT-FluFNP,0.316025,12,22.0
+395,Illinois,US-Flu\LUcompUncertLab-stacked_ili,0.355125,8,22.0
+721,Mississippi,US-Flu\PSI-DICE,0.12768333333333334,12,22.0
+891,New Jersey,US-Flu\LUcompUncertLab-stacked_ili,0.3328375,8,23.0
+801,Nebraska,US-Flu\LUcompUncertLab-ensemble_rclp,0.43856666666666666,9,23.0
+343,Hawaii,US-Flu\SigSci-CREG,0.2657333333333333,12,23.0
+264,Florida,US-Flu\CEID-Walk,-0.05812500000000001,4,23.0
+414,Indiana,US-Flu\Flusight-baseline,0.4086,12,23.0
+1301,Texas,US-Flu\PSI-DICE,0.3031,12,23.0
+1246,South Dakota,US-Flu\UMass-gbq,0.27095,4,23.0
+1212,South Carolina,US-Flu\PSI-DICE,0.049658333333333325,12,23.0
+361,Idaho,US-Flu\LUcompUncertLab-HWAR2,0.5091166666666667,12,23.0
+873,New Hampshire,US-Flu\UNC_IDD-InfluPaint,0.5311571428571429,7,23.0
+54,Alaska,US-Flu\UNC_IDD-InfluPaint,0.1057,7,23.0
+1258,Tennessee,US-Flu\GT-FluFNP,0.2887166666666667,12,23.0
+1348,Utah,US-Flu\ISU_NiemiLab-Flu,0.5417777777777778,9,23.0
+1318,United States,US-Flu\GT-FluFNP,0.3716333333333333,12,23.0
+387,Illinois,US-Flu\GT-FluFNP,0.34698333333333337,12,23.0
+298,Georgia,US-Flu\Flusight-baseline,0.24187499999999998,12,23.0
+443,Iowa,US-Flu\Flusight-baseline,0.5558416666666667,12,23.0
+917,New Mexico,US-Flu\LUcompUncertLab-ensemble_rclp,0.4101444444444444,9,23.0
+6,Alabama,US-Flu\GT-FluFNP,-0.0027333333333333337,12,23.0
+833,Nevada,US-Flu\LUcompUncertLab-stacked_ili,0.35316250000000005,8,23.0
+130,California,US-Flu\LUcompUncertLab-hier_mech_model,0.40852000000000005,10,23.0
+958,New York,US-Flu\SigSci-CREG,0.433425,8,23.0
+1391,Vermont,US-Flu\SigSci-TSENS,0.4818,12,23.0
+228,Delaware,US-Flu\SigSci-CREG,0.20083636363636365,11,23.0
+559,Maine,US-Flu\Flusight-baseline,0.5531083333333333,12,23.0
+92,Arkansas,US-Flu\Flusight-baseline,0.28010833333333335,12,23.0
+736,Missouri,US-Flu\Flusight-baseline,0.40679166666666666,12,23.0
+1487,West Virginia,US-Flu\LUcompUncertLab-stacked_ili,0.31675,8,23.0
+1118,Pennsylvania,US-Flu\Flusight-baseline,0.4013083333333333,12,23.0
+182,Connecticut,US-Flu\Flusight-baseline,0.40513333333333335,12,23.0
+603,Maryland,US-Flu\PSI-DICE,0.31599166666666667,12,23.0
+69,Arizona,US-Flu\LUcompUncertLab-ensemble_rclp,0.3607,9,23.0
+1421,Virginia,US-Flu\GT-FluFNP,0.2665166666666667,12,23.0
+709,Mississippi,US-Flu\GT-FluFNP,0.12703333333333333,12,23.0
+1029,Ohio,US-Flu\Flusight-baseline,0.427975,12,23.0
+1090,Oregon,US-Flu\GT-FluFNP,0.44439999999999996,12,23.0
+632,Massachusetts,US-Flu\PSI-DICE,0.5568916666666667,12,23.0
+157,Colorado,US-Flu\LUcompUncertLab-HWAR2,0.5184083333333334,12,23.0
+651,Michigan,US-Flu\JHU_IDD-CovidSP,0.4909,9,23.0
+677,Minnesota,US-Flu\Flusight-baseline,0.28733333333333333,12,23.0
+1059,Oklahoma,US-Flu\Flusight-baseline,0.4298166666666667,12,23.0
+1450,Washington,US-Flu\GT-FluFNP,0.38695833333333335,12,23.0
+1020,North Dakota,US-Flu\UMass-trends_ensemble,0.43054166666666666,12,23.0
+532,Louisiana,US-Flu\GT-FluFNP,0.3003,12,23.0
+503,Kentucky,US-Flu\GT-FluFNP,0.34124166666666667,12,23.0
+1506,Wisconsin,US-Flu\Flusight-baseline,0.4671166666666666,12,23.0
+479,Kansas,US-Flu\LUcompUncertLab-ensemble_rclp,0.3399,9,23.0
+773,Montana,US-Flu\LUcompUncertLab-hier_mech_model,0.27318888888888887,9,23.0
+971,North Carolina,US-Flu\Flusight-baseline,0.2602333333333333,12,23.0
+1558,Wyoming,US-Flu\VTSanghani-ExogModel,0.16985454545454545,11,23.0
+250,District of Columbia,US-Flu\LUcompUncertLab-humanjudgment,-0.03748749999999999,8,23.0
+1172,Rhode Island,US-Flu\ISU_NiemiLab-Flu,0.43318888888888885,9,23.0
+857,New Hampshire,US-Flu\LUcompUncertLab-HWAR2,0.5288166666666667,12,24.0
+707,Mississippi,US-Flu\Flusight-baseline,0.12658333333333335,12,24.0
+489,Kansas,US-Flu\SigSci-TSENS,0.33264999999999995,12,24.0
+49,Alaska,US-Flu\SigSci-CREG,0.09672499999999999,12,24.0
+1103,Oregon,US-Flu\PSI-DICE,0.44354166666666667,12,24.0
+1419,Virginia,US-Flu\Flusight-baseline,0.26555833333333334,12,24.0
+448,Iowa,US-Flu\LUcompUncertLab-HWAR2,0.5462916666666667,12,24.0
+187,Connecticut,US-Flu\LUcompUncertLab-HWAR2,0.39539166666666664,12,24.0
+618,Massachusetts,US-Flu\Flusight-baseline,0.555675,12,24.0
+802,Nebraska,US-Flu\LUcompUncertLab-hier_mech_model,0.43621999999999994,10,24.0
+260,District of Columbia,US-Flu\UNC_IDD-InfluPaint,-0.04664285714285714,7,24.0
+701,Minnesota,US-Flu\VTSanghani-ExogModel,0.27637272727272727,11,24.0
+899,New Jersey,US-Flu\UGA_flucast-OKeeffe,0.29377272727272724,11,24.0
+330,Hawaii,US-Flu\ISU_NiemiLab-Flu,0.2561111111111111,9,24.0
+1286,Texas,US-Flu\Flusight-baseline,0.2974333333333333,12,24.0
+363,Idaho,US-Flu\LUcompUncertLab-ensemble_rclp,0.4605222222222223,9,24.0
+1077,Oklahoma,US-Flu\UGA_flucast-OKeeffe,0.4182272727272727,11,24.0
+646,Michigan,US-Flu\CU-ensemble,0.4814,11,24.0
+1042,Ohio,US-Flu\MOBS-GLEAM_FLUH,0.38896363636363634,11,24.0
+148,Colorado,US-Flu\CEID-Walk,0.501575,4,24.0
+1462,Washington,US-Flu\PSI-DICE,0.38611666666666666,12,24.0
+1361,Utah,US-Flu\SigSci-CREG,0.51845,12,24.0
+141,California,US-Flu\UGA_flucast-OKeeffe,0.37631818181818183,11,24.0
+1198,South Carolina,US-Flu\Flusight-baseline,0.04857500000000001,12,24.0
+501,Kentucky,US-Flu\Flusight-baseline,0.339075,12,24.0
+593,Maryland,US-Flu\LUcompUncertLab-HWAR2,0.31570000000000004,12,24.0
+1330,United States,US-Flu\PSI-DICE,0.3706583333333333,12,24.0
+1484,West Virginia,US-Flu\LUcompUncertLab-ensemble_rclp,0.3119,9,24.0
+530,Louisiana,US-Flu\Flusight-baseline,0.29975833333333335,12,24.0
+768,Montana,US-Flu\ISU_NiemiLab-Flu,0.2702,9,24.0
+77,Arizona,US-Flu\PSI-DICE,0.3605,12,24.0
+936,New York,US-Flu\CEID-Walk,0.412875,4,24.0
+233,Delaware,US-Flu\UNC_IDD-InfluPaint,0.17774285714285715,7,24.0
+986,North Carolina,US-Flu\SGroup-RandomForest,0.25178181818181816,11,24.0
+830,Nevada,US-Flu\LUcompUncertLab-ensemble_rclp,0.3509333333333333,9,24.0
+929,New Mexico,US-Flu\UGA_flucast-OKeeffe,0.3572181818181818,11,24.0
+286,Florida,US-Flu\SigSci-TSENS,-0.12419999999999998,12,24.0
+564,Maine,US-Flu\LUcompUncertLab-HWAR2,0.5453333333333333,12,24.0
+1394,Vermont,US-Flu\UMass-trends_ensemble,0.480475,12,24.0
+749,Missouri,US-Flu\MOBS-GLEAM_FLUH,0.36308181818181817,11,24.0
+421,Indiana,US-Flu\LUcompUncertLab-ensemble_rclp,0.4033777777777778,9,24.0
+18,Alabama,US-Flu\PSI-DICE,-0.002791666666666668,12,24.0
+1178,Rhode Island,US-Flu\LUcompUncertLab-humanjudgment,0.39208750000000003,8,24.0
+996,North Dakota,US-Flu\CEID-Walk,0.41375,4,24.0
+1256,Tennessee,US-Flu\Flusight-baseline,0.28739166666666666,12,24.0
+1538,Wyoming,US-Flu\ISU_NiemiLab-Flu,0.07345555555555555,9,24.0
+300,Georgia,US-Flu\GT-FluFNP,0.24158333333333334,12,24.0
+1125,Pennsylvania,US-Flu\LUcompUncertLab-ensemble_rclp,0.3976222222222222,9,24.0
+1524,Wisconsin,US-Flu\UGA_flucast-OKeeffe,0.46509090909090905,11,24.0
+97,Arkansas,US-Flu\LUcompUncertLab-HWAR2,0.27725,12,24.0
+1248,South Dakota,US-Flu\UNC_IDD-InfluPaint,0.2432857142857143,7,24.0
+399,Illinois,US-Flu\PSI-DICE,0.34628333333333333,12,24.0
+1500,West Virginia,US-Flu\VTSanghani-ExogModel,0.28559090909090906,11,25.0
+1448,Washington,US-Flu\Flusight-baseline,0.384175,12,25.0
+287,Florida,US-Flu\UGA_flucast-OKeeffe,-0.15613636363636363,11,25.0
+1556,Wyoming,US-Flu\UNC_IDD-InfluPaint,0.030485714285714283,7,25.0
+4,Alabama,US-Flu\Flusight-baseline,-0.0045250000000000064,12,25.0
+308,Georgia,US-Flu\LUcompUncertLab-stacked_ili,0.182375,8,25.0
+1366,Utah,US-Flu\UNC_IDD-InfluPaint,0.4573,7,25.0
+221,Delaware,US-Flu\LUcompUncertLab-humanjudgment,0.1534875,8,25.0
+62,Arizona,US-Flu\Flusight-baseline,0.358825,12,25.0
+1383,Vermont,US-Flu\LUcompUncertLab-humanjudgment,0.45445,8,25.0
+1513,Wisconsin,US-Flu\LUcompUncertLab-ensemble_rclp,0.4318777777777778,9,25.0
+1316,United States,US-Flu\Flusight-baseline,0.3682833333333333,12,25.0
+189,Connecticut,US-Flu\LUcompUncertLab-ensemble_rclp,0.32706666666666667,9,25.0
+165,Colorado,US-Flu\MOBS-GLEAM_FLUH,0.47866,10,25.0
+1429,Virginia,US-Flu\LUcompUncertLab-stacked_ili,0.22924999999999998,8,25.0
+102,Arkansas,US-Flu\LUcompUncertLab-stacked_ili,0.2380875,8,25.0
+258,District of Columbia,US-Flu\UMass-gbq,-0.16194999999999998,4,25.0
+42,Alaska,US-Flu\LUcompUncertLab-humanjudgment,0.0586125,8,25.0
+123,California,US-Flu\GT-FluFNP,0.31148333333333333,12,25.0
+1223,South Dakota,US-Flu\CEID-Walk,0.24309999999999998,4,25.0
+1205,South Carolina,US-Flu\LUcompUncertLab-ensemble_rclp,0.013344444444444456,9,25.0
+452,Iowa,US-Flu\LUcompUncertLab-humanjudgment,0.510025,8,25.0
+485,Kansas,US-Flu\MOBS-GLEAM_FLUH,0.26528,10,25.0
+1066,Oklahoma,US-Flu\LUcompUncertLab-ensemble_rclp,0.37235555555555555,9,25.0
+567,Maine,US-Flu\LUcompUncertLab-hier_mech_model,0.44414444444444445,9,25.0
+978,North Carolina,US-Flu\LUcompUncertLab-ensemble_rclp,0.2429444444444444,9,25.0
+1017,North Dakota,US-Flu\SigSci-TSENS,0.383,12,25.0
+1136,Pennsylvania,US-Flu\SigSci-TSENS,0.3503909090909091,11,25.0
+1261,Tennessee,US-Flu\LUcompUncertLab-HWAR2,0.28420833333333334,12,25.0
+432,Indiana,US-Flu\UGA_flucast-OKeeffe,0.31334545454545454,11,25.0
+684,Minnesota,US-Flu\LUcompUncertLab-ensemble_rclp,0.2691777777777778,9,25.0
+807,Nebraska,US-Flu\MOBS-GLEAM_FLUH,0.41367000000000004,10,25.0
+540,Louisiana,US-Flu\LUcompUncertLab-stacked_ili,0.29328750000000003,8,25.0
+1165,Rhode Island,US-Flu\CEID-Walk,0.375775,4,25.0
+786,Montana,US-Flu\UNC_IDD-InfluPaint,0.26807142857142857,7,25.0
+511,Kentucky,US-Flu\LUcompUncertLab-stacked_ili,0.32789999999999997,8,25.0
+1036,Ohio,US-Flu\LUcompUncertLab-ensemble_rclp,0.3806555555555555,9,25.0
+385,Illinois,US-Flu\Flusight-baseline,0.3435333333333333,12,25.0
+643,Michigan,US-Flu\CEID-Walk,0.37845,4,25.0
+751,Missouri,US-Flu\SGroup-RandomForest,0.3411181818181818,11,25.0
+350,Hawaii,US-Flu\VTSanghani-ExogModel,0.2396727272727273,11,25.0
+1297,Texas,US-Flu\LUcompUncertLab-stacked_ili,0.2866,8,25.0
+588,Maryland,US-Flu\Flusight-baseline,0.31504166666666666,12,25.0
+896,New Jersey,US-Flu\SGroup-RandomForest,0.2544272727272727,11,25.0
+626,Massachusetts,US-Flu\LUcompUncertLab-hier_mech_model,0.48059,10,25.0
+836,Nevada,US-Flu\MOBS-GLEAM_FLUH,0.3124636363636364,11,25.0
+1088,Oregon,US-Flu\Flusight-baseline,0.4420583333333334,12,25.0
+364,Idaho,US-Flu\LUcompUncertLab-hier_mech_model,0.41989,10,25.0
+723,Mississippi,US-Flu\SigSci-CREG,0.1056818181818182,11,25.0
+861,New Hampshire,US-Flu\LUcompUncertLab-humanjudgment,0.5109625,8,25.0
+918,New Mexico,US-Flu\LUcompUncertLab-hier_mech_model,0.32755999999999996,10,25.0
+959,New York,US-Flu\SigSci-TSENS,0.40845000000000004,10,25.0
+1009,North Dakota,US-Flu\LUcompUncertLab-humanjudgment,0.3809,8,26.0
+480,Kansas,US-Flu\LUcompUncertLab-hier_mech_model,0.2598,10,26.0
+717,Mississippi,US-Flu\LUcompUncertLab-stacked_ili,0.029049999999999992,8,26.0
+514,Kentucky,US-Flu\MOBS-GLEAM_FLUH,0.2892090909090909,11,26.0
+100,Arkansas,US-Flu\LUcompUncertLab-hier_mech_model,0.14277,10,26.0
+1182,Rhode Island,US-Flu\MOBS-GLEAM_FLUH,0.3696875,8,26.0
+547,Louisiana,US-Flu\SigSci-TSENS,0.2661833333333333,12,26.0
+1037,Ohio,US-Flu\LUcompUncertLab-hier_mech_model,0.30629999999999996,10,26.0
+598,Maryland,US-Flu\LUcompUncertLab-stacked_ili,0.29365,8,26.0
+1095,Oregon,US-Flu\LUcompUncertLab-ensemble_rclp,0.3314666666666667,9,26.0
+631,Massachusetts,US-Flu\MOBS-GLEAM_FLUH,0.4518888888888889,9,26.0
+195,Connecticut,US-Flu\MOBS-GLEAM_FLUH,0.29906,10,26.0
+582,Maine,US-Flu\VTSanghani-ExogModel,0.42012727272727274,11,26.0
+160,Colorado,US-Flu\LUcompUncertLab-hier_mech_model,0.47587999999999997,10,26.0
+1137,Pennsylvania,US-Flu\UGA_flucast-OKeeffe,0.3006272727272727,11,26.0
+1067,Oklahoma,US-Flu\LUcompUncertLab-hier_mech_model,0.31171,10,26.0
+664,Michigan,US-Flu\SigSci-CREG,0.369525,8,26.0
+1395,Vermont,US-Flu\UNC_IDD-InfluPaint,0.41224285714285713,7,26.0
+137,California,US-Flu\PSI-DICE,0.309825,12,26.0
+743,Missouri,US-Flu\LUcompUncertLab-ensemble_rclp,0.3274,9,26.0
+229,Delaware,US-Flu\SigSci-TSENS,0.09802499999999999,12,26.0
+1461,Washington,US-Flu\MOBS-GLEAM_FLUH,0.19086666666666666,9,26.0
+687,Minnesota,US-Flu\LUcompUncertLab-stacked_ili,0.2441375,8,26.0
+237,District of Columbia,US-Flu\CEID-Walk,-0.2089,4,26.0
+1362,Utah,US-Flu\SigSci-TSENS,0.4546666666666666,12,26.0
+1432,Virginia,US-Flu\MOBS-GLEAM_FLUH,0.20948181818181819,11,26.0
+398,Illinois,US-Flu\MOBS-GLEAM_FLUH,0.2945818181818182,11,26.0
+29,Alaska,US-Flu\CEID-Walk,0.028025,4,26.0
+1331,United States,US-Flu\SGroup-RandomForest,0.2940454545454545,11,26.0
+306,Georgia,US-Flu\LUcompUncertLab-hier_mech_model,0.11733,10,26.0
+924,New Mexico,US-Flu\NIH-Flu_ARIMA,0.30987777777777775,9,26.0
+803,Nebraska,US-Flu\LUcompUncertLab-humanjudgment,0.3633125,8,26.0
+12,Alabama,US-Flu\LUcompUncertLab-hier_mech_model,-0.09061,10,26.0
+954,New York,US-Flu\MOBS-GLEAM_FLUH,0.40761000000000003,10,26.0
+1514,Wisconsin,US-Flu\LUcompUncertLab-hier_mech_model,0.3646,10,26.0
+1236,South Dakota,US-Flu\LUcompUncertLab-humanjudgment,0.222125,8,26.0
+1544,Wyoming,US-Flu\LUcompUncertLab-humanjudgment,-0.0073750000000000066,8,26.0
+832,Nevada,US-Flu\LUcompUncertLab-humanjudgment,0.24348750000000002,8,26.0
+437,Indiana,US-Flu\VTSanghani-ExogModel,0.2847090909090909,11,26.0
+782,Montana,US-Flu\SigSci-TSENS,0.26658333333333334,12,26.0
+1266,Tennessee,US-Flu\LUcompUncertLab-stacked_ili,0.2497875,8,26.0
+869,New Hampshire,US-Flu\SigSci-TSENS,0.5035583333333333,12,26.0
+450,Iowa,US-Flu\LUcompUncertLab-ensemble_rclp,0.5018555555555556,9,26.0
+1206,South Carolina,US-Flu\LUcompUncertLab-hier_mech_model,-0.012070000000000003,10,26.0
+1293,Texas,US-Flu\LUcompUncertLab-ensemble_rclp,0.24815555555555557,9,26.0
+894,New Jersey,US-Flu\MOBS-GLEAM_FLUH,0.25015,10,26.0
+284,Florida,US-Flu\SGroup-RandomForest,-0.16261818181818183,11,26.0
+346,Hawaii,US-Flu\UMass-gbq,0.23585,4,26.0
+981,North Carolina,US-Flu\LUcompUncertLab-stacked_ili,0.2238875,8,26.0
+369,Idaho,US-Flu\MOBS-GLEAM_FLUH,0.36084444444444447,9,26.0
+76,Arizona,US-Flu\MOBS-GLEAM_FLUH,0.2426,10,26.0
+1492,West Virginia,US-Flu\SGroup-RandomForest,0.24593636363636365,11,26.0
+20,Alabama,US-Flu\SigSci-CREG,-0.14545999999999998,10,27.0
+348,Hawaii,US-Flu\UNC_IDD-InfluPaint,0.19045714285714282,7,27.0
+1074,Oklahoma,US-Flu\SGroup-RandomForest,0.2222090909090909,11,27.0
+919,New Mexico,US-Flu\LUcompUncertLab-humanjudgment,0.2308375,8,27.0
+1434,Virginia,US-Flu\SGroup-RandomForest,0.20343636363636364,11,27.0
+875,New Hampshire,US-Flu\VTSanghani-ExogModel,0.4778909090909091,11,27.0
+889,New Jersey,US-Flu\LUcompUncertLab-hier_mech_model,0.2259,10,27.0
+636,Massachusetts,US-Flu\UGA_flucast-OKeeffe,0.21757272727272728,11,27.0
+744,Missouri,US-Flu\LUcompUncertLab-hier_mech_model,0.27835,10,27.0
+1531,Wyoming,US-Flu\CEID-Walk,-0.14752500000000002,4,27.0
+1485,West Virginia,US-Flu\LUcompUncertLab-hier_mech_model,0.20322,10,27.0
+984,North Carolina,US-Flu\MOBS-GLEAM_FLUH,0.20498181818181818,11,27.0
+71,Arizona,US-Flu\LUcompUncertLab-hier_mech_model,0.22108999999999995,10,27.0
+715,Mississippi,US-Flu\LUcompUncertLab-hier_mech_model,0.012839999999999985,10,27.0
+101,Arkansas,US-Flu\LUcompUncertLab-humanjudgment,0.0646875,8,27.0
+1021,North Dakota,US-Flu\UNC_IDD-InfluPaint,0.37352857142857143,7,27.0
+774,Montana,US-Flu\LUcompUncertLab-humanjudgment,0.21353750000000002,8,27.0
+1471,Washington,US-Flu\VTSanghani-ExogModel,0.1779272727272727,11,27.0
+121,California,US-Flu\Flusight-baseline,0.30119999999999997,12,27.0
+56,Alaska,US-Flu\VTSanghani-ExogModel,-0.16948181818181818,11,27.0
+690,Minnesota,US-Flu\MOBS-GLEAM_FLUH,0.15439,10,27.0
+1519,Wisconsin,US-Flu\MOBS-GLEAM_FLUH,0.3063888888888889,9,27.0
+949,New York,US-Flu\LUcompUncertLab-hier_mech_model,0.3851,10,27.0
+811,Nebraska,US-Flu\SigSci-TSENS,0.24183333333333334,12,27.0
+1096,Oregon,US-Flu\LUcompUncertLab-hier_mech_model,0.31774,10,27.0
+1048,Ohio,US-Flu\UGA_flucast-OKeeffe,0.2455727272727273,11,27.0
+666,Michigan,US-Flu\UGA_flucast-OKeeffe,0.13731818181818184,11,27.0
+831,Nevada,US-Flu\LUcompUncertLab-hier_mech_model,0.23584,10,27.0
+168,Colorado,US-Flu\SGroup-RandomForest,0.3981818181818182,11,27.0
+1303,Texas,US-Flu\SigSci-CREG,0.23708888888888888,9,27.0
+263,District of Columbia,US-Flu\VTSanghani-Transformer,-0.53774,5,27.0
+422,Indiana,US-Flu\LUcompUncertLab-hier_mech_model,0.28367,10,27.0
+451,Iowa,US-Flu\LUcompUncertLab-hier_mech_model,0.48122,10,27.0
+1244,South Dakota,US-Flu\SigSci-TSENS,0.12810833333333332,12,27.0
+1339,United States,US-Flu\VTSanghani-ExogModel,0.2741090909090909,11,27.0
+408,Illinois,US-Flu\VTSanghani-ExogModel,0.292,11,27.0
+568,Maine,US-Flu\LUcompUncertLab-humanjudgment,0.41752500000000003,8,27.0
+1217,South Carolina,US-Flu\UMass-gbq,-0.0333,4,27.0
+208,Delaware,US-Flu\CEID-Walk,0.04337499999999998,4,27.0
+1272,Tennessee,US-Flu\SGroup-RandomForest,0.2150090909090909,11,27.0
+1364,Utah,US-Flu\UMass-gbq,0.41055,4,27.0
+538,Louisiana,US-Flu\LUcompUncertLab-hier_mech_model,0.17599,10,27.0
+1387,Vermont,US-Flu\MOBS-GLEAM_FLUH,0.323975,8,27.0
+481,Kansas,US-Flu\LUcompUncertLab-humanjudgment,0.197075,8,27.0
+1190,Rhode Island,US-Flu\UNC_IDD-InfluPaint,0.32152857142857144,7,27.0
+524,Kentucky,US-Flu\VTSanghani-ExogModel,0.2796636363636364,11,27.0
+365,Idaho,US-Flu\LUcompUncertLab-humanjudgment,0.3367875,8,27.0
+1127,Pennsylvania,US-Flu\LUcompUncertLab-hier_mech_model,0.26408,10,27.0
+315,Georgia,US-Flu\SigSci-CREG,0.10310909090909094,11,27.0
+292,Florida,US-Flu\VTSanghani-ExogModel,-0.18033636363636363,11,27.0
+596,Maryland,US-Flu\LUcompUncertLab-hier_mech_model,0.18721000000000002,10,27.0
+190,Connecticut,US-Flu\LUcompUncertLab-hier_mech_model,0.27888999999999997,10,27.0
+466,Iowa,US-Flu\VTSanghani-ExogModel,0.01779090909090909,11,28.0
+759,Missouri,US-Flu\VTSanghani-ExogModel,0.13419999999999999,11,28.0
+1208,South Carolina,US-Flu\LUcompUncertLab-stacked_ili,-0.0794875,8,28.0
+1368,Utah,US-Flu\VTSanghani-ExogModel,0.02041818181818184,11,28.0
+716,Mississippi,US-Flu\LUcompUncertLab-humanjudgment,-0.062000000000000006,8,28.0
+276,Florida,US-Flu\LUcompUncertLab-experthuman,-0.2464,4,28.0
+979,North Carolina,US-Flu\LUcompUncertLab-hier_mech_model,0.12452,10,28.0
+429,Indiana,US-Flu\SGroup-RandomForest,0.19122727272727272,11,28.0
+1188,Rhode Island,US-Flu\UMass-gbq,0.064125,4,28.0
+78,Arizona,US-Flu\SGroup-RandomForest,0.2047090909090909,11,28.0
+1486,West Virginia,US-Flu\LUcompUncertLab-humanjudgment,0.05642499999999999,8,28.0
+1250,South Dakota,US-Flu\VTSanghani-ExogModel,-0.09788181818181817,11,28.0
+957,New York,US-Flu\SGroup-RandomForest,0.1323181818181818,11,28.0
+351,Hawaii,US-Flu\VTSanghani-Transformer,-0.29356,5,28.0
+1295,Texas,US-Flu\LUcompUncertLab-hier_mech_model,0.14249,10,28.0
+1554,Wyoming,US-Flu\UMass-gbq,-0.209525,4,28.0
+865,New Hampshire,US-Flu\MOBS-GLEAM_FLUH,0.4217571428571429,7,28.0
+904,New Jersey,US-Flu\VTSanghani-ExogModel,0.21273636363636364,11,28.0
+846,Nevada,US-Flu\VTSanghani-ExogModel,0.1446909090909091,11,28.0
+14,Alabama,US-Flu\LUcompUncertLab-stacked_ili,-0.15995,8,28.0
+379,Idaho,US-Flu\VTSanghani-ExogModel,0.16112727272727276,11,28.0
+1324,United States,US-Flu\LUcompUncertLab-hier_mech_model,0.23664000000000002,10,28.0
+312,Georgia,US-Flu\NIH-Flu_ARIMA,0.01753333333333333,9,28.0
+393,Illinois,US-Flu\LUcompUncertLab-hier_mech_model,0.19281,10,28.0
+1264,Tennessee,US-Flu\LUcompUncertLab-hier_mech_model,0.15095,10,28.0
+1529,Wisconsin,US-Flu\VTSanghani-ExogModel,0.1646090909090909,11,28.0
+934,New Mexico,US-Flu\VTSanghani-ExogModel,0.16725454545454546,11,28.0
+817,Nebraska,US-Flu\VTSanghani-ExogModel,0.06619999999999998,11,28.0
+52,Alaska,US-Flu\UMass-gbq,-0.18922499999999998,4,28.0
+495,Kansas,US-Flu\VTSanghani-ExogModel,0.08598181818181816,11,28.0
+788,Montana,US-Flu\VTSanghani-ExogModel,0.12111818181818182,11,28.0
+1023,North Dakota,US-Flu\VTSanghani-ExogModel,0.1916909090909091,11,28.0
+602,Maryland,US-Flu\NIH-Flu_ARIMA,0.1487777777777778,9,28.0
+663,Michigan,US-Flu\SGroup-RandomForest,0.10089999999999999,11,28.0
+146,California,US-Flu\VTSanghani-ExogModel,0.28276363636363633,11,28.0
+1134,Pennsylvania,US-Flu\SGroup-RandomForest,0.2353181818181818,11,28.0
+1393,Vermont,US-Flu\UMass-gbq,0.27537500000000004,4,28.0
+641,Massachusetts,US-Flu\VTSanghani-ExogModel,0.17232727272727275,11,28.0
+1082,Oklahoma,US-Flu\VTSanghani-ExogModel,0.1562,11,28.0
+1456,Washington,US-Flu\LUcompUncertLab-hier_mech_model,0.1550777777777778,9,28.0
+572,Maine,US-Flu\MOBS-GLEAM_FLUH,0.39311250000000003,8,28.0
+545,Louisiana,US-Flu\SGroup-RandomForest,0.06975454545454546,11,28.0
+685,Minnesota,US-Flu\LUcompUncertLab-hier_mech_model,0.15118,10,28.0
+196,Connecticut,US-Flu\NIH-Flu_ARIMA,0.24784444444444442,9,28.0
+1045,Ohio,US-Flu\SGroup-RandomForest,0.20710000000000003,11,28.0
+1427,Virginia,US-Flu\LUcompUncertLab-hier_mech_model,0.12811,10,28.0
+107,Arkansas,US-Flu\SGroup-RandomForest,-0.007236363636363632,11,28.0
+171,Colorado,US-Flu\UGA_flucast-OKeeffe,0.11672727272727274,11,28.0
+1101,Oregon,US-Flu\MOBS-GLEAM_FLUH,0.26951111111111115,9,28.0
+509,Kentucky,US-Flu\LUcompUncertLab-hier_mech_model,0.12088888888888889,9,28.0
+235,Delaware,US-Flu\VTSanghani-ExogModel,-0.05016363636363637,11,28.0
+1340,United States,US-Flu\VTSanghani-Transformer,-0.30552,5,29.0
+1398,Vermont,US-Flu\VTSanghani-Transformer,0.17009999999999997,5,29.0
+176,Colorado,US-Flu\VTSanghani-ExogModel,0.03328181818181819,11,29.0
+1251,South Dakota,US-Flu\VTSanghani-Transformer,-0.2999,5,29.0
+409,Illinois,US-Flu\VTSanghani-Transformer,-0.53372,5,29.0
+1443,Virginia,US-Flu\VTSanghani-Transformer,-0.33361999999999997,5,29.0
+876,New Hampshire,US-Flu\VTSanghani-Transformer,-0.03952,5,29.0
+818,Nebraska,US-Flu\VTSanghani-Transformer,-0.35259999999999997,5,29.0
+642,Massachusetts,US-Flu\VTSanghani-Transformer,-0.37732,5,29.0
+604,Maryland,US-Flu\SGroup-RandomForest,0.11625454545454547,11,29.0
+316,Georgia,US-Flu\SigSci-TSENS,-0.020075,12,29.0
+206,Connecticut,US-Flu\VTSanghani-ExogModel,0.1333181818181818,11,29.0
+1292,Texas,US-Flu\LUcompUncertLab-KalmanFilter,-0.2919727272727273,11,29.0
+926,New Mexico,US-Flu\SGroup-RandomForest,-0.06082727272727272,11,29.0
+1270,Tennessee,US-Flu\NIH-Flu_ARIMA,0.11790000000000002,9,29.0
+21,Alabama,US-Flu\SigSci-TSENS,-0.38881,10,29.0
+1112,Oregon,US-Flu\VTSanghani-ExogModel,0.15137272727272727,11,29.0
+57,Alaska,US-Flu\VTSanghani-Transformer,-0.5279,5,29.0
+380,Idaho,US-Flu\VTSanghani-Transformer,-0.5306200000000001,5,29.0
+905,New Jersey,US-Flu\VTSanghani-Transformer,-0.49116,5,29.0
+847,Nevada,US-Flu\VTSanghani-Transformer,-0.54948,5,29.0
+583,Maine,US-Flu\VTSanghani-Transformer,-0.31428,5,29.0
+1530,Wisconsin,US-Flu\VTSanghani-Transformer,-0.5302399999999999,5,29.0
+1083,Oklahoma,US-Flu\VTSanghani-Transformer,-0.50356,5,29.0
+1024,North Dakota,US-Flu\VTSanghani-Transformer,-0.36726000000000003,5,29.0
+140,California,US-Flu\SigSci-TSENS,0.2761222222222222,9,29.0
+86,Arizona,US-Flu\VTSanghani-ExogModel,0.18805454545454545,11,29.0
+1142,Pennsylvania,US-Flu\VTSanghani-ExogModel,0.21083636363636363,11,29.0
+467,Iowa,US-Flu\VTSanghani-Transformer,-0.15326,5,29.0
+995,North Carolina,US-Flu\VTSanghani-Transformer,-0.49022,5,29.0
+731,Mississippi,US-Flu\VTSanghani-Transformer,-0.08436000000000003,5,29.0
+1201,South Carolina,US-Flu\ISU_NiemiLab-Flu,-0.11131111111111111,9,29.0
+760,Missouri,US-Flu\VTSanghani-Transformer,-0.45985999999999994,5,29.0
+691,Minnesota,US-Flu\NIH-Flu_ARIMA,0.07119999999999999,9,29.0
+1369,Utah,US-Flu\VTSanghani-Transformer,-0.2599,5,29.0
+525,Kentucky,US-Flu\VTSanghani-Transformer,-0.52184,5,29.0
+1193,Rhode Island,US-Flu\VTSanghani-Transformer,-0.05886,5,29.0
+116,Arkansas,US-Flu\VTSanghani-Transformer,-0.46986,5,29.0
+496,Kansas,US-Flu\VTSanghani-Transformer,-0.44302,5,29.0
+1472,Washington,US-Flu\VTSanghani-Transformer,-0.59214,5,29.0
+236,Delaware,US-Flu\VTSanghani-Transformer,-0.5622199999999999,5,29.0
+554,Louisiana,US-Flu\VTSanghani-Transformer,-0.5126999999999999,5,29.0
+1559,Wyoming,US-Flu\VTSanghani-Transformer,-0.53894,5,29.0
+1501,West Virginia,US-Flu\VTSanghani-Transformer,-0.47374,5,29.0
+960,New York,US-Flu\UGA_flucast-OKeeffe,0.12637272727272728,11,29.0
+285,Florida,US-Flu\SigSci-CREG,-0.3426,5,29.0
+789,Montana,US-Flu\VTSanghani-Transformer,-0.38883999999999996,5,29.0
+438,Indiana,US-Flu\VTSanghani-Transformer,-0.5351,5,29.0
+671,Michigan,US-Flu\VTSanghani-ExogModel,-0.013581818181818169,11,29.0
+1053,Ohio,US-Flu\VTSanghani-ExogModel,0.0827909090909091,11,29.0
+1054,Ohio,US-Flu\VTSanghani-Transformer,-0.35316000000000003,5,30.0
+293,Florida,US-Flu\VTSanghani-Transformer,-0.5034799999999999,5,30.0
+702,Minnesota,US-Flu\VTSanghani-Transformer,-0.42622,5,30.0
+1311,Texas,US-Flu\VTSanghani-Transformer,-0.47824,5,30.0
+1143,Pennsylvania,US-Flu\VTSanghani-Transformer,-0.42485999999999996,5,30.0
+965,New York,US-Flu\VTSanghani-ExogModel,0.1138,11,30.0
+613,Maryland,US-Flu\VTSanghani-Transformer,-0.32254,5,30.0
+323,Georgia,US-Flu\VTSanghani-Transformer,-0.08553999999999999,5,30.0
+1113,Oregon,US-Flu\VTSanghani-Transformer,-0.22748,5,30.0
+1281,Tennessee,US-Flu\VTSanghani-Transformer,-0.24342000000000003,5,30.0
+935,New Mexico,US-Flu\VTSanghani-Transformer,-0.37888,5,30.0
+177,Colorado,US-Flu\VTSanghani-Transformer,-0.45874,5,30.0
+672,Michigan,US-Flu\VTSanghani-Transformer,-0.4457,5,30.0
+135,California,US-Flu\MOBS-GLEAM_FLUH,0.19027,10,30.0
+207,Connecticut,US-Flu\VTSanghani-Transformer,-0.37498,5,30.0
+87,Arizona,US-Flu\VTSanghani-Transformer,-0.54,5,30.0
+966,New York,US-Flu\VTSanghani-Transformer,-0.48319999999999996,5,31.0
+147,California,US-Flu\VTSanghani-Transformer,-0.30389999999999995,5,31.0

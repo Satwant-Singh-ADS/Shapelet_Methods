@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*-
 """
 Created on Fri Aug 26 22:47:13 2022
@@ -72,6 +73,6 @@ for state in state_lst:
     plt.setp(axs.get_xticklabels(), rotation=30, horizontalalignment='right')
     if export_visualizations:
     
-        plt.savefig(Visualization_path+"Agrrement_score_Paper_"+state+".png")
+        plt.savefig(Visualization_path+"Agreement_score_Paper_"+state+".png")
     else:
         plt.show()

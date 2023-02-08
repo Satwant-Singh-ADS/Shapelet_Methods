@@ -24,17 +24,21 @@ cases = cases.replace(impute)
 
 
 #%%
+
 N = 397
 t = 'Sep 1 2021'
+
 format = '%b %d %Y'
 now = datetime.strptime(t,format)
 after = now + timedelta(days = N)
 print(now)
 print(after)
 
+
 cases_for_use = cases.iloc[:,N:]
 cases_for_slope_thres = cases.iloc[:,(N%7):N].T
 start = N
+
 days = [i for i in range(start,start+cases_for_use.shape[1])]
 cases_for_use.columns = days
 weekly_cases = pd.DataFrame()
@@ -79,7 +83,9 @@ state_wise_running_averages = []
 for state in range(len(states_list)):
     vector = data_array[state]
     running_average = [0]*len(vector)
+
     xx = pd.DataFrame(vector).rolling(window= 3, min_periods=1, center=True).mean()
+
     running_average = xx[0].tolist()
     
     state_wise_running_averages.append(running_average)

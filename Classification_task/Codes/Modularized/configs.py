@@ -1,7 +1,7 @@
 from imports import *
 
 Runtype = "Flu"#### 2 values Cases and Deaths. choose Deaths for generating results for deaths and Cases for generating case results
-qualifying_threshold = 10
+qualifying_threshold = 0
 ### basically not all models should be part of the analysis. we want to use only those models which made submissions beyond a certain number of weeks. Currently set to 60 weeks. you can change that 
 Evaluation_files_github ='../../Data_Sources/Evaluation/'
 if Runtype =='Cases':
@@ -84,6 +84,7 @@ shapelet_standard_array = [[0]*Shapelet_length for w in range(Number_of_shapelet
 #shapelet_standard_names = ["Flat","Inc",'Dec',"Surge",'Past Peak',"Near Peak"]
 shapelet_standard_names = ["Flat","Inc",'Dec',"Peak"]
 
+
 assert len(shapelet_standard_names)==Number_of_shapelets, 'Size of array mismatch for shapelet_standard_names and value of  Number_of_shapelets'
 
 
@@ -101,6 +102,7 @@ shapelet_standard_array[2] = [4,3,2,1]
 
 # shapelet_standard_array[3] = [exp(-2), exp(0), exp(2), exp(4)]
 shapelet_standard_array[3] = [1,2,2,1]
+
 
 assert len(shapelet_standard_array[0])==Shapelet_length, 'Size of defined shapelet array mismatch for shapelet_standard_names and value of  Shapelet_length.please check vector_length'
 
